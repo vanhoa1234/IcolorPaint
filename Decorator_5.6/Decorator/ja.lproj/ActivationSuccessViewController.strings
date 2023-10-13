@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "登録が完了しました\n"; ObjectID = "YTt-5Q-sdt"; */
+"YTt-5Q-sdt.text" = "登録が完了しました\n";
+
+/* Class = "UILabel"; text = "ログインID:\n"; ObjectID = "g3V-PF-5K9"; */
+"g3V-PF-5K9.text" = "ログインID:\n";
+
+/* Class = "UILabel"; text = "登録が完了いたしました。\n"; ObjectID = "iAL-rb-hv8"; */
+"iAL-rb-hv8.text" = "登録が完了いたしました。\n";
+
+/* Class = "UILabel"; text = "ご登録のログインIDでご利用できます。"; ObjectID = "tbV-Ok-L5M"; */
+"tbV-Ok-L5M.text" = "ご登録のログインIDでご利用できます。";
+
+/* Class = "UILabel"; text = "以下よりログインしてご利用ください。\n"; ObjectID = "vbk-5q-Gh1"; */
+"vbk-5q-Gh1.text" = "以下よりログインしてご利用ください。\n";
+
+/* Class = "UIButton"; normalTitle = "ログイン画面へ"; ObjectID = "zxW-aR-o04"; */
+"zxW-aR-o04.normalTitle" = "ログイン画面へ";

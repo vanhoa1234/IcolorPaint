@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "レイアウト"; ObjectID = "4iV-3X-Pwy"; */
+"4iV-3X-Pwy.text" = "Bố cục";
+
+/* Class = "UILabel"; text = "物件名"; ObjectID = "MqA-FJ-eZP"; */
+"MqA-FJ-eZP.text" = "Tên tài sản";
+
+/* Class = "UILabel"; text = "Sao chép/ Xóa"; ObjectID = "SPv-Yd-yob"; */
+"SPv-Yd-yob.text" = "Copy/Xóa";
+
+/* Class = "UILabel"; text = "Trích xuất dữ liệu"; ObjectID = "XE4-Vg-loX"; */
+"XE4-Vg-loX.text" = "Xuất dữ liệu";
+
+/* Class = "UILabel"; text = "シミュレーション"; ObjectID = "hbq-K2-idA"; */
+"hbq-K2-idA.text" = "Mô phỏng";
+
+/* Class = "UILabel"; text = "撮影地"; ObjectID = "qEu-EQ-6ge"; */
+"qEu-EQ-6ge.text" = "Địa điểm";
+
+/* Class = "UILabel"; text = "Trở về"; ObjectID = "sYE-la-3H2"; */
+"sYE-la-3H2.text" = "Trở về";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "uP8-R6-ew8"; */
+"uP8-R6-ew8.text" = "No";

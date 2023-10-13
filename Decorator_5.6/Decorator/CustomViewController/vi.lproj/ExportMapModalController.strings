@@ -1,0 +1,6 @@
+
+/* Class = "UIButton"; normalTitle = "住所表示あり"; ObjectID = "uck-XY-gkw"; */
+"uck-XY-gkw.normalTitle" = "Hiện vị trí";
+
+/* Class = "UIButton"; normalTitle = "住所表示なし"; ObjectID = "xSg-Ie-Ytb"; */
+"xSg-Ie-Ytb.normalTitle" = "Ẩn vị trí";

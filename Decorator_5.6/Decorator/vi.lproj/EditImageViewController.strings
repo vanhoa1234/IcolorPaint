@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Làm lại"; ObjectID = "5Cj-nt-fBk"; */
+"5Cj-nt-fBk.text" = "Làm lại";
+
+/* Class = "UILabel"; text = "Độ sáng / tương phản"; ObjectID = "7JL-cl-IlP"; */
+"7JL-cl-IlP.text" = "Độ sáng / tương phản";
+
+/* Class = "UILabel"; text = "Xem trước"; ObjectID = "8ag-E3-uJu"; */
+"8ag-E3-uJu.text" = "Xem trước";
+
+/* Class = "UILabel"; text = "Masking"; ObjectID = "Bl9-l6-7QR"; */
+"Bl9-l6-7QR.text" = "Masking";
+
+/* Class = "UIButton"; normalTitle = "Hủy bỏ"; ObjectID = "Dg4-xx-GZQ"; */
+"Dg4-xx-GZQ.normalTitle" = "Hủy bỏ";
+
+/* Class = "UIButton"; normalTitle = "Vết bẩn lớn"; ObjectID = "Nba-Ok-1KQ"; */
+"Nba-Ok-1KQ.normalTitle" = "Vết bẩn lớn";
+
+/* Class = "UILabel"; text = "Quay về"; ObjectID = "Ty9-AP-fFh"; */
+"Ty9-AP-fFh.text" = "Quay về";
+
+/* Class = "UILabel"; text = "TOP"; ObjectID = "ZeS-PU-Rta"; */
+"ZeS-PU-Rta.text" = "TOP";
+
+/* Class = "UILabel"; text = "s á n g"; ObjectID = "aDd-p0-cck"; */
+"aDd-p0-cck.text" = "s\ná\nn\ng";
+
+/* Class = "UILabel"; text = "Xóa vết bẩn"; ObjectID = "cEq-cX-M8s"; */
+"cEq-cX-M8s.text" = "Xóa vết bẩn";
+
+/* Class = "UIButton"; normalTitle = "Vết bẩn nhỏ"; ObjectID = "cIT-Cv-ftF"; */
+"cIT-Cv-ftF.normalTitle" = "Vết bẩn nhỏ";
+
+/* Class = "UILabel"; text = "Điều chỉnh xóa vết bẩn"; ObjectID = "h6J-oN-wkK"; */
+"h6J-oN-wkK.text" = "Xóa vết bẩn";
+
+/* Class = "UILabel"; text = "tương phản"; ObjectID = "w5G-RK-D9P"; */
+"w5G-RK-D9P.text" = "tương phản";

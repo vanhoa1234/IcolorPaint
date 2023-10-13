@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "やり直し"; ObjectID = "5Cj-nt-fBk"; */
+"5Cj-nt-fBk.text" = "やり直し";
+
+/* Class = "UILabel"; text = "明るさ・コントラストの調整"; ObjectID = "7JL-cl-IlP"; */
+"7JL-cl-IlP.text" = "明るさ・コントラストの調整";
+
+/* Class = "UILabel"; text = "プレビュー"; ObjectID = "8ag-E3-uJu"; */
+"8ag-E3-uJu.text" = "プレビュー";
+
+/* Class = "UILabel"; text = "マスキング"; ObjectID = "Bl9-l6-7QR"; */
+"Bl9-l6-7QR.text" = "マスキング";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "Dg4-xx-GZQ"; */
+"Dg4-xx-GZQ.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "大きな汚れ"; ObjectID = "Nba-Ok-1KQ"; */
+"Nba-Ok-1KQ.normalTitle" = "大きな汚れ";
+
+/* Class = "UILabel"; text = "元に戻す"; ObjectID = "Ty9-AP-fFh"; */
+"Ty9-AP-fFh.text" = "元に戻す";
+
+/* Class = "UILabel"; text = "トップ"; ObjectID = "ZeS-PU-Rta"; */
+"ZeS-PU-Rta.text" = "トップ";
+
+/* Class = "UILabel"; text = "明るさ"; ObjectID = "aDd-p0-cck"; */
+"aDd-p0-cck.text" = "明るさ";
+
+/* Class = "UILabel"; text = "汚れ消し"; ObjectID = "cEq-cX-M8s"; */
+"cEq-cX-M8s.text" = "汚れ消し";
+
+/* Class = "UIButton"; normalTitle = "小さな汚れ"; ObjectID = "cIT-Cv-ftF"; */
+"cIT-Cv-ftF.normalTitle" = "小さな汚れ";
+
+/* Class = "UILabel"; text = "汚れ除去の調整"; ObjectID = "h6J-oN-wkK"; */
+"h6J-oN-wkK.text" = "汚れ除去の調整";
+
+/* Class = "UILabel"; text = "コントラスト"; ObjectID = "w5G-RK-D9P"; */
+"w5G-RK-D9P.text" = "コントラスト";

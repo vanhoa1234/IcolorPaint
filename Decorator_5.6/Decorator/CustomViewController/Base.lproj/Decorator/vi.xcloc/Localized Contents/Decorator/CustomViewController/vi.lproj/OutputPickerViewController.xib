@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="ipad9_7" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="OutputPickerViewController">
+            <connections>
+                <outlet property="btFacebook" destination="5g6-cu-zUx" id="sSo-a9-1Ky"/>
+                <outlet property="btTwitter" destination="4am-tT-7HG" id="0eu-GK-yI1"/>
+                <outlet property="lbFacebook" destination="bKZ-R1-8yS" id="2L5-Bg-Lu7"/>
+                <outlet property="lbTwitter" destination="31O-xY-VcJ" id="DGX-uX-2Ra"/>
+                <outlet property="segFormat" destination="Wv3-Ey-NNC" id="YIk-4t-6tv"/>
+                <outlet property="view" destination="2" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qXL-Kq-Dd3">
+                    <rect key="frame" x="264" y="358" width="240" height="308"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yda-Di-FqF">
+                            <rect key="frame" x="41" y="105" width="59" height="60"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="59" id="MBb-Dk-uy3"/>
+                                <constraint firstAttribute="height" constant="60" id="lcs-nR-fwW"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" image="email_new.png">
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="emailAction:" destination="-1" eventType="touchUpInside" id="syS-iE-mdS"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UhY-Qi-SYX">
+                            <rect key="frame" x="142" y="105" width="59" height="60"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="59" id="Dgm-aO-RAh"/>
+                                <constraint firstAttribute="height" constant="60" id="FaE-pf-Lp6"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" image="gallery_nokia.png">
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="printAction:" destination="-1" eventType="touchUpInside" id="Agq-9B-Edk"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4am-tT-7HG">
+                            <rect key="frame" x="41" y="199" width="59" height="60"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="60" id="vHL-GS-Sxi"/>
+                                <constraint firstAttribute="width" constant="59" id="xyi-LK-XVG"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" image="twitter3.png">
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="twitterAction:" destination="-1" eventType="touchUpInside" id="5TC-t5-CN7"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5g6-cu-zUx">
+                            <rect key="frame" x="142" y="199" width="59" height="60"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="60" id="MRm-3J-lYn"/>
+                                <constraint firstAttribute="width" constant="59" id="XxR-MH-fZe"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" image="facebook-alt2.png">
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="facebookAction:" destination="-1" eventType="touchUpInside" id="cBc-44-Rde"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lựa chọn phương thức trích xuất" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dvH-vv-mMd">
+                            <rect key="frame" x="6.5" y="17" width="227" height="26"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="26" id="czK-k2-gzO"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mail" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5hm-nV-OZA">
+                            <rect key="frame" x="20" y="173" width="100" height="19.5"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="udL-XS-vpR"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Printer" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Bw-fQ-JmN">
+                            <rect key="frame" x="121" y="173" width="100" height="19.5"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="PRb-Tc-HqP"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Twitter" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="31O-xY-VcJ">
+                            <rect key="frame" x="20" y="267" width="100" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="1U1-Pp-pUE"/>
+                                <constraint firstAttribute="height" constant="21" id="LSw-Ke-0dC"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Facebook" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bKZ-R1-8yS">
+                            <rect key="frame" x="121" y="267" width="100" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="OfC-kw-7oC"/>
+                                <constraint firstAttribute="height" constant="21" id="mPp-3X-hNW"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="Wv3-Ey-NNC">
+                            <rect key="frame" x="30" y="58" width="180" height="32"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="180" id="SWR-LU-YSD"/>
+                            </constraints>
+                            <segments>
+                                <segment title="JPG"/>
+                                <segment title="PDF"/>
+                            </segments>
+                            <connections>
+                                <action selector="selectedOutputType:" destination="-1" eventType="valueChanged" id="laS-xv-PAW"/>
+                            </connections>
+                        </segmentedControl>
+                    </subviews>
+                    <color key="backgroundColor" red="0.85882352941176465" green="0.88627450980392153" blue="0.92941176470588238" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="240" id="0S7-pR-dIr"/>
+                        <constraint firstItem="Wv3-Ey-NNC" firstAttribute="top" secondItem="dvH-vv-mMd" secondAttribute="bottom" constant="15" id="0pd-VV-VRp"/>
+                        <constraint firstItem="5hm-nV-OZA" firstAttribute="leading" secondItem="qXL-Kq-Dd3" secondAttribute="leading" constant="20" id="3S0-ph-BBR"/>
+                        <constraint firstItem="5g6-cu-zUx" firstAttribute="top" secondItem="4Bw-fQ-JmN" secondAttribute="bottom" constant="6.5" id="3VY-eY-ES7"/>
+                        <constraint firstItem="5hm-nV-OZA" firstAttribute="top" secondItem="Yda-Di-FqF" secondAttribute="bottom" constant="8" id="5aM-tW-G8H"/>
+                        <constraint firstItem="Yda-Di-FqF" firstAttribute="leading" secondItem="qXL-Kq-Dd3" secondAttribute="leading" constant="41" id="6G3-iF-Qxh"/>
+                        <constraint firstItem="4Bw-fQ-JmN" firstAttribute="top" secondItem="UhY-Qi-SYX" secondAttribute="bottom" constant="8" id="7ep-5Z-nhB"/>
+                        <constraint firstAttribute="height" constant="308" id="9Vz-hR-oEm"/>
+                        <constraint firstItem="31O-xY-VcJ" firstAttribute="leading" secondItem="qXL-Kq-Dd3" secondAttribute="leading" constant="20" id="Abm-h6-eeW"/>
+                        <constraint firstItem="Wv3-Ey-NNC" firstAttribute="centerX" secondItem="qXL-Kq-Dd3" secondAttribute="centerX" id="AfJ-6N-RgC"/>
+                        <constraint firstItem="UhY-Qi-SYX" firstAttribute="top" secondItem="Wv3-Ey-NNC" secondAttribute="bottom" constant="16" id="B3M-Ca-sss"/>
+                        <constraint firstItem="4Bw-fQ-JmN" firstAttribute="leading" secondItem="5hm-nV-OZA" secondAttribute="trailing" constant="1" id="EGZ-Mt-0C7"/>
+                        <constraint firstItem="5g6-cu-zUx" firstAttribute="leading" secondItem="4am-tT-7HG" secondAttribute="trailing" constant="42" id="IRh-Nw-NLH"/>
+                        <constraint firstItem="4am-tT-7HG" firstAttribute="top" secondItem="5hm-nV-OZA" secondAttribute="bottom" constant="6.5" id="Jxl-hw-huN"/>
+                        <constraint firstItem="UhY-Qi-SYX" firstAttribute="leading" secondItem="Yda-Di-FqF" secondAttribute="trailing" constant="42" id="O1S-yK-JUg"/>
+                        <constraint firstItem="dvH-vv-mMd" firstAttribute="top" secondItem="qXL-Kq-Dd3" secondAttribute="top" constant="17" id="Od6-uA-39t"/>
+                        <constraint firstItem="4am-tT-7HG" firstAttribute="leading" secondItem="qXL-Kq-Dd3" secondAttribute="leading" constant="41" id="P4M-aA-I5g"/>
+                        <constraint firstItem="dvH-vv-mMd" firstAttribute="centerX" secondItem="qXL-Kq-Dd3" secondAttribute="centerX" id="aSD-TC-ym3"/>
+                        <constraint firstItem="Yda-Di-FqF" firstAttribute="top" secondItem="Wv3-Ey-NNC" secondAttribute="bottom" constant="16" id="fQx-VJ-0du"/>
+                        <constraint firstItem="31O-xY-VcJ" firstAttribute="top" secondItem="4am-tT-7HG" secondAttribute="bottom" constant="8" id="h95-cE-2Th"/>
+                        <constraint firstItem="bKZ-R1-8yS" firstAttribute="leading" secondItem="31O-xY-VcJ" secondAttribute="trailing" constant="1" id="mwJ-Zr-rVv"/>
+                        <constraint firstItem="bKZ-R1-8yS" firstAttribute="top" secondItem="5g6-cu-zUx" secondAttribute="bottom" constant="8" id="uIV-Wj-5ys"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="16"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="layer.maskToBounds" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.5" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <gestureRecognizers/>
+            <constraints>
+                <constraint firstItem="qXL-Kq-Dd3" firstAttribute="centerY" secondItem="2" secondAttribute="centerY" id="65d-qS-XnU"/>
+                <constraint firstItem="qXL-Kq-Dd3" firstAttribute="centerX" secondItem="2" secondAttribute="centerX" id="PA0-7w-QMv"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <connections>
+                <outletCollection property="gestureRecognizers" destination="wVj-En-typ" appends="YES" id="R7f-Vd-mbu"/>
+            </connections>
+            <point key="canvasLocation" x="25" y="51.5625"/>
+        </view>
+        <tapGestureRecognizer id="wVj-En-typ">
+            <connections>
+                <action selector="dismiss:" destination="-1" id="AlS-96-uvC"/>
+            </connections>
+        </tapGestureRecognizer>
+    </objects>
+    <resources>
+        <image name="email_new.png" width="59" height="60"/>
+        <image name="facebook-alt2.png" width="59" height="60"/>
+        <image name="gallery_nokia.png" width="59" height="60"/>
+        <image name="twitter3.png" width="59" height="60"/>
+    </resources>
+</document>

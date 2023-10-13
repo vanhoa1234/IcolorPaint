@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A00CA4A9-DC49-44BF-9089-8BA1FDA5132D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Decorator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4B17F626-D3CB-44C8-AE96-323443C321A1</key>
+		<string>http://192.168.0.70/svn/suzukafine</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Trunk/03. Engineering/034. Implementation/Decorator/Decorator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4B17F626-D3CB-44C8-AE96-323443C321A1</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>4B17F626-D3CB-44C8-AE96-323443C321A1</key>
+		<string>http://192.168.0.70/svn/suzukafine</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.0.70/svn/suzukafine/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4B17F626-D3CB-44C8-AE96-323443C321A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>Branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>Tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>Trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4B17F626-D3CB-44C8-AE96-323443C321A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>suzukafine</string>
+		</dict>
+	</array>
+</dict>
+</plist>

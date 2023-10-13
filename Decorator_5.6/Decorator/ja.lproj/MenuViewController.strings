@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "パスワードを忘れた方"; ObjectID = "B3q-9K-tDW"; */
+"B3q-9K-tDW.normalTitle" = "パスワードを忘れた方";
+
+/* Class = "UILabel"; text = "プラン会社名"; ObjectID = "HCA-wE-ckx"; */
+"HCA-wE-ckx.text" = "プラン会社名";
+
+/* Class = "UIButton"; normalTitle = "新規登録"; ObjectID = "K0d-7v-36z"; */
+"K0d-7v-36z.normalTitle" = "新規登録";
+
+/* Class = "UILabel"; text = "メールアドレス"; ObjectID = "KQi-aN-OwH"; */
+"KQi-aN-OwH.text" = "メールアドレス";
+
+/* Class = "UIButton"; normalTitle = "あとで登録"; ObjectID = "MVo-xe-0P6"; */
+"MVo-xe-0P6.normalTitle" = "あとで登録";
+
+/* Class = "UILabel"; text = "３０日間"; ObjectID = "VkG-1N-WCO"; */
+"VkG-1N-WCO.text" = "３０日間";
+
+/* Class = "UIButton"; normalTitle = "使用"; ObjectID = "bkJ-nt-B4t"; */
+"bkJ-nt-B4t.normalTitle" = "使用";
+
+/* Class = "UILabel"; text = "はご登録なしでご利用できます。"; ObjectID = "cda-3F-dYn"; */
+"cda-3F-dYn.text" = "はご登録なしでご利用できます。";
+
+/* Class = "UILabel"; text = "自動保存間隔"; ObjectID = "eh2-Nj-ltz"; */
+"eh2-Nj-ltz.text" = "自動保存間隔";
+
+/* Class = "UIButton"; normalTitle = "再撮影"; ObjectID = "ktU-f1-uPK"; */
+"ktU-f1-uPK.normalTitle" = "再撮影";
+
+/* Class = "UILabel"; text = "パスワード"; ObjectID = "lSu-SS-NvE"; */
+"lSu-SS-NvE.text" = "パスワード";
+
+/* Class = "UILabel"; text = "Version 5.6"; ObjectID = "n94-jq-xDC"; */
+"n94-jq-xDC.text" = "Version 5.6";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "odF-8A-syn"; */
+"odF-8A-syn.normalTitle" = "登録";

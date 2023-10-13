@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "31O-xY-VcJ"; */
+"31O-xY-VcJ.text" = "Twitter";
+
+/* Class = "UILabel"; text = "Printer"; ObjectID = "4Bw-fQ-JmN"; */
+"4Bw-fQ-JmN.text" = "Printer";
+
+/* Class = "UILabel"; text = "Mail"; ObjectID = "5hm-nV-OZA"; */
+"5hm-nV-OZA.text" = "Mail";
+
+/* Class = "UISegmentedControl"; Wv3-Ey-NNC.segmentTitles[0] = "JPG"; ObjectID = "Wv3-Ey-NNC"; */
+"Wv3-Ey-NNC.segmentTitles[0]" = "JPG";
+
+/* Class = "UISegmentedControl"; Wv3-Ey-NNC.segmentTitles[1] = "PDF"; ObjectID = "Wv3-Ey-NNC"; */
+"Wv3-Ey-NNC.segmentTitles[1]" = "PDF";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "bKZ-R1-8yS"; */
+"bKZ-R1-8yS.text" = "Facebook";
+
+/* Class = "UILabel"; text = "出力選択画面"; ObjectID = "dvH-vv-mMd"; */
+"dvH-vv-mMd.text" = "出力選択画面";

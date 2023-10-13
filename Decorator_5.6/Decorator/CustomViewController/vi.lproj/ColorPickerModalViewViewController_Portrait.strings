@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Hỗ trợ phối màu"; ObjectID = "G4R-42-4Kf"; */
+"G4R-42-4Kf.text" = "Hỗ trợ phối màu";
+
+/* Class = "UILabel"; text = "Sơn chống nóng CS Suzuka"; ObjectID = "HX6-nN-izo"; */
+"HX6-nN-izo.text" = "Sơn chống nóng";
+
+/* Class = "UILabel"; text = "Sơn nghệ thuật Si WB"; ObjectID = "KRU-dJ-9Xu"; */
+"KRU-dJ-9Xu.text" = "Sơn Si WB";
+
+/* Class = "UILabel"; text = "Không thiết lập màu sơn"; ObjectID = "LNF-xJ-eFD"; */
+"LNF-xJ-eFD.text" = "Không chọn màu";
+
+/* Class = "UILabel"; text = "Sơn tường Suzuka"; ObjectID = "PtH-lZ-3UV"; */
+"PtH-lZ-3UV.text" = "Sơn tường Suzuka";
+
+/* Class = "UILabel"; text = "Sơn nước nghệ thuật Si"; ObjectID = "Q7A-Ii-U9s"; */
+"Q7A-Ii-U9s.text" = "Sơn nước Si";
+
+/* Class = "UILabel"; text = "Thu nhận màu"; ObjectID = "Sfc-yg-BhN"; */
+"Sfc-yg-BhN.text" = "Lấy màu";
+
+/* Class = "UILabel"; text = "Quay lại"; ObjectID = "c6y-A6-IZX"; */
+"c6y-A6-IZX.text" = "Quay lại";
+
+/* Class = "UILabel"; text = "Màu sắc hiển thị trong ứng dụng này là màu hình ảnh được đo bởi Suzuka Fine. Bởi vì nó có thể khác với màu sơn thực tế."; ObjectID = "eRs-hX-K7B"; */
+"eRs-hX-K7B.text" = "Màu sắc hiển thị trong ứng dụng này là màu hình ảnh được đo bởi Suzuka Fine. Bởi vì nó có thể khác với màu sơn thực tế, khi đặt hàng vui lòng tham khảo bảng màu mẫu.";
+
+/* Class = "UILabel"; text = "Sơn mái Suzuka"; ObjectID = "hNp-cA-zyb"; */
+"hNp-cA-zyb.text" = "Sơn mái Suzuka";
+
+/* Class = "UILabel"; text = "Sơn ngoài trời phiên bản K"; ObjectID = "wZO-Pk-I09"; */
+"wZO-Pk-I09.text" = "Phiên bản K";

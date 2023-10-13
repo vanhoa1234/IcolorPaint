@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "シミュレーションをスムーズに行うため、撮影は正面 から陰影ができないようにフレームに収めてください。"; ObjectID = "3Kx-q9-lc1"; */
+"3Kx-q9-lc1.text" = "Để mô phỏng chính xác, hãy chụp ảnh giữ \ntrong khung để không bị bóng từ phía chính diện";
+
+/* Class = "UILabel"; text = "ガイド表示"; ObjectID = "jVx-c5-Vf1"; */
+"jVx-c5-Vf1.text" = "Hiện hướng dẫn";

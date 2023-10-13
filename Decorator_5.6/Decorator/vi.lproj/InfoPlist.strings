@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Decorator
+
+  Created by Le Hoang on 5/3/20.
+  Copyright © 2020 Hoang Le. All rights reserved.
+*/
+"NSCameraUsageDescription" = "Ứng dụng iColorPaint muốn truy cập vào máy ảnh để chụp ảnh và màu sắc mô phỏng tòa nhà.";
+"NSPhotoLibraryUsageDescription" = "Ứng dụng iColorPaint muốn truy cập vào album ảnh để mô phỏng màu sắc của tòa nhà với bức ảnh được chụp.";
+"NSLocationWhenInUseUsageDescription" = "Ứng dụng iColorPaint muốn truy cập vào vị trí khi chụp ảnh để có thông tin đầy đủ.";
+"NSBluetoothAlwaysUsageDescription" = "Ứng dụng iColorPaint muốn sử dụng bluetooth để gửi thông tin qua các thiết bị khác.";

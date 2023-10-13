@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "2rD-EQ-ghf"; */
+"2rD-EQ-ghf.normalTitle" = "Hủy";
+
+/* Class = "UIButton"; normalTitle = "クラシック"; ObjectID = "53I-ec-y6o"; */
+"53I-ec-y6o.normalTitle" = "Cổ điển";
+
+/* Class = "UIButton"; normalTitle = "エレガント"; ObjectID = "L73-S5-QK9"; */
+"L73-S5-QK9.normalTitle" = "Tao nhã";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "TIU-Fs-vtX"; */
+"TIU-Fs-vtX.text" = "Thoát";
+
+/* Class = "UIButton"; normalTitle = "ナチュラル"; ObjectID = "jra-Ac-WFD"; */
+"jra-Ac-WFD.normalTitle" = "Tự nhiên";
+
+/* Class = "UIButton"; normalTitle = "クール"; ObjectID = "km4-lt-ipX"; */
+"km4-lt-ipX.normalTitle" = "Dịu mát";

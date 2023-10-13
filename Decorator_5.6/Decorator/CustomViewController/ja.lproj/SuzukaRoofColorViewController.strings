@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "ナスコン"; ObjectID = "1P8-lj-hJM"; */
+"1P8-lj-hJM.text" = "ナスコン";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "3zf-iF-6fd"; */
+"3zf-iF-6fd.text" = "屋根用標準色";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "Atp-lU-nmA"; */
+"Atp-lU-nmA.text" = "屋根用標準色";
+
+/* Class = "UILabel"; text = "チャコールグレー"; ObjectID = "BWY-81-sp8"; */
+"BWY-81-sp8.text" = "チャコールグレー";
+
+/* Class = "UILabel"; text = "ブルーブラック"; ObjectID = "Duf-KL-O0d"; */
+"Duf-KL-O0d.text" = "ブルーブラック";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "EMU-5X-Mg3"; */
+"EMU-5X-Mg3.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "モスグリーン"; ObjectID = "Fl5-4g-8kf"; */
+"Fl5-4g-8kf.text" = "モスグリーン";
+
+/* Class = "UILabel"; text = "コバルトブルー"; ObjectID = "J36-W3-ahz"; */
+"J36-W3-ahz.text" = "コバルトブルー";
+
+/* Class = "UILabel"; text = "カカオブラウン"; ObjectID = "KWv-Dm-x9V"; */
+"KWv-Dm-x9V.text" = "カカオブラウン";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "LR2-kr-IFO"; */
+"LR2-kr-IFO.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "ロイヤルブルー"; ObjectID = "T1N-Kr-PdH"; */
+"T1N-Kr-PdH.text" = "ロイヤルブルー";
+
+/* Class = "UILabel"; text = "ブラック"; ObjectID = "U3T-J8-IFC"; */
+"U3T-J8-IFC.text" = "ブラック";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "UHE-cx-fwd"; */
+"UHE-cx-fwd.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "WIx-SN-hRk"; */
+"WIx-SN-hRk.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "ディープグリーン"; ObjectID = "ceV-2k-4ab"; */
+"ceV-2k-4ab.text" = "ディープグリーン";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "ck9-yh-Ys2"; */
+"ck9-yh-Ys2.text" = "戻る";
+
+/* Class = "UILabel"; text = "ニューグレー"; ObjectID = "cpU-OI-1VE"; */
+"cpU-OI-1VE.text" = "ニューグレー";
+
+/* Class = "UILabel"; text = "ダークグレー"; ObjectID = "hiI-fh-ePj"; */
+"hiI-fh-ePj.text" = "ダークグレー";
+
+/* Class = "UILabel"; text = "ブラウン"; ObjectID = "jw3-qY-Anm"; */
+"jw3-qY-Anm.text" = "ブラウン";
+
+/* Class = "UILabel"; text = "レッドブラウン"; ObjectID = "ktW-s6-0nz"; */
+"ktW-s6-0nz.text" = "レッドブラウン";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "quU-Dk-FTa"; */
+"quU-Dk-FTa.text" = "屋根用標準色";
+
+/* Class = "UILabel"; text = "ニューチョコレート"; ObjectID = "r6L-x4-jLV"; */
+"r6L-x4-jLV.text" = "ニューチョコレート";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "xce-Ql-pa5"; */
+"xce-Ql-pa5.text" = "屋根用標準色";
+
+/* Class = "UILabel"; text = "ワインブラウン"; ObjectID = "z92-hF-JBf"; */
+"z92-hF-JBf.text" = "ワインブラウン";
+
+/* Class = "UILabel"; text = "オーシャンブルー"; ObjectID = "zuU-V1-eZc"; */
+"zuU-V1-eZc.text" = "オーシャンブルー";

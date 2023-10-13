@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "スズカ壁用標準色"; ObjectID = "FF5-Hb-H01"; */
+"FF5-Hb-H01.text" = "スズカ壁用標準色";
+
+/* Class = "UILabel"; text = "スズカ屋根用標準色"; ObjectID = "PZb-UI-5jN"; */
+"PZb-UI-5jN.text" = "スズカ屋根用標準色";
+
+/* Class = "UILabel"; text = "水性ジェルアートSi"; ObjectID = "Syn-e8-VAe"; */
+"Syn-e8-VAe.text" = "水性ジェルアートSi";
+
+/* Class = "UILabel"; text = "日塗工K版"; ObjectID = "UbI-sH-39e"; */
+"UbI-sH-39e.text" = "日塗工K版";
+
+/* Class = "UILabel"; text = "色設定なし"; ObjectID = "YUa-Pe-Jbm"; */
+"YUa-Pe-Jbm.text" = "色設定なし";
+
+/* Class = "UILabel"; text = "色取得"; ObjectID = "b3O-lU-ieJ"; */
+"b3O-lU-ieJ.text" = "色取得";
+
+/* Class = "UILabel"; text = "スズカ遮熱用CS版"; ObjectID = "hlz-Jg-vQs"; */
+"hlz-Jg-vQs.text" = "スズカ遮熱用CS版";
+
+/* Class = "UILabel"; text = "WBアートSi"; ObjectID = "ho5-Gv-FxM"; */
+"ho5-Gv-FxM.text" = "WBアートSi";
+
+/* Class = "UILabel"; text = "本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。\n実際の塗料の色とは異なる場合がありますので塗料をご発注する祭には、現物の色票をご確認ください。"; ObjectID = "iXQ-C1-Yc5"; */
+"iXQ-C1-Yc5.text" = "本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。\n実際の塗料の色とは異なる場合がありますので塗料をご発注する祭には、現物の色票をご確認ください。";
+
+/* Class = "UILabel"; text = "配色アシスト"; ObjectID = "tTy-RK-bvQ"; */
+"tTy-RK-bvQ.text" = "配色アシスト";

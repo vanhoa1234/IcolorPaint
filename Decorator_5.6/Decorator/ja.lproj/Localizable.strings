@@ -1,0 +1,253 @@
+/* 
+  Localizable.strings
+  Decorator
+
+  Created by Le Hoang on 2/21/20.
+  Copyright © 2020 Hoang Le. All rights reserved.
+*/
+"10second" = "10秒";
+"30second" = "30秒";
+"1minute" = "1分";
+"2minute" = "2分";
+
+"10secondf" = "10秒";
+"30secondf" = "30秒";
+"1minutef" = "1分";
+"2minutef" = "2分";
+
+"totalday" = "日間";
+"required" = "必須";
+"ok" = "了解";
+"back" = "戻る";
+"continue" = "次へ";
+"passcode" = "セキュリティ－コード";
+
+//"expired_error_msg" = "Thời gian dùng thử đã hết hạn. Đăng ký một tài khoản!";
+"expired_error_msg" = "試用期間が切れました。アカウントを登録してください！";
+
+//"internet_error" = "Vui lòng kiểm tra kết nối internet của bạn và đăng nhập lại";
+"internet_error" = "インターネット接続を確認してから、再度ログインしてください！";
+
+//"gateway_error" = "Không thể kết nối với máy chủ. Vui lòng thử lại!";
+"gateway_error" = "サーバーに接続できません。 もう一度お試しください！";
+
+//"title_autosave" = "Thiết lập thời gian tự động lưu kế hoạch.";
+"title_autosave" = "プランを自動的に保存する時間設定";
+
+//"input_error" = "Nội dung đầu vào không chính xác.";
+"input_error" = "入力内容に誤りがあります。";
+
+//"id_error" = "ID đăng nhập hoặc mật khẩu không chính xác.";
+"id_error" = "ログインIDまたはパスワードが正しくありません。";
+
+//"login_fail" = "Đăng nhập thất bại. Vui lòng thử lại!";
+"login_fail" = "ログイン失敗です。もう一度試してください！";
+
+//"show_guide" = "Hiện hướng dẫn";
+"show_guide" = "ガイド表示";
+
+//"hide_guide" = "Ẩn hướng dẫn";
+"hide_guide" = "ガイド非表示";
+
+//"input_wrong" = "Nhập sai";
+"input_wrong" = "入力が正しくありません";
+
+//"email_sent" = "Email đã gửi. Nó có thể mất một thời gian để gửi thư.";
+"email_sent" = "メールを送信しました。メールの配信にしばらく時間がかかる場合があります。";
+
+//"email_not_exist" = "Không có địa chỉ e-mail đã đăng ký.";
+"email_not_exist" = "入力されたメールアドレスのご登録がありません。";
+
+//"email_send_error" = "Gửi mail không thành công";
+"email_send_error" = "電子メール伝送に成功しません。";
+
+//"email_connection_error" = "Đã xảy ra lỗi trong quá trình gửi thư. Vui lòng thử lại.";
+"email_connection_error" = "メール伝送の時に誤りがありました。再試行してください。";
+
+//"email_incorrect" = "Địa chỉ email không chính xác.";
+"email_incorrect" = "メールアドレスは正しくありません。";
+
+//"email_not_match" = "Địa chỉ email không khớp.";
+"email_not_match" = "メールアドレスが一致しません。";
+
+//"character_require" = "Vui lòng nhập 8-16 ký tự chữ và số.";
+"character_require" = "８〜１６文字の半角英数字でご記入ください。";
+
+//"password_not_match" = "Mật khẩu không khớp.";
+"password_not_match" = "パスワードが一致しません。";
+
+//"search_postal_code" = "Tìm kiếm mã bưu chính";
+"search_postal_code" = "郵便番号検索";
+
+//"other" = "Khác";
+"other" = "その他";
+
+//"owner" = "Chủ đầu tư";
+"owner" = "施　主";
+
+//"goverment" = "VP chính phủ";
+"goverment" = "官公庁";
+
+//"designer" = "Thiết kế";
+"designer" = "設　計";
+
+//"construction" = "Xây dựng";
+"construction" = "建設業";
+
+//"plastering" = "Xây trát";
+"plastering" = "左官業";
+
+//"paint" = "Sơn";
+"paint" = "塗装業";
+
+//"waterproofing" = "Chống thấm";
+"waterproofing" = "防水業";
+
+//"sale_outlet" = "Cửa hàng";
+"sale_outlet" = "販売店";
+
+//"manufacturer" = "Nhà SX";
+"manufacturer" = "メーカー";
+
+//"receive_mail" = "Nhận";
+"receive_mail" = "希望しない";
+
+//"not_receive_mail" = "Không nhận";
+"not_receive_mail" = "希望しない";
+
+//"email_existed" = "Địa chỉ email đã tồn tại. Vui lòng đăng ký một địa chỉ email khác.";
+"email_existed" = "メールアドレスは既存しています。別のメールアドレスを登録してください。";
+
+//"cannot_register" = "Tài khoản của bạn không thể được đăng ký. Vui lòng thử lại.";
+"cannot_register" = "アカウントを登録できませんでした。もう一度お試しください。";
+
+//"id_login" = "ID đăng nhập: ";
+"id_login" = "ログインID: ";
+
+//"activation_expired" = "Mã kích hoạt không chính xác hoặc hết hạn. Vui lòng kiểm tra và thử lại";
+"activation_expired" = "アクティベーションコードが正しくなか又は期限切れです。 確認してから再度試してください";
+
+//"camera" = "Camera";
+"camera" = "カメラロール";
+
+//"album" = "Album";
+"album" = "フォトストリーム";
+
+//"delete" = "Xoá";
+"delete" = "削除";
+
+//"no" = "Không";
+"no" = "いいえ";
+
+//"yes" = "Có";
+"yes" = "はい";
+
+//"replace_color_confirmation" = "Nhiều màu là một màu chỉ có thể được chọn trên bức tường bên ngoài. Nếu thay đổi, dữ liệu màu sẽ bị loại bỏ. Điều đó có ổn không?";
+"replace_color_confirmation" = "多彩色は外壁でのみ選択出来る色です。変更すると色データは破棄されますがよろしいでしょうか？";
+
+//"save_plan_confirmation" = "Lưu dữ liệu đang được tạo?";
+"save_plan_confirmation" = "作成中のデータを保存します";
+
+//"enter_plan_name" = "Vui lòng nhập tên tệp";
+"enter_plan_name" = "ファイル名を入力して下さい";
+
+//"enter_plan_name_description" = "Tên bạn nhập sẽ được hiển thị trên bố cục dưới dạng tên thuộc tính, vì vậy hãy chắc chắn nhập tên";
+"enter_plan_name_description" = "入力した名前は物件名としてレイアウトで表示するので必ず入力して下さい";
+
+//"creating_plan" = "Lưu dữ liệu đang được tạo";
+"creating_plan" = "作成中のデータを保存します";
+
+//"home" = "Biệt thự";
+"home" = "様邸";
+
+//"close" = "Đóng";
+"close" = "閉じる";
+
+//"overwrite_original_image" = "Ghi đè hình ảnh gốc?";
+"overwrite_original_image" = "元画像を上書きしますか？";
+
+//"enter_your_id" = "Nhập tên đăng nhập và mật khẩu của bạn trên màn hình cài đặt ban đầu.";
+"enter_your_id" = "初期設定画面でログイン名、パスワードを入力してください。";
+
+//"cancel" = "Hủy bỏ";
+"cancel" = "キャンセル";
+
+//"copy_confirmation" = "Bạn có muốn sao chép?";
+"copy_confirmation" = "コピーしますか？";
+
+//"delete_confirmation" = "Bạn có muốn xóa nó?";
+"delete_confirmation" = "削除しますか？";
+
+//"input_not_correct" = "Nội dung đầu vào không chính xác.";
+"input_not_correct" = "入力内容に誤りがあります。";
+
+//"send_mail" = "Gửi email";
+"send_mail" = "Mailで出力";
+
+//"send_bluetooth" = "Gửi bluetooth";
+"send_bluetooth" = "Bluetoothで出力";
+
+//"enter_your_id_password" = "Nhập tên đăng nhập và mật khẩu của bạn trên màn hình đăng ký đặt hàng bảng vẽ.";
+"enter_your_id_password" = "塗板発注登録画面でログイン名、パスワードを入力してください。";
+
+//"before_process" = "Trước khi thi công";
+"before_process" = "施工前";
+
+//"house_name" = "Tên tài sản: ";
+"house_name" = "物件名: ";
+
+//"create_at" = "Ngày tạo: ";
+"create_at" = "作成日: ";
+//NSLocalizedString(@"", nil)
+
+"外壁①" = "外壁①";
+"外壁②" = "外壁②";
+"外壁③" = "外壁③";
+"屋根" = "屋根";
+"軒裏" = "軒裏";
+"雨樋" = "雨樋";
+"金属" = "金属";
+"その他①" = "その他①";
+"その他②" = "その他②";
+"その他③" = "その他③";
+"未設定" = "未設定";
+
+"スズカ遮熱用CS版" = "スズカ遮熱用CS版";
+"日塗工K版" = "日塗工K版";
+"スズカ壁用標準色" = "スズカ壁用標準色";
+"スズカ屋根用標準色" = "スズカ屋根用標準色";
+
+"update_account_title" = "登録情報変更";
+"update_account" = "更新";
+"update_account_error" = "インターネット接続を確認してから、 更新ボタンを再度押してください!";
+
+"pen_width" = "ペンの太さ";
+"eraser_width" = "消しゴムの大きさ";
+
+"select_color" = "選択色";
+
+"︻石材調小柄︼" = "︻石材調小柄︼";
+"︻石材調中柄︼" = "︻石材調中柄︼";
+"︻タイル調︼" = "︻タイル調︼";
+"︻石材調大柄︼" = "︻石材調大柄︼";
+
+"選択" = "選択";
+
+"ディープグリーン" = "ディープグリーン" ;
+"モスグリーン" = "モスグリーン";
+"ブラウン" = "ブラウン";
+"ダークグレー" = "ダークグレー";
+"レッドブラウン" = "レッドブラウン";
+"ニューチョコレート" = "ニューチョコレート";
+"ワインブラウン" = "ワインブラウン";
+"カカオブラウン" = "カカオブラウン";
+"オーシャンブルー" = "オーシャンブルー";
+"コバルトブルー" = "コバルトブルー";
+"ロイヤルブルー" = "ロイヤルブルー";
+"ナスコン" = "ナスコン";
+"ニューグレー" = "ニューグレー";
+"チャコールグレー" = "チャコールグレー";
+"ブルーブラック" = "ブルーブラック";
+"ブラック" = "ブラック";
+
+"banner_url" = "https://www.suzukafine.co.jp";

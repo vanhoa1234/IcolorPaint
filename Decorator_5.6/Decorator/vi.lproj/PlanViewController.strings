@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "保存"; ObjectID = "6"; */
+"6.text" = "Lưu lại";
+
+/* Class = "UILabel"; text = "元に戻す"; ObjectID = "8"; */
+"8.text" = "Quay về";
+
+/* Class = "UILabel"; text = "やり直し"; ObjectID = "10"; */
+"10.text" = "Làm lại";
+
+/* Class = "UILabel"; text = "プラン追加"; ObjectID = "16"; */
+"16.text" = "Thêm";
+
+/* Class = "UILabel"; text = "プラン削除"; ObjectID = "18"; */
+"18.text" = "Xóa";
+
+/* Class = "UILabel"; text = "レイアウト"; ObjectID = "20"; */
+"20.text" = "Layout";
+
+/* Class = "UILabel"; text = "画像修正"; ObjectID = "22"; */
+"22.text" = "Sửa ảnh";
+
+/* Class = "UILabel"; text = "トップ"; ObjectID = "24"; */
+"24.text" = "TOP";
+
+/* Class = "UILabel"; text = "部位"; ObjectID = "31"; */
+"31.text" = "Loại";
+
+/* Class = "UILabel"; text = "色"; ObjectID = "32"; */
+"32.text" = "Màu";
+
+/* Class = "UILabel"; text = "ペンの太さ"; ObjectID = "6cB-KM-FCq"; */
+"6cB-KM-FCq.text" = "Độ dày bút";
+
+/* Class = "UILabel"; text = "透過度"; ObjectID = "Bwh-0M-VFQ"; */
+"Bwh-0M-VFQ.text" = "Độ trong suốt";
+
+/* Class = "UILabel"; text = "消す"; ObjectID = "EKG-j5-Nt9"; */
+"EKG-j5-Nt9.text" = "Xóa";
+
+/* Class = "UIButton"; normalTitle = " 採用"; ObjectID = "J80-Er-t0y"; */
+"J80-Er-t0y.normalTitle" = " Chọn";
+
+/* Class = "UILabel"; text = "自動選択エリア"; ObjectID = "Js9-ze-YL9"; */
+"Js9-ze-YL9.text" = "Lựa chọn tự động";
+
+/* Class = "UIButton"; normalTitle = "取り消し"; ObjectID = "Qk4-I8-hto"; */
+"Qk4-I8-hto.normalTitle" = "Hủy bỏ";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "bo7-Fe-pes"; */
+"bo7-Fe-pes.normalTitle" = "Xong";
+
+/* Class = "UILabel"; text = "描く"; ObjectID = "zTC-9Q-fry"; */
+"zTC-9Q-fry.text" = "Vẽ";

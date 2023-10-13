@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel
+END
+JSONModelArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModelArray.h
+END
+JSONModelError.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModelError.m
+END
+JSONModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModel.h
+END
+JSONModelClassProperty.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModelClassProperty.m
+END
+JSONModel+CoreData.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModel+CoreData.m
+END
+JSONModelArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModelArray.m
+END
+JSONModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModel.m
+END
+JSONModelError.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModelError.h
+END
+JSONModelClassProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModelClassProperty.h
+END
+JSONModel+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/suzukafine/!svn/ver/344/Trunk/03.%20Engineering/034.%20Implementation/Decorator/Decorator/Library/JSONModel/JSONModel/JSONModel+CoreData.h
+END

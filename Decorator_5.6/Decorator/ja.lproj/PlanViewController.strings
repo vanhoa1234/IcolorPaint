@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "保存"; ObjectID = "6"; */
+"6.text" = "保存";
+
+/* Class = "UILabel"; text = "元に戻す"; ObjectID = "8"; */
+"8.text" = "元に戻す";
+
+/* Class = "UILabel"; text = "やり直し"; ObjectID = "10"; */
+"10.text" = "やり直し";
+
+/* Class = "UILabel"; text = "プラン追加"; ObjectID = "16"; */
+"16.text" = "プラン追加";
+
+/* Class = "UILabel"; text = "プラン削除"; ObjectID = "18"; */
+"18.text" = "プラン削除";
+
+/* Class = "UILabel"; text = "レイアウト"; ObjectID = "20"; */
+"20.text" = "レイアウト";
+
+/* Class = "UILabel"; text = "画像修正"; ObjectID = "22"; */
+"22.text" = "画像修正";
+
+/* Class = "UILabel"; text = "トップ"; ObjectID = "24"; */
+"24.text" = "トップ";
+
+/* Class = "UILabel"; text = "部位"; ObjectID = "31"; */
+"31.text" = "部位";
+
+/* Class = "UILabel"; text = "色"; ObjectID = "32"; */
+"32.text" = "色";
+
+/* Class = "UILabel"; text = "ペンの太さ"; ObjectID = "6cB-KM-FCq"; */
+"6cB-KM-FCq.text" = "ペンの太さ";
+
+/* Class = "UILabel"; text = "透過度"; ObjectID = "Bwh-0M-VFQ"; */
+"Bwh-0M-VFQ.text" = "透過度";
+
+/* Class = "UILabel"; text = "消す"; ObjectID = "EKG-j5-Nt9"; */
+"EKG-j5-Nt9.text" = "消す";
+
+/* Class = "UIButton"; normalTitle = " 採用"; ObjectID = "J80-Er-t0y"; */
+"J80-Er-t0y.normalTitle" = " 採用";
+
+/* Class = "UILabel"; text = "自動選択エリア"; ObjectID = "Js9-ze-YL9"; */
+"Js9-ze-YL9.text" = "自動選択エリア";
+
+/* Class = "UIButton"; normalTitle = "取り消し"; ObjectID = "Qk4-I8-hto"; */
+"Qk4-I8-hto.normalTitle" = "取り消し";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "bo7-Fe-pes"; */
+"bo7-Fe-pes.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "描く"; ObjectID = "zTC-9Q-fry"; */
+"zTC-9Q-fry.text" = "描く";

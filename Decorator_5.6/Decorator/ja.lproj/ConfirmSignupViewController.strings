@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "役職名"; ObjectID = "3Qi-WN-PPx"; */
+"3Qi-WN-PPx.text" = "役職名";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "4o0-ny-xfG"; */
+"4o0-ny-xfG.text" = "-";
+
+/* Class = "UILabel"; text = "業種"; ObjectID = "60L-3c-xce"; */
+"60L-3c-xce.text" = "業種";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "8dV-jX-e3M"; */
+"8dV-jX-e3M.text" = "-";
+
+/* Class = "UILabel"; text = "建物名・部屋番号"; ObjectID = "AwM-1h-KQc"; */
+"AwM-1h-KQc.text" = "建物名・部屋番号";
+
+/* Class = "UILabel"; text = "郵便番号"; ObjectID = "IWU-nF-QrB"; */
+"IWU-nF-QrB.text" = "郵便番号";
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "Ich-CJ-Y2w"; */
+"Ich-CJ-Y2w.normalTitle" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "K9T-uQ-dct"; */
+"K9T-uQ-dct.normalTitle" = "登録";
+
+/* Class = "UILabel"; text = "〒"; ObjectID = "KYO-vi-qK3"; */
+"KYO-vi-qK3.text" = "〒";
+
+/* Class = "UILabel"; text = "部署名"; ObjectID = "MgE-uf-z0C"; */
+"MgE-uf-z0C.text" = "部署名";
+
+/* Class = "UILabel"; text = "新規登録"; ObjectID = "NoP-AY-Xfo"; */
+"NoP-AY-Xfo.text" = "新規登録";
+
+/* Class = "UILabel"; text = "電話番号"; ObjectID = "Qts-qC-vkD"; */
+"Qts-qC-vkD.text" = "電話番号";
+
+/* Class = "UILabel"; text = "メイ"; ObjectID = "RcV-RR-JOG"; */
+"RcV-RR-JOG.text" = "メイ";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "S7f-PM-JfM"; */
+"S7f-PM-JfM.text" = "-";
+
+/* Class = "UILabel"; text = "FAX番号"; ObjectID = "TrO-X4-TxU"; */
+"TrO-X4-TxU.text" = "FAX番号";
+
+/* Class = "UILabel"; text = "パスワード"; ObjectID = "Vhh-cJ-98n"; */
+"Vhh-cJ-98n.text" = "パスワード";
+
+/* Class = "UILabel"; text = "姓"; ObjectID = "WMn-M8-5Tk"; */
+"WMn-M8-5Tk.text" = "姓";
+
+/* Class = "UILabel"; text = "内容をご確認いただき、登録ボタンを押してください。"; ObjectID = "YHq-KI-UiC"; */
+"YHq-KI-UiC.text" = "内容をご確認いただき、登録ボタンを押してください。";
+
+/* Class = "UILabel"; text = "お客様情報入力"; ObjectID = "bi5-V4-wfG"; */
+"bi5-V4-wfG.text" = "お客様情報入力";
+
+/* Class = "UILabel"; text = "氏名（漢字）"; ObjectID = "dK3-dC-8zD"; */
+"dK3-dC-8zD.text" = "氏名（漢字）";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "dWM-JO-nZL"; */
+"dWM-JO-nZL.text" = "-";
+
+/* Class = "UILabel"; text = "セイ"; ObjectID = "hk0-LA-dOJ"; */
+"hk0-LA-dOJ.text" = "セイ";
+
+/* Class = "UILabel"; text = "案内メール"; ObjectID = "ikj-q7-ow9"; */
+"ikj-q7-ow9.text" = "案内メール";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "j3p-gH-dCo"; */
+"j3p-gH-dCo.text" = "-";
+
+/* Class = "UILabel"; text = "会社・組織・団体名"; ObjectID = "jEf-A3-ya8"; */
+"jEf-A3-ya8.text" = "会社・組織・団体名";
+
+/* Class = "UILabel"; text = "メールアドレス\n(ID)"; ObjectID = "pMx-85-TR0"; */
+"pMx-85-TR0.text" = "メールアドレス\n(ID)";
+
+/* Class = "UILabel"; text = "住所"; ObjectID = "qfQ-oh-t7v"; */
+"qfQ-oh-t7v.text" = "住所";
+
+/* Class = "UILabel"; text = "氏名（フリガナ）"; ObjectID = "u1U-wl-olt"; */
+"u1U-wl-olt.text" = "氏名（フリガナ）";
+
+/* Class = "UILabel"; text = "当社からの製品情報などのメールを希望する。"; ObjectID = "xN6-Xx-0ZK"; */
+"xN6-Xx-0ZK.text" = "当社からの製品情報などのメールを希望する。";
+
+/* Class = "UILabel"; text = "名"; ObjectID = "xOm-GO-XEf"; */
+"xOm-GO-XEf.text" = "名";

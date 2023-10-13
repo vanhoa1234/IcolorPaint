@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "A370"; ObjectID = "0qx-IH-JbA"; */
+"0qx-IH-JbA.text" = "A370";
+
+/* Class = "UILabel"; text = "A322"; ObjectID = "1WR-sv-pYj"; */
+"1WR-sv-pYj.text" = "A322";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "1Zg-5y-Glo"; */
+"1Zg-5y-Glo.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "A263"; ObjectID = "7jj-dX-0hK"; */
+"7jj-dX-0hK.text" = "A263";
+
+/* Class = "UILabel"; text = "A303"; ObjectID = "BbB-Ep-wPh"; */
+"BbB-Ep-wPh.text" = "A303";
+
+/* Class = "UILabel"; text = "A428"; ObjectID = "DaD-jZ-ZN6"; */
+"DaD-jZ-ZN6.text" = "A428";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "Ef0-Fk-roV"; */
+"Ef0-Fk-roV.text" = "戻る";
+
+/* Class = "UILabel"; text = "A273"; ObjectID = "FgM-62-xgA"; */
+"FgM-62-xgA.text" = "A273";
+
+/* Class = "UILabel"; text = "A352"; ObjectID = "Fug-mw-kEA"; */
+"Fug-mw-kEA.text" = "A352";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "GTt-IB-qeW"; */
+"GTt-IB-qeW.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "GjV-BJ-kn9"; */
+"GjV-BJ-kn9.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "A350"; ObjectID = "IgJ-oj-Mot"; */
+"IgJ-oj-Mot.text" = "A350";
+
+/* Class = "UILabel"; text = "A261"; ObjectID = "Jgr-fX-1np"; */
+"Jgr-fX-1np.text" = "A261";
+
+/* Class = "UILabel"; text = "A320"; ObjectID = "Pgi-bL-N3B"; */
+"Pgi-bL-N3B.text" = "A320";
+
+/* Class = "UILabel"; text = "A411"; ObjectID = "U0C-bL-PJA"; */
+"U0C-bL-PJA.text" = "A411";
+
+/* Class = "UILabel"; text = "A260"; ObjectID = "W0K-eA-n5H"; */
+"W0K-eA-n5H.text" = "A260";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "XGE-I0-A1H"; */
+"XGE-I0-A1H.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "A500"; ObjectID = "Xdh-13-n9a"; */
+"Xdh-13-n9a.text" = "A500";
+
+/* Class = "UILabel"; text = "A602"; ObjectID = "Yli-GJ-Jhv"; */
+"Yli-GJ-Jhv.text" = "A602";
+
+/* Class = "UILabel"; text = "A455"; ObjectID = "Ynk-bW-3x0"; */
+"Ynk-bW-3x0.text" = "A455";
+
+/* Class = "UILabel"; text = "A201"; ObjectID = "Z6i-yh-lek"; */
+"Z6i-yh-lek.text" = "A201";
+
+/* Class = "UILabel"; text = "A271"; ObjectID = "b36-Xe-UL8"; */
+"b36-Xe-UL8.text" = "A271";
+
+/* Class = "UILabel"; text = "A305"; ObjectID = "daU-So-9bp"; */
+"daU-So-9bp.text" = "A305";
+
+/* Class = "UILabel"; text = "A272"; ObjectID = "eAm-hR-XiM"; */
+"eAm-hR-XiM.text" = "A272";
+
+/* Class = "UILabel"; text = "A470"; ObjectID = "fPp-EK-rm9"; */
+"fPp-EK-rm9.text" = "A470";
+
+/* Class = "UILabel"; text = "A650"; ObjectID = "ft1-sX-U1t"; */
+"ft1-sX-U1t.text" = "A650";
+
+/* Class = "UILabel"; text = "A471"; ObjectID = "g2o-RH-vod"; */
+"g2o-RH-vod.text" = "A471";
+
+/* Class = "UILabel"; text = "A403"; ObjectID = "g5k-P2-8p6"; */
+"g5k-P2-8p6.text" = "A403";
+
+/* Class = "UILabel"; text = "A021"; ObjectID = "gVw-5T-PTR"; */
+"gVw-5T-PTR.text" = "A021";
+
+/* Class = "UILabel"; text = "A419"; ObjectID = "gXV-Do-hAo"; */
+"gXV-Do-hAo.text" = "A419";
+
+/* Class = "UILabel"; text = "A607"; ObjectID = "hMK-hb-wqs"; */
+"hMK-hb-wqs.text" = "A607";
+
+/* Class = "UILabel"; text = "A652"; ObjectID = "iow-Gd-GIE"; */
+"iow-Gd-GIE.text" = "A652";
+
+/* Class = "UILabel"; text = "A417"; ObjectID = "kCm-eA-cQn"; */
+"kCm-eA-cQn.text" = "A417";
+
+/* Class = "UILabel"; text = "A005"; ObjectID = "kPa-kr-irl"; */
+"kPa-kr-irl.text" = "A005";
+
+/* Class = "UILabel"; text = "A359"; ObjectID = "lcs-nk-28r"; */
+"lcs-nk-28r.text" = "A359";
+
+/* Class = "UILabel"; text = "A401"; ObjectID = "m2j-rg-mvF"; */
+"m2j-rg-mvF.text" = "A401";
+
+/* Class = "UILabel"; text = "A013"; ObjectID = "ohM-w7-qAf"; */
+"ohM-w7-qAf.text" = "A013";
+
+/* Class = "UILabel"; text = "A009"; ObjectID = "qhh-34-52D"; */
+"qhh-34-52D.text" = "A009";
+
+/* Class = "UILabel"; text = "A358"; ObjectID = "rGm-Q4-ub2"; */
+"rGm-Q4-ub2.text" = "A358";
+
+/* Class = "UILabel"; text = "A010"; ObjectID = "rYf-3Z-ei3"; */
+"rYf-3Z-ei3.text" = "A010";
+
+/* Class = "UILabel"; text = "A020"; ObjectID = "s2c-LD-iiH"; */
+"s2c-LD-iiH.text" = "A020";
+
+/* Class = "UILabel"; text = "A420"; ObjectID = "uAh-72-P6n"; */
+"uAh-72-P6n.text" = "A420";
+
+/* Class = "UILabel"; text = "A001"; ObjectID = "vj8-lK-Icg"; */
+"vj8-lK-Icg.text" = "A001";
+
+/* Class = "UILabel"; text = "A204"; ObjectID = "xjb-5Z-7wd"; */
+"xjb-5Z-7wd.text" = "A204";
+
+/* Class = "UILabel"; text = "A002"; ObjectID = "zVr-fN-AJ5"; */
+"zVr-fN-AJ5.text" = "A002";

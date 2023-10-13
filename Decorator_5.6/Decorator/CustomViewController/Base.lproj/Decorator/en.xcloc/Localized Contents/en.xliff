@@ -1,0 +1,2894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Decorator/Base.lproj/ActivationSuccessViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="YTt-5Q-sdt.text" xml:space="preserve">
+        <source>登録が完了しました
+</source>
+        <target>登録が完了しました
+</target>
+        <note>Class = "UILabel"; text = "登録が完了しました\n"; ObjectID = "YTt-5Q-sdt";</note>
+      </trans-unit>
+      <trans-unit id="g3V-PF-5K9.text" xml:space="preserve">
+        <source>ログインID:
+</source>
+        <target>ログインID:
+</target>
+        <note>Class = "UILabel"; text = "ログインID:\n"; ObjectID = "g3V-PF-5K9";</note>
+      </trans-unit>
+      <trans-unit id="iAL-rb-hv8.text" xml:space="preserve">
+        <source>登録が完了いたしました。
+</source>
+        <target>登録が完了いたしました。
+</target>
+        <note>Class = "UILabel"; text = "登録が完了いたしました。\n"; ObjectID = "iAL-rb-hv8";</note>
+      </trans-unit>
+      <trans-unit id="tbV-Ok-L5M.text" xml:space="preserve">
+        <source>ご登録のログインIDでご利用できます。</source>
+        <target>ご登録のログインIDでご利用できます。</target>
+        <note>Class = "UILabel"; text = "ご登録のログインIDでご利用できます。"; ObjectID = "tbV-Ok-L5M";</note>
+      </trans-unit>
+      <trans-unit id="vbk-5q-Gh1.text" xml:space="preserve">
+        <source>以下よりログインしてご利用ください。
+</source>
+        <target>以下よりログインしてご利用ください。
+</target>
+        <note>Class = "UILabel"; text = "以下よりログインしてご利用ください。\n"; ObjectID = "vbk-5q-Gh1";</note>
+      </trans-unit>
+      <trans-unit id="zxW-aR-o04.normalTitle" xml:space="preserve">
+        <source>ログイン画面へ</source>
+        <target>ログイン画面へ</target>
+        <note>Class = "UIButton"; normalTitle = "ログイン画面へ"; ObjectID = "zxW-aR-o04";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/AlbumViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="eHj-fm-t72.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "eHj-fm-t72";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/CameraViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="jVx-c5-Vf1.text" xml:space="preserve">
+        <source>ガイド表示</source>
+        <target>ガイド表示</target>
+        <note>Class = "UILabel"; text = "ガイド表示"; ObjectID = "jVx-c5-Vf1";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/ConfirmSignupViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="3Qi-WN-PPx.text" xml:space="preserve">
+        <source>役職名</source>
+        <target>役職名</target>
+        <note>Class = "UILabel"; text = "役職名"; ObjectID = "3Qi-WN-PPx";</note>
+      </trans-unit>
+      <trans-unit id="4o0-ny-xfG.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "4o0-ny-xfG";</note>
+      </trans-unit>
+      <trans-unit id="8dV-jX-e3M.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "8dV-jX-e3M";</note>
+      </trans-unit>
+      <trans-unit id="60L-3c-xce.text" xml:space="preserve">
+        <source>業種</source>
+        <target>業種</target>
+        <note>Class = "UILabel"; text = "業種"; ObjectID = "60L-3c-xce";</note>
+      </trans-unit>
+      <trans-unit id="AwM-1h-KQc.text" xml:space="preserve">
+        <source>建物名・部屋番号</source>
+        <target>建物名・部屋番号</target>
+        <note>Class = "UILabel"; text = "建物名・部屋番号"; ObjectID = "AwM-1h-KQc";</note>
+      </trans-unit>
+      <trans-unit id="IWU-nF-QrB.text" xml:space="preserve">
+        <source>郵便番号</source>
+        <target>郵便番号</target>
+        <note>Class = "UILabel"; text = "郵便番号"; ObjectID = "IWU-nF-QrB";</note>
+      </trans-unit>
+      <trans-unit id="Ich-CJ-Y2w.normalTitle" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "戻る"; ObjectID = "Ich-CJ-Y2w";</note>
+      </trans-unit>
+      <trans-unit id="K9T-uQ-dct.normalTitle" xml:space="preserve">
+        <source>登録</source>
+        <target>登録</target>
+        <note>Class = "UIButton"; normalTitle = "登録"; ObjectID = "K9T-uQ-dct";</note>
+      </trans-unit>
+      <trans-unit id="KYO-vi-qK3.text" xml:space="preserve">
+        <source>〒</source>
+        <target>〒</target>
+        <note>Class = "UILabel"; text = "〒"; ObjectID = "KYO-vi-qK3";</note>
+      </trans-unit>
+      <trans-unit id="MgE-uf-z0C.text" xml:space="preserve">
+        <source>部署名</source>
+        <target>部署名</target>
+        <note>Class = "UILabel"; text = "部署名"; ObjectID = "MgE-uf-z0C";</note>
+      </trans-unit>
+      <trans-unit id="NoP-AY-Xfo.text" xml:space="preserve">
+        <source>新規登録</source>
+        <target>新規登録</target>
+        <note>Class = "UILabel"; text = "新規登録"; ObjectID = "NoP-AY-Xfo";</note>
+      </trans-unit>
+      <trans-unit id="Qts-qC-vkD.text" xml:space="preserve">
+        <source>電話番号</source>
+        <target>電話番号</target>
+        <note>Class = "UILabel"; text = "電話番号"; ObjectID = "Qts-qC-vkD";</note>
+      </trans-unit>
+      <trans-unit id="RcV-RR-JOG.text" xml:space="preserve">
+        <source>メイ</source>
+        <target>メイ</target>
+        <note>Class = "UILabel"; text = "メイ"; ObjectID = "RcV-RR-JOG";</note>
+      </trans-unit>
+      <trans-unit id="S7f-PM-JfM.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "S7f-PM-JfM";</note>
+      </trans-unit>
+      <trans-unit id="TrO-X4-TxU.text" xml:space="preserve">
+        <source>FAX番号</source>
+        <target>FAX番号</target>
+        <note>Class = "UILabel"; text = "FAX番号"; ObjectID = "TrO-X4-TxU";</note>
+      </trans-unit>
+      <trans-unit id="Vhh-cJ-98n.text" xml:space="preserve">
+        <source>パスワード</source>
+        <target>パスワード</target>
+        <note>Class = "UILabel"; text = "パスワード"; ObjectID = "Vhh-cJ-98n";</note>
+      </trans-unit>
+      <trans-unit id="WMn-M8-5Tk.text" xml:space="preserve">
+        <source>姓</source>
+        <target>姓</target>
+        <note>Class = "UILabel"; text = "姓"; ObjectID = "WMn-M8-5Tk";</note>
+      </trans-unit>
+      <trans-unit id="YHq-KI-UiC.text" xml:space="preserve">
+        <source>内容をご確認いただき、登録ボタンを押してください。</source>
+        <target>内容をご確認いただき、登録ボタンを押してください。</target>
+        <note>Class = "UILabel"; text = "内容をご確認いただき、登録ボタンを押してください。"; ObjectID = "YHq-KI-UiC";</note>
+      </trans-unit>
+      <trans-unit id="bi5-V4-wfG.text" xml:space="preserve">
+        <source>お客様情報入力</source>
+        <target>お客様情報入力</target>
+        <note>Class = "UILabel"; text = "お客様情報入力"; ObjectID = "bi5-V4-wfG";</note>
+      </trans-unit>
+      <trans-unit id="dK3-dC-8zD.text" xml:space="preserve">
+        <source>氏名（漢字）</source>
+        <target>氏名（漢字）</target>
+        <note>Class = "UILabel"; text = "氏名（漢字）"; ObjectID = "dK3-dC-8zD";</note>
+      </trans-unit>
+      <trans-unit id="dWM-JO-nZL.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "dWM-JO-nZL";</note>
+      </trans-unit>
+      <trans-unit id="hk0-LA-dOJ.text" xml:space="preserve">
+        <source>セイ</source>
+        <target>セイ</target>
+        <note>Class = "UILabel"; text = "セイ"; ObjectID = "hk0-LA-dOJ";</note>
+      </trans-unit>
+      <trans-unit id="ikj-q7-ow9.text" xml:space="preserve">
+        <source>案内メール</source>
+        <target>案内メール</target>
+        <note>Class = "UILabel"; text = "案内メール"; ObjectID = "ikj-q7-ow9";</note>
+      </trans-unit>
+      <trans-unit id="j3p-gH-dCo.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "j3p-gH-dCo";</note>
+      </trans-unit>
+      <trans-unit id="jEf-A3-ya8.text" xml:space="preserve">
+        <source>会社・組織・団体名</source>
+        <target>会社・組織・団体名</target>
+        <note>Class = "UILabel"; text = "会社・組織・団体名"; ObjectID = "jEf-A3-ya8";</note>
+      </trans-unit>
+      <trans-unit id="pMx-85-TR0.text" xml:space="preserve">
+        <source>メールアドレス
+(ID)</source>
+        <target>メールアドレス
+(ID)</target>
+        <note>Class = "UILabel"; text = "メールアドレス\n(ID)"; ObjectID = "pMx-85-TR0";</note>
+      </trans-unit>
+      <trans-unit id="qfQ-oh-t7v.text" xml:space="preserve">
+        <source>住所</source>
+        <target>住所</target>
+        <note>Class = "UILabel"; text = "住所"; ObjectID = "qfQ-oh-t7v";</note>
+      </trans-unit>
+      <trans-unit id="u1U-wl-olt.text" xml:space="preserve">
+        <source>氏名（フリガナ）</source>
+        <target>氏名（フリガナ）</target>
+        <note>Class = "UILabel"; text = "氏名（フリガナ）"; ObjectID = "u1U-wl-olt";</note>
+      </trans-unit>
+      <trans-unit id="xN6-Xx-0ZK.text" xml:space="preserve">
+        <source>当社からの製品情報などのメールを希望する。</source>
+        <target>当社からの製品情報などのメールを希望する。</target>
+        <note>Class = "UILabel"; text = "当社からの製品情報などのメールを希望する。"; ObjectID = "xN6-Xx-0ZK";</note>
+      </trans-unit>
+      <trans-unit id="xOm-GO-XEf.text" xml:space="preserve">
+        <source>名</source>
+        <target>名</target>
+        <note>Class = "UILabel"; text = "名"; ObjectID = "xOm-GO-XEf";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/EditImageViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="5Cj-nt-fBk.text" xml:space="preserve">
+        <source>やり直し</source>
+        <target>やり直し</target>
+        <note>Class = "UILabel"; text = "やり直し"; ObjectID = "5Cj-nt-fBk";</note>
+      </trans-unit>
+      <trans-unit id="7JL-cl-IlP.text" xml:space="preserve">
+        <source>明るさ・コントラストの調整</source>
+        <target>明るさ・コントラストの調整</target>
+        <note>Class = "UILabel"; text = "明るさ・コントラストの調整"; ObjectID = "7JL-cl-IlP";</note>
+      </trans-unit>
+      <trans-unit id="8ag-E3-uJu.text" xml:space="preserve">
+        <source>プレビュー</source>
+        <target>プレビュー</target>
+        <note>Class = "UILabel"; text = "プレビュー"; ObjectID = "8ag-E3-uJu";</note>
+      </trans-unit>
+      <trans-unit id="Bl9-l6-7QR.text" xml:space="preserve">
+        <source>マスキング</source>
+        <target>マスキング</target>
+        <note>Class = "UILabel"; text = "マスキング"; ObjectID = "Bl9-l6-7QR";</note>
+      </trans-unit>
+      <trans-unit id="Dg4-xx-GZQ.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "Dg4-xx-GZQ";</note>
+      </trans-unit>
+      <trans-unit id="Nba-Ok-1KQ.normalTitle" xml:space="preserve">
+        <source>大きな汚れ</source>
+        <target>大きな汚れ</target>
+        <note>Class = "UIButton"; normalTitle = "大きな汚れ"; ObjectID = "Nba-Ok-1KQ";</note>
+      </trans-unit>
+      <trans-unit id="Ty9-AP-fFh.text" xml:space="preserve">
+        <source>元に戻す</source>
+        <target>元に戻す</target>
+        <note>Class = "UILabel"; text = "元に戻す"; ObjectID = "Ty9-AP-fFh";</note>
+      </trans-unit>
+      <trans-unit id="ZeS-PU-Rta.text" xml:space="preserve">
+        <source>トップ</source>
+        <target>トップ</target>
+        <note>Class = "UILabel"; text = "トップ"; ObjectID = "ZeS-PU-Rta";</note>
+      </trans-unit>
+      <trans-unit id="aDd-p0-cck.text" xml:space="preserve">
+        <source>明るさ</source>
+        <target>明るさ</target>
+        <note>Class = "UILabel"; text = "明るさ"; ObjectID = "aDd-p0-cck";</note>
+      </trans-unit>
+      <trans-unit id="cEq-cX-M8s.text" xml:space="preserve">
+        <source>汚れ消し</source>
+        <target>汚れ消し</target>
+        <note>Class = "UILabel"; text = "汚れ消し"; ObjectID = "cEq-cX-M8s";</note>
+      </trans-unit>
+      <trans-unit id="cIT-Cv-ftF.normalTitle" xml:space="preserve">
+        <source>小さな汚れ</source>
+        <target>小さな汚れ</target>
+        <note>Class = "UIButton"; normalTitle = "小さな汚れ"; ObjectID = "cIT-Cv-ftF";</note>
+      </trans-unit>
+      <trans-unit id="h6J-oN-wkK.text" xml:space="preserve">
+        <source>汚れ除去の調整</source>
+        <target>汚れ除去の調整</target>
+        <note>Class = "UILabel"; text = "汚れ除去の調整"; ObjectID = "h6J-oN-wkK";</note>
+      </trans-unit>
+      <trans-unit id="w5G-RK-D9P.text" xml:space="preserve">
+        <source>コントラスト</source>
+        <target>コントラスト</target>
+        <note>Class = "UILabel"; text = "コントラスト"; ObjectID = "w5G-RK-D9P";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/EditPlanViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="4iV-3X-Pwy.text" xml:space="preserve">
+        <source>レイアウト</source>
+        <target>レイアウト</target>
+        <note>Class = "UILabel"; text = "レイアウト"; ObjectID = "4iV-3X-Pwy";</note>
+      </trans-unit>
+      <trans-unit id="MqA-FJ-eZP.text" xml:space="preserve">
+        <source>物件名</source>
+        <target>物件名</target>
+        <note>Class = "UILabel"; text = "物件名"; ObjectID = "MqA-FJ-eZP";</note>
+      </trans-unit>
+      <trans-unit id="SPv-Yd-yob.text" xml:space="preserve">
+        <source>コピー／削除</source>
+        <target>コピー／削除</target>
+        <note>Class = "UILabel"; text = "コピー／削除"; ObjectID = "SPv-Yd-yob";</note>
+      </trans-unit>
+      <trans-unit id="XE4-Vg-loX.text" xml:space="preserve">
+        <source>データ出力</source>
+        <target>データ出力</target>
+        <note>Class = "UILabel"; text = "データ出力"; ObjectID = "XE4-Vg-loX";</note>
+      </trans-unit>
+      <trans-unit id="hbq-K2-idA.text" xml:space="preserve">
+        <source>シミュレーション</source>
+        <target>シミュレーション</target>
+        <note>Class = "UILabel"; text = "シミュレーション"; ObjectID = "hbq-K2-idA";</note>
+      </trans-unit>
+      <trans-unit id="qEu-EQ-6ge.text" xml:space="preserve">
+        <source>撮影地</source>
+        <target>撮影地</target>
+        <note>Class = "UILabel"; text = "撮影地"; ObjectID = "qEu-EQ-6ge";</note>
+      </trans-unit>
+      <trans-unit id="sYE-la-3H2.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "sYE-la-3H2";</note>
+      </trans-unit>
+      <trans-unit id="uP8-R6-ew8.text" xml:space="preserve">
+        <source>No</source>
+        <target>No</target>
+        <note>Class = "UILabel"; text = "No"; ObjectID = "uP8-R6-ew8";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/LayoutViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="1KO-sL-Pol.text" xml:space="preserve">
+        <source>本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。
+実際の塗料の色とは異なる場合がありますので塗料をご発注する際には、現物の色票をご確認ください</source>
+        <target>本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。
+実際の塗料の色とは異なる場合がありますので塗料をご発注する際には、現物の色票をご確認ください</target>
+        <note>Class = "UITextView"; text = "本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。\n実際の塗料の色とは異なる場合がありますので塗料をご発注する際には、現物の色票をご確認ください"; ObjectID = "1KO-sL-Pol";</note>
+      </trans-unit>
+      <trans-unit id="Jtt-ri-U6k.text" xml:space="preserve">
+        <source>建築塗料の総合メーカー</source>
+        <target>建築塗料の総合メーカー</target>
+        <note>Class = "UILabel"; text = "建築塗料の総合メーカー"; ObjectID = "Jtt-ri-U6k";</note>
+      </trans-unit>
+      <trans-unit id="LqN-l6-jfW.text" xml:space="preserve">
+        <source>やり直し</source>
+        <target>やり直し</target>
+        <note>Class = "UILabel"; text = "やり直し"; ObjectID = "LqN-l6-jfW";</note>
+      </trans-unit>
+      <trans-unit id="N17-pK-EQi.text" xml:space="preserve">
+        <source>マスキング</source>
+        <target>マスキング</target>
+        <note>Class = "UILabel"; text = "マスキング"; ObjectID = "N17-pK-EQi";</note>
+      </trans-unit>
+      <trans-unit id="TIh-w9-hht.text" xml:space="preserve">
+        <source>出力</source>
+        <target>出力</target>
+        <note>Class = "UILabel"; text = "出力"; ObjectID = "TIh-w9-hht";</note>
+      </trans-unit>
+      <trans-unit id="XU5-NP-edB.text" xml:space="preserve">
+        <source>PLAN 1</source>
+        <target>PLAN 1</target>
+        <note>Class = "UILabel"; text = "PLAN 1"; ObjectID = "XU5-NP-edB";</note>
+      </trans-unit>
+      <trans-unit id="YA8-wh-0He.text" xml:space="preserve">
+        <source>トップ</source>
+        <target>トップ</target>
+        <note>Class = "UILabel"; text = "トップ"; ObjectID = "YA8-wh-0He";</note>
+      </trans-unit>
+      <trans-unit id="aUO-uG-C60.text" xml:space="preserve">
+        <source>部位</source>
+        <target>部位</target>
+        <note>Class = "UILabel"; text = "部位"; ObjectID = "aUO-uG-C60";</note>
+      </trans-unit>
+      <trans-unit id="bde-b3-3rm.text" xml:space="preserve">
+        <source>元に戻す</source>
+        <target>元に戻す</target>
+        <note>Class = "UILabel"; text = "元に戻す"; ObjectID = "bde-b3-3rm";</note>
+      </trans-unit>
+      <trans-unit id="cBC-ob-JGR.text" xml:space="preserve">
+        <source>色名</source>
+        <target>色名</target>
+        <note>Class = "UILabel"; text = "色名"; ObjectID = "cBC-ob-JGR";</note>
+      </trans-unit>
+      <trans-unit id="tlc-E9-j3O.text" xml:space="preserve">
+        <source>背景変更</source>
+        <target>背景変更</target>
+        <note>Class = "UILabel"; text = "背景変更"; ObjectID = "tlc-E9-j3O";</note>
+      </trans-unit>
+      <trans-unit id="v0w-d8-8aS.text" xml:space="preserve">
+        <source>コメント</source>
+        <target>コメント</target>
+        <note>Class = "UILabel"; text = "コメント"; ObjectID = "v0w-d8-8aS";</note>
+      </trans-unit>
+      <trans-unit id="zo4-eV-mql.normalTitle" xml:space="preserve">
+        <source> 採用プラン</source>
+        <target> 採用プラン</target>
+        <note>Class = "UIButton"; normalTitle = " 採用プラン"; ObjectID = "zo4-eV-mql";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/MapViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="lJW-je-3W5.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "lJW-je-3W5";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/MenuViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="7rd-Jq-xqL.text" xml:space="preserve">
+        <source>※ご登録にはネットワークに接続する必要があります。</source>
+        <target>※ご登録にはネットワークに接続する必要があります。</target>
+        <note>Class = "UILabel"; text = "※ご登録にはネットワークに接続する必要があります。"; ObjectID = "7rd-Jq-xqL";</note>
+      </trans-unit>
+      <trans-unit id="B3q-9K-tDW.normalTitle" xml:space="preserve">
+        <source>パスワードを忘れた方</source>
+        <target>パスワードを忘れた方</target>
+        <note>Class = "UIButton"; normalTitle = "パスワードを忘れた方"; ObjectID = "B3q-9K-tDW";</note>
+      </trans-unit>
+      <trans-unit id="HCA-wE-ckx.text" xml:space="preserve">
+        <source>プラン会社名</source>
+        <target>プラン会社名</target>
+        <note>Class = "UILabel"; text = "プラン会社名"; ObjectID = "HCA-wE-ckx";</note>
+      </trans-unit>
+      <trans-unit id="K0d-7v-36z.normalTitle" xml:space="preserve">
+        <source>新規登録</source>
+        <target>新規登録</target>
+        <note>Class = "UIButton"; normalTitle = "新規登録"; ObjectID = "K0d-7v-36z";</note>
+      </trans-unit>
+      <trans-unit id="KQi-aN-OwH.text" xml:space="preserve">
+        <source>メールアドレス</source>
+        <target>メールアドレス</target>
+        <note>Class = "UILabel"; text = "メールアドレス"; ObjectID = "KQi-aN-OwH";</note>
+      </trans-unit>
+      <trans-unit id="MVo-xe-0P6.normalTitle" xml:space="preserve">
+        <source>あとで登録</source>
+        <target>あとで登録</target>
+        <note>Class = "UIButton"; normalTitle = "あとで登録"; ObjectID = "MVo-xe-0P6";</note>
+      </trans-unit>
+      <trans-unit id="SHO-L2-cNb.text" xml:space="preserve">
+        <source>継続利用される場合はご登録（無料）をお願いします。</source>
+        <target>継続利用される場合はご登録（無料）をお願いします。</target>
+        <note>Class = "UILabel"; text = "継続利用される場合はご登録（無料）をお願いします。"; ObjectID = "SHO-L2-cNb";</note>
+      </trans-unit>
+      <trans-unit id="VkG-1N-WCO.text" xml:space="preserve">
+        <source>３０日間</source>
+        <target>３０日間</target>
+        <note>Class = "UILabel"; text = "３０日間"; ObjectID = "VkG-1N-WCO";</note>
+      </trans-unit>
+      <trans-unit id="bkJ-nt-B4t.normalTitle" xml:space="preserve">
+        <source>使用</source>
+        <target>使用</target>
+        <note>Class = "UIButton"; normalTitle = "使用"; ObjectID = "bkJ-nt-B4t";</note>
+      </trans-unit>
+      <trans-unit id="cda-3F-dYn.text" xml:space="preserve">
+        <source>はご登録なしでご利用できます。</source>
+        <target>はご登録なしでご利用できます。</target>
+        <note>Class = "UILabel"; text = "はご登録なしでご利用できます。"; ObjectID = "cda-3F-dYn";</note>
+      </trans-unit>
+      <trans-unit id="eh2-Nj-ltz.text" xml:space="preserve">
+        <source>自動保存間隔</source>
+        <target>自動保存間隔</target>
+        <note>Class = "UILabel"; text = "自動保存間隔"; ObjectID = "eh2-Nj-ltz";</note>
+      </trans-unit>
+      <trans-unit id="ktU-f1-uPK.normalTitle" xml:space="preserve">
+        <source>再撮影</source>
+        <target>再撮影</target>
+        <note>Class = "UIButton"; normalTitle = "再撮影"; ObjectID = "ktU-f1-uPK";</note>
+      </trans-unit>
+      <trans-unit id="lSu-SS-NvE.text" xml:space="preserve">
+        <source>パスワード</source>
+        <target>パスワード</target>
+        <note>Class = "UILabel"; text = "パスワード"; ObjectID = "lSu-SS-NvE";</note>
+      </trans-unit>
+      <trans-unit id="n94-jq-xDC.text" xml:space="preserve">
+        <source>Version 5.0</source>
+        <target>Version 5.0</target>
+        <note>Class = "UILabel"; text = "Version 5.0"; ObjectID = "n94-jq-xDC";</note>
+      </trans-unit>
+      <trans-unit id="odF-8A-syn.normalTitle" xml:space="preserve">
+        <source>登録</source>
+        <target>登録</target>
+        <note>Class = "UIButton"; normalTitle = "登録"; ObjectID = "odF-8A-syn";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/PickColorViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="2eD-ev-Xc7.text" xml:space="preserve">
+        <source>選択色に最も近い色</source>
+        <target>選択色に最も近い色</target>
+        <note>Class = "UILabel"; text = "選択色に最も近い色"; ObjectID = "2eD-ev-Xc7";</note>
+      </trans-unit>
+      <trans-unit id="EwI-5V-lb2.text" xml:space="preserve">
+        <source>他の写真</source>
+        <target>他の写真</target>
+        <note>Class = "UILabel"; text = "他の写真"; ObjectID = "EwI-5V-lb2";</note>
+      </trans-unit>
+      <trans-unit id="JsT-h9-W9s.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "JsT-h9-W9s";</note>
+      </trans-unit>
+      <trans-unit id="Ms8-4m-qW9.text" xml:space="preserve">
+        <source>選択色</source>
+        <target>選択色</target>
+        <note>Class = "UILabel"; text = "選択色"; ObjectID = "Ms8-4m-qW9";</note>
+      </trans-unit>
+      <trans-unit id="TpE-Fd-ded.text" xml:space="preserve">
+        <source>この写真</source>
+        <target>この写真</target>
+        <note>Class = "UILabel"; text = "この写真"; ObjectID = "TpE-Fd-ded";</note>
+      </trans-unit>
+      <trans-unit id="heT-K1-wuW.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "heT-K1-wuW";</note>
+      </trans-unit>
+      <trans-unit id="hyX-ln-iEL.text" xml:space="preserve">
+        <source>カメラ</source>
+        <target>カメラ</target>
+        <note>Class = "UILabel"; text = "カメラ"; ObjectID = "hyX-ln-iEL";</note>
+      </trans-unit>
+      <trans-unit id="ilt-QS-qj9.text" xml:space="preserve">
+        <source>色の取得先</source>
+        <target>色の取得先</target>
+        <note>Class = "UILabel"; text = "色の取得先"; ObjectID = "ilt-QS-qj9";</note>
+      </trans-unit>
+      <trans-unit id="zOM-b3-aMQ.text" xml:space="preserve">
+        <source>「選択色」または「選択色に最も近い色」のどちらかを選択し、決定をタッチして下さい。</source>
+        <target>「選択色」または「選択色に最も近い色」のどちらかを選択し、決定をタッチして下さい。</target>
+        <note>Class = "UILabel"; text = "「選択色」または「選択色に最も近い色」のどちらかを選択し、決定をタッチして下さい。"; ObjectID = "zOM-b3-aMQ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/PlanViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="6.text" xml:space="preserve">
+        <source>保存</source>
+        <target>保存</target>
+        <note>Class = "UILabel"; text = "保存"; ObjectID = "6";</note>
+      </trans-unit>
+      <trans-unit id="6cB-KM-FCq.text" xml:space="preserve">
+        <source>ペンの太さ</source>
+        <target>ペンの太さ</target>
+        <note>Class = "UILabel"; text = "ペンの太さ"; ObjectID = "6cB-KM-FCq";</note>
+      </trans-unit>
+      <trans-unit id="8.text" xml:space="preserve">
+        <source>元に戻す</source>
+        <target>元に戻す</target>
+        <note>Class = "UILabel"; text = "元に戻す"; ObjectID = "8";</note>
+      </trans-unit>
+      <trans-unit id="10.text" xml:space="preserve">
+        <source>やり直し</source>
+        <target>やり直し</target>
+        <note>Class = "UILabel"; text = "やり直し"; ObjectID = "10";</note>
+      </trans-unit>
+      <trans-unit id="16.text" xml:space="preserve">
+        <source>プラン追加</source>
+        <target>プラン追加</target>
+        <note>Class = "UILabel"; text = "プラン追加"; ObjectID = "16";</note>
+      </trans-unit>
+      <trans-unit id="18.text" xml:space="preserve">
+        <source>プラン削除</source>
+        <target>プラン削除</target>
+        <note>Class = "UILabel"; text = "プラン削除"; ObjectID = "18";</note>
+      </trans-unit>
+      <trans-unit id="20.text" xml:space="preserve">
+        <source>レイアウト</source>
+        <target>レイアウト</target>
+        <note>Class = "UILabel"; text = "レイアウト"; ObjectID = "20";</note>
+      </trans-unit>
+      <trans-unit id="22.text" xml:space="preserve">
+        <source>画像修正</source>
+        <target>画像修正</target>
+        <note>Class = "UILabel"; text = "画像修正"; ObjectID = "22";</note>
+      </trans-unit>
+      <trans-unit id="24.text" xml:space="preserve">
+        <source>トップ</source>
+        <target>トップ</target>
+        <note>Class = "UILabel"; text = "トップ"; ObjectID = "24";</note>
+      </trans-unit>
+      <trans-unit id="31.text" xml:space="preserve">
+        <source>部位</source>
+        <target>部位</target>
+        <note>Class = "UILabel"; text = "部位"; ObjectID = "31";</note>
+      </trans-unit>
+      <trans-unit id="32.text" xml:space="preserve">
+        <source>色</source>
+        <target>色</target>
+        <note>Class = "UILabel"; text = "色"; ObjectID = "32";</note>
+      </trans-unit>
+      <trans-unit id="Bwh-0M-VFQ.text" xml:space="preserve">
+        <source>透過度</source>
+        <target>透過度</target>
+        <note>Class = "UILabel"; text = "透過度"; ObjectID = "Bwh-0M-VFQ";</note>
+      </trans-unit>
+      <trans-unit id="EKG-j5-Nt9.text" xml:space="preserve">
+        <source>消す</source>
+        <target>消す</target>
+        <note>Class = "UILabel"; text = "消す"; ObjectID = "EKG-j5-Nt9";</note>
+      </trans-unit>
+      <trans-unit id="J80-Er-t0y.normalTitle" xml:space="preserve">
+        <source> 採用</source>
+        <target> 採用</target>
+        <note>Class = "UIButton"; normalTitle = " 採用"; ObjectID = "J80-Er-t0y";</note>
+      </trans-unit>
+      <trans-unit id="Js9-ze-YL9.text" xml:space="preserve">
+        <source>自動選択エリア</source>
+        <target>自動選択エリア</target>
+        <note>Class = "UILabel"; text = "自動選択エリア"; ObjectID = "Js9-ze-YL9";</note>
+      </trans-unit>
+      <trans-unit id="Qk4-I8-hto.normalTitle" xml:space="preserve">
+        <source>取り消し</source>
+        <target>取り消し</target>
+        <note>Class = "UIButton"; normalTitle = "取り消し"; ObjectID = "Qk4-I8-hto";</note>
+      </trans-unit>
+      <trans-unit id="bo7-Fe-pes.normalTitle" xml:space="preserve">
+        <source>完成</source>
+        <target>完成</target>
+        <note>Class = "UIButton"; normalTitle = "完成"; ObjectID = "bo7-Fe-pes";</note>
+      </trans-unit>
+      <trans-unit id="zTC-9Q-fry.text" xml:space="preserve">
+        <source>描く</source>
+        <target>描く</target>
+        <note>Class = "UILabel"; text = "描く"; ObjectID = "zTC-9Q-fry";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/ResetAccountViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="AK1-ZQ-KYu.text" xml:space="preserve">
+        <source>ご登録メールアドレスにパスワードを送信いたします。
+メールアドレスを入力し、「送信」ボタンをクリックしてください。</source>
+        <target>ご登録メールアドレスにパスワードを送信いたします。
+メールアドレスを入力し、「送信」ボタンをクリックしてください。</target>
+        <note>Class = "UILabel"; text = "ご登録メールアドレスにパスワードを送信いたします。\nメールアドレスを入力し、「送信」ボタンをクリックしてください。"; ObjectID = "AK1-ZQ-KYu";</note>
+      </trans-unit>
+      <trans-unit id="TRR-W9-5sx.text" xml:space="preserve">
+        <source>※ ご登録のないメールアドレスには、送信されません。</source>
+        <target>※ ご登録のないメールアドレスには、送信されません。</target>
+        <note>Class = "UILabel"; text = "※ ご登録のないメールアドレスには、送信されません。"; ObjectID = "TRR-W9-5sx";</note>
+      </trans-unit>
+      <trans-unit id="WQY-Gi-l4t.normalTitle" xml:space="preserve">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "WQY-Gi-l4t";</note>
+      </trans-unit>
+      <trans-unit id="nFb-fG-fhV.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "nFb-fG-fhV";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/SignupSuccessViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="hXd-U6-wh9.text" xml:space="preserve">
+        <source>仮登録が完了しました</source>
+        <target>仮登録が完了しました</target>
+        <note>Class = "UILabel"; text = "仮登録が完了しました"; ObjectID = "hXd-U6-wh9";</note>
+      </trans-unit>
+      <trans-unit id="hrv-hG-SOg.normalTitle" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "戻る"; ObjectID = "hrv-hG-SOg";</note>
+      </trans-unit>
+      <trans-unit id="nzb-Su-vzc.text" xml:space="preserve">
+        <source>申請いただきましたメールアドレス宛に仮登録完了のメールをお送りしました。
+
+メールをご確認頂き、メール内のURLをクリックし、登録を完了させてください。
+</source>
+        <target>申請いただきましたメールアドレス宛に仮登録完了のメールをお送りしました。
+
+メールをご確認頂き、メール内のURLをクリックし、登録を完了させてください。
+</target>
+        <note>Class = "UILabel"; text = "申請いただきましたメールアドレス宛に仮登録完了のメールをお送りしました。\n\nメールをご確認頂き、メール内のURLをクリックし、登録を完了させてください。\n"; ObjectID = "nzb-Su-vzc";</note>
+      </trans-unit>
+      <trans-unit id="oAC-uD-9Vu.text" xml:space="preserve">
+        <source>仮登録が完了いたしました。
+</source>
+        <target>仮登録が完了いたしました。
+</target>
+        <note>Class = "UILabel"; text = "仮登録が完了いたしました。\n"; ObjectID = "oAC-uD-9Vu";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/Base.lproj/SignUpViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="1rV-V5-bxy.text" xml:space="preserve">
+        <source>※確認のため、パスワードを再度ご記入ください。</source>
+        <target>※確認のため、パスワードを再度ご記入ください。</target>
+        <note>Class = "UILabel"; text = "※確認のため、パスワードを再度ご記入ください。"; ObjectID = "1rV-V5-bxy";</note>
+      </trans-unit>
+      <trans-unit id="2sS-57-dXw.text" xml:space="preserve">
+        <source>※８〜１６文字の半角英数字でご記入ください。</source>
+        <target>※８〜１６文字の半角英数字でご記入ください。</target>
+        <note>Class = "UILabel"; text = "※８〜１６文字の半角英数字でご記入ください。"; ObjectID = "2sS-57-dXw";</note>
+      </trans-unit>
+      <trans-unit id="4MC-UC-M09.normalTitle" xml:space="preserve">
+        <source>塗装業</source>
+        <target>塗装業</target>
+        <note>Class = "UIButton"; normalTitle = "塗装業"; ObjectID = "4MC-UC-M09";</note>
+      </trans-unit>
+      <trans-unit id="6tZ-OU-FVO.text" xml:space="preserve">
+        <source>郵便番号</source>
+        <target>郵便番号</target>
+        <note>Class = "UILabel"; text = "郵便番号"; ObjectID = "6tZ-OU-FVO";</note>
+      </trans-unit>
+      <trans-unit id="7BY-hn-9yr.text" xml:space="preserve">
+        <source>メールアドレス
+(ID)</source>
+        <target>メールアドレス
+(ID)</target>
+        <note>Class = "UILabel"; text = "メールアドレス\n(ID)"; ObjectID = "7BY-hn-9yr";</note>
+      </trans-unit>
+      <trans-unit id="7ND-1j-MiU.text" xml:space="preserve">
+        <source>〒</source>
+        <target>〒</target>
+        <note>Class = "UILabel"; text = "〒"; ObjectID = "7ND-1j-MiU";</note>
+      </trans-unit>
+      <trans-unit id="8lm-sU-GLd.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "8lm-sU-GLd";</note>
+      </trans-unit>
+      <trans-unit id="9uM-Pn-YPA.text" xml:space="preserve">
+        <source>業種</source>
+        <target>業種</target>
+        <note>Class = "UILabel"; text = "業種"; ObjectID = "9uM-Pn-YPA";</note>
+      </trans-unit>
+      <trans-unit id="19J-6t-FhO.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "19J-6t-FhO";</note>
+      </trans-unit>
+      <trans-unit id="42s-Dy-reb.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "42s-Dy-reb";</note>
+      </trans-unit>
+      <trans-unit id="DDn-w6-x6q.text" xml:space="preserve">
+        <source>※お仕事でご利用の場合は、ご記入をお願いいたします。
+※文字化けの恐れがありますので、法人等の略号はご使用にならないでください。株式会社、有限会社などとご記入願います。</source>
+        <target>※お仕事でご利用の場合は、ご記入をお願いいたします。
+※文字化けの恐れがありますので、法人等の略号はご使用にならないでください。株式会社、有限会社などとご記入願います。</target>
+        <note>Class = "UILabel"; text = "※お仕事でご利用の場合は、ご記入をお願いいたします。\n※文字化けの恐れがありますので、法人等の略号はご使用にならないでください。株式会社、有限会社などとご記入願います。"; ObjectID = "DDn-w6-x6q";</note>
+      </trans-unit>
+      <trans-unit id="Dga-3U-E6F.text" xml:space="preserve">
+        <source>ご登録いただく氏名は本名でお願いいたします。ニックネームなど、本名以外でのご登録や、会社名・住所・電話番号などが虚偽のおそれがある場合は、IDを削除させていただきます。</source>
+        <target>ご登録いただく氏名は本名でお願いいたします。ニックネームなど、本名以外でのご登録や、会社名・住所・電話番号などが虚偽のおそれがある場合は、IDを削除させていただきます。</target>
+        <note>Class = "UILabel"; text = "ご登録いただく氏名は本名でお願いいたします。ニックネームなど、本名以外でのご登録や、会社名・住所・電話番号などが虚偽のおそれがある場合は、IDを削除させていただきます。"; ObjectID = "Dga-3U-E6F";</note>
+      </trans-unit>
+      <trans-unit id="HEq-Aj-8RC.text" xml:space="preserve">
+        <source>役職名</source>
+        <target>役職名</target>
+        <note>Class = "UILabel"; text = "役職名"; ObjectID = "HEq-Aj-8RC";</note>
+      </trans-unit>
+      <trans-unit id="Hen-F1-LhK.text" xml:space="preserve">
+        <source>お客様情報入力</source>
+        <target>お客様情報入力</target>
+        <note>Class = "UILabel"; text = "お客様情報入力"; ObjectID = "Hen-F1-LhK";</note>
+      </trans-unit>
+      <trans-unit id="JLj-x2-f3q.normalTitle" xml:space="preserve">
+        <source>防水業</source>
+        <target>防水業</target>
+        <note>Class = "UIButton"; normalTitle = "防水業"; ObjectID = "JLj-x2-f3q";</note>
+      </trans-unit>
+      <trans-unit id="Jfa-8i-7im.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "Jfa-8i-7im";</note>
+      </trans-unit>
+      <trans-unit id="JvN-mW-4QQ.normalTitle" xml:space="preserve">
+        <source>設　計</source>
+        <target>設　計</target>
+        <note>Class = "UIButton"; normalTitle = "設　計"; ObjectID = "JvN-mW-4QQ";</note>
+      </trans-unit>
+      <trans-unit id="KPv-hk-cwf.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "KPv-hk-cwf";</note>
+      </trans-unit>
+      <trans-unit id="Lh5-T0-IRx.text" xml:space="preserve">
+        <source>住所</source>
+        <target>住所</target>
+        <note>Class = "UILabel"; text = "住所"; ObjectID = "Lh5-T0-IRx";</note>
+      </trans-unit>
+      <trans-unit id="Ljf-c5-Ny1.text" xml:space="preserve">
+        <source>案内メール</source>
+        <target>案内メール</target>
+        <note>Class = "UILabel"; text = "案内メール"; ObjectID = "Ljf-c5-Ny1";</note>
+      </trans-unit>
+      <trans-unit id="MZp-H8-ChZ.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "MZp-H8-ChZ";</note>
+      </trans-unit>
+      <trans-unit id="MnE-bX-aUk.normalTitle" xml:space="preserve">
+        <source>建設業</source>
+        <target>建設業</target>
+        <note>Class = "UIButton"; normalTitle = "建設業"; ObjectID = "MnE-bX-aUk";</note>
+      </trans-unit>
+      <trans-unit id="Mws-MY-Ubz.text" xml:space="preserve">
+        <source>（確認用）</source>
+        <target>（確認用）</target>
+        <note>Class = "UILabel"; text = "（確認用）"; ObjectID = "Mws-MY-Ubz";</note>
+      </trans-unit>
+      <trans-unit id="Ndt-Le-Ch1.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "Ndt-Le-Ch1";</note>
+      </trans-unit>
+      <trans-unit id="OG4-nD-MqY.text" xml:space="preserve">
+        <source>メイ</source>
+        <target>メイ</target>
+        <note>Class = "UILabel"; text = "メイ"; ObjectID = "OG4-nD-MqY";</note>
+      </trans-unit>
+      <trans-unit id="PGu-Rv-fIc.text" xml:space="preserve">
+        <source>セイ</source>
+        <target>セイ</target>
+        <note>Class = "UILabel"; text = "セイ"; ObjectID = "PGu-Rv-fIc";</note>
+      </trans-unit>
+      <trans-unit id="Psu-b3-GoD.text" xml:space="preserve">
+        <source>氏名（フリガナ）</source>
+        <target>氏名（フリガナ）</target>
+        <note>Class = "UILabel"; text = "氏名（フリガナ）"; ObjectID = "Psu-b3-GoD";</note>
+      </trans-unit>
+      <trans-unit id="RFd-3u-E6k.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "RFd-3u-E6k";</note>
+      </trans-unit>
+      <trans-unit id="RoU-IO-2Wl.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "RoU-IO-2Wl";</note>
+      </trans-unit>
+      <trans-unit id="TPF-wR-H2Y.normalTitle" xml:space="preserve">
+        <source>登録</source>
+        <target>登録</target>
+        <note>Class = "UIButton"; normalTitle = "登録"; ObjectID = "TPF-wR-H2Y";</note>
+      </trans-unit>
+      <trans-unit id="UIU-tN-od1.text" xml:space="preserve">
+        <source>※郵便番号を入力すると住所が検索されます。</source>
+        <target>※郵便番号を入力すると住所が検索されます。</target>
+        <note>Class = "UILabel"; text = "※郵便番号を入力すると住所が検索されます。"; ObjectID = "UIU-tN-od1";</note>
+      </trans-unit>
+      <trans-unit id="UWo-ZS-W2T.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "UWo-ZS-W2T";</note>
+      </trans-unit>
+      <trans-unit id="Ud2-Uw-Op5.normalTitle" xml:space="preserve">
+        <source>左官業</source>
+        <target>左官業</target>
+        <note>Class = "UIButton"; normalTitle = "左官業"; ObjectID = "Ud2-Uw-Op5";</note>
+      </trans-unit>
+      <trans-unit id="W4S-JG-jen.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "W4S-JG-jen";</note>
+      </trans-unit>
+      <trans-unit id="Wlx-lQ-bBK.text" xml:space="preserve">
+        <source>FAX番号</source>
+        <target>FAX番号</target>
+        <note>Class = "UILabel"; text = "FAX番号"; ObjectID = "Wlx-lQ-bBK";</note>
+      </trans-unit>
+      <trans-unit id="WnP-ek-pIJ.text" xml:space="preserve">
+        <source>会社・組織・団体名</source>
+        <target>会社・組織・団体名</target>
+        <note>Class = "UILabel"; text = "会社・組織・団体名"; ObjectID = "WnP-ek-pIJ";</note>
+      </trans-unit>
+      <trans-unit id="WpR-Om-ibe.text" xml:space="preserve">
+        <source>名</source>
+        <target>名</target>
+        <note>Class = "UILabel"; text = "名"; ObjectID = "WpR-Om-ibe";</note>
+      </trans-unit>
+      <trans-unit id="XQg-Jn-5i3.text" xml:space="preserve">
+        <source>姓</source>
+        <target>姓</target>
+        <note>Class = "UILabel"; text = "姓"; ObjectID = "XQg-Jn-5i3";</note>
+      </trans-unit>
+      <trans-unit id="Xby-b7-79E.text" xml:space="preserve">
+        <source>※ 業者様向けのご案内になります。</source>
+        <target>※ 業者様向けのご案内になります。</target>
+        <note>Class = "UILabel"; text = "※ 業者様向けのご案内になります。"; ObjectID = "Xby-b7-79E";</note>
+      </trans-unit>
+      <trans-unit id="YZR-Tg-W7I.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "YZR-Tg-W7I";</note>
+      </trans-unit>
+      <trans-unit id="c1y-fB-DVU.text" xml:space="preserve">
+        <source>部署名</source>
+        <target>部署名</target>
+        <note>Class = "UILabel"; text = "部署名"; ObjectID = "c1y-fB-DVU";</note>
+      </trans-unit>
+      <trans-unit id="dSg-mi-bIU.text" xml:space="preserve">
+        <source>当社からの製品情報などのメールを希望する。</source>
+        <target>当社からの製品情報などのメールを希望する。</target>
+        <note>Class = "UILabel"; text = "当社からの製品情報などのメールを希望する。"; ObjectID = "dSg-mi-bIU";</note>
+      </trans-unit>
+      <trans-unit id="fSt-IY-LU6.text" xml:space="preserve">
+        <source>パスワード</source>
+        <target>パスワード</target>
+        <note>Class = "UILabel"; text = "パスワード"; ObjectID = "fSt-IY-LU6";</note>
+      </trans-unit>
+      <trans-unit id="fi4-PG-Cri.text" xml:space="preserve">
+        <source>（確認用）</source>
+        <target>（確認用）</target>
+        <note>Class = "UILabel"; text = "（確認用）"; ObjectID = "fi4-PG-Cri";</note>
+      </trans-unit>
+      <trans-unit id="g0v-lY-Q0Y.text" xml:space="preserve">
+        <source>新規登録画面</source>
+        <target>新規登録画面</target>
+        <note>Class = "UILabel"; text = "新規登録画面"; ObjectID = "g0v-lY-Q0Y";</note>
+      </trans-unit>
+      <trans-unit id="gbt-px-EW3.normalTitle" xml:space="preserve">
+        <source>その他</source>
+        <target>その他</target>
+        <note>Class = "UIButton"; normalTitle = "その他"; ObjectID = "gbt-px-EW3";</note>
+      </trans-unit>
+      <trans-unit id="gt0-mQ-1hq.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "gt0-mQ-1hq";</note>
+      </trans-unit>
+      <trans-unit id="lUs-9C-954.text" xml:space="preserve">
+        <source>氏名（漢字）</source>
+        <target>氏名（漢字）</target>
+        <note>Class = "UILabel"; text = "氏名（漢字）"; ObjectID = "lUs-9C-954";</note>
+      </trans-unit>
+      <trans-unit id="lZA-UT-l4X.text" xml:space="preserve">
+        <source>※確認のため、メールアドレスを再度ご記入ください。</source>
+        <target>※確認のため、メールアドレスを再度ご記入ください。</target>
+        <note>Class = "UILabel"; text = "※確認のため、メールアドレスを再度ご記入ください。"; ObjectID = "lZA-UT-l4X";</note>
+      </trans-unit>
+      <trans-unit id="lno-Hg-yD4.text" xml:space="preserve">
+        <source>建物名・部屋番号</source>
+        <target>建物名・部屋番号</target>
+        <note>Class = "UILabel"; text = "建物名・部屋番号"; ObjectID = "lno-Hg-yD4";</note>
+      </trans-unit>
+      <trans-unit id="nHM-CW-1pn.text" xml:space="preserve">
+        <source>電話番号</source>
+        <target>電話番号</target>
+        <note>Class = "UILabel"; text = "電話番号"; ObjectID = "nHM-CW-1pn";</note>
+      </trans-unit>
+      <trans-unit id="oRN-g1-nEu.normalTitle" xml:space="preserve">
+        <source>施　主</source>
+        <target>施　主</target>
+        <note>Class = "UIButton"; normalTitle = "施　主"; ObjectID = "oRN-g1-nEu";</note>
+      </trans-unit>
+      <trans-unit id="pVg-O4-U22.normalTitle" xml:space="preserve">
+        <source>官公庁</source>
+        <target>官公庁</target>
+        <note>Class = "UIButton"; normalTitle = "官公庁"; ObjectID = "pVg-O4-U22";</note>
+      </trans-unit>
+      <trans-unit id="pco-x9-C9O.normalTitle" xml:space="preserve">
+        <source>販売店</source>
+        <target>販売店</target>
+        <note>Class = "UIButton"; normalTitle = "販売店"; ObjectID = "pco-x9-C9O";</note>
+      </trans-unit>
+      <trans-unit id="sBy-ds-ceM.normalTitle" xml:space="preserve">
+        <source>メーカー</source>
+        <target>メーカー</target>
+        <note>Class = "UIButton"; normalTitle = "メーカー"; ObjectID = "sBy-ds-ceM";</note>
+      </trans-unit>
+      <trans-unit id="xxQ-Kz-jsF.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "xxQ-Kz-jsF";</note>
+      </trans-unit>
+      <trans-unit id="yKc-FI-bOr.text" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UILabel"; text = "-"; ObjectID = "yKc-FI-bOr";</note>
+      </trans-unit>
+      <trans-unit id="z08-dU-VgN.text" xml:space="preserve">
+        <source>※必須</source>
+        <target>※必須</target>
+        <note>Class = "UILabel"; text = "※必須"; ObjectID = "z08-dU-VgN";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/BackgroundPickerViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="wDy-Gs-dwl.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "wDy-Gs-dwl";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/BarrierColorViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="1Xx-KH-KdM.text" xml:space="preserve">
+        <source>WB2179</source>
+        <target>WB2179</target>
+        <note>Class = "UILabel"; text = "WB2179"; ObjectID = "1Xx-KH-KdM";</note>
+      </trans-unit>
+      <trans-unit id="2h7-Yb-k5D.text" xml:space="preserve">
+        <source>WB2295</source>
+        <target>WB2295</target>
+        <note>Class = "UILabel"; text = "WB2295"; ObjectID = "2h7-Yb-k5D";</note>
+      </trans-unit>
+      <trans-unit id="3MH-eB-son.text" xml:space="preserve">
+        <source>WB2168</source>
+        <target>WB2168</target>
+        <note>Class = "UILabel"; text = "WB2168"; ObjectID = "3MH-eB-son";</note>
+      </trans-unit>
+      <trans-unit id="7LI-fd-L1i.text" xml:space="preserve">
+        <source>WB3281</source>
+        <target>WB3281</target>
+        <note>Class = "UILabel"; text = "WB3281"; ObjectID = "7LI-fd-L1i";</note>
+      </trans-unit>
+      <trans-unit id="7ox-wP-a9l.text" xml:space="preserve">
+        <source>WB2149</source>
+        <target>WB2149</target>
+        <note>Class = "UILabel"; text = "WB2149"; ObjectID = "7ox-wP-a9l";</note>
+      </trans-unit>
+      <trans-unit id="71j-XM-dFT.text" xml:space="preserve">
+        <source>WB2225</source>
+        <target>WB2225</target>
+        <note>Class = "UILabel"; text = "WB2225"; ObjectID = "71j-XM-dFT";</note>
+      </trans-unit>
+      <trans-unit id="FYe-CJ-IFz.text" xml:space="preserve">
+        <source>WB3335</source>
+        <target>WB3335</target>
+        <note>Class = "UILabel"; text = "WB3335"; ObjectID = "FYe-CJ-IFz";</note>
+      </trans-unit>
+      <trans-unit id="IMW-Xu-daX.text" xml:space="preserve">
+        <source> ︻石材調小柄︼</source>
+        <target> ︻石材調小柄︼</target>
+        <note>Class = "UILabel"; text = " ︻石材調小柄︼"; ObjectID = "IMW-Xu-daX";</note>
+      </trans-unit>
+      <trans-unit id="JVd-MR-3el.text" xml:space="preserve">
+        <source>WB2174</source>
+        <target>WB2174</target>
+        <note>Class = "UILabel"; text = "WB2174"; ObjectID = "JVd-MR-3el";</note>
+      </trans-unit>
+      <trans-unit id="LTw-G7-Is7.text" xml:space="preserve">
+        <source>WB2170</source>
+        <target>WB2170</target>
+        <note>Class = "UILabel"; text = "WB2170"; ObjectID = "LTw-G7-Is7";</note>
+      </trans-unit>
+      <trans-unit id="Mup-jH-zjQ.text" xml:space="preserve">
+        <source> ︻石材調中柄︼</source>
+        <target> ︻石材調中柄︼</target>
+        <note>Class = "UILabel"; text = " ︻石材調中柄︼"; ObjectID = "Mup-jH-zjQ";</note>
+      </trans-unit>
+      <trans-unit id="NiA-w9-9HU.text" xml:space="preserve">
+        <source>WB2333</source>
+        <target>WB2333</target>
+        <note>Class = "UILabel"; text = "WB2333"; ObjectID = "NiA-w9-9HU";</note>
+      </trans-unit>
+      <trans-unit id="OaV-xe-DGf.text" xml:space="preserve">
+        <source>WB2394</source>
+        <target>WB2394</target>
+        <note>Class = "UILabel"; text = "WB2394"; ObjectID = "OaV-xe-DGf";</note>
+      </trans-unit>
+      <trans-unit id="PGi-Db-2ja.text" xml:space="preserve">
+        <source>WB3284</source>
+        <target>WB3284</target>
+        <note>Class = "UILabel"; text = "WB3284"; ObjectID = "PGi-Db-2ja";</note>
+      </trans-unit>
+      <trans-unit id="RRc-yt-KCJ.text" xml:space="preserve">
+        <source>WB3183</source>
+        <target>WB3183</target>
+        <note>Class = "UILabel"; text = "WB3183"; ObjectID = "RRc-yt-KCJ";</note>
+      </trans-unit>
+      <trans-unit id="VEb-6r-7mp.text" xml:space="preserve">
+        <source>WB3147</source>
+        <target>WB3147</target>
+        <note>Class = "UILabel"; text = "WB3147"; ObjectID = "VEb-6r-7mp";</note>
+      </trans-unit>
+      <trans-unit id="VSG-4F-teV.text" xml:space="preserve">
+        <source>WB2117</source>
+        <target>WB2117</target>
+        <note>Class = "UILabel"; text = "WB2117"; ObjectID = "VSG-4F-teV";</note>
+      </trans-unit>
+      <trans-unit id="XQO-K0-9m6.text" xml:space="preserve">
+        <source>WB2142</source>
+        <target>WB2142</target>
+        <note>Class = "UILabel"; text = "WB2142"; ObjectID = "XQO-K0-9m6";</note>
+      </trans-unit>
+      <trans-unit id="Xvz-kQ-r7W.text" xml:space="preserve">
+        <source>WB3288</source>
+        <target>WB3288</target>
+        <note>Class = "UILabel"; text = "WB3288"; ObjectID = "Xvz-kQ-r7W";</note>
+      </trans-unit>
+      <trans-unit id="YZ6-ML-DfA.text" xml:space="preserve">
+        <source>WB2289</source>
+        <target>WB2289</target>
+        <note>Class = "UILabel"; text = "WB2289"; ObjectID = "YZ6-ML-DfA";</note>
+      </trans-unit>
+      <trans-unit id="aRE-dz-nlX.text" xml:space="preserve">
+        <source>WB2391</source>
+        <target>WB2391</target>
+        <note>Class = "UILabel"; text = "WB2391"; ObjectID = "aRE-dz-nlX";</note>
+      </trans-unit>
+      <trans-unit id="aXK-qd-NHb.text" xml:space="preserve">
+        <source>WB3252</source>
+        <target>WB3252</target>
+        <note>Class = "UILabel"; text = "WB3252"; ObjectID = "aXK-qd-NHb";</note>
+      </trans-unit>
+      <trans-unit id="bHb-tJ-Vx1.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "bHb-tJ-Vx1";</note>
+      </trans-unit>
+      <trans-unit id="cgG-Ow-xFz.text" xml:space="preserve">
+        <source>WB2287</source>
+        <target>WB2287</target>
+        <note>Class = "UILabel"; text = "WB2287"; ObjectID = "cgG-Ow-xFz";</note>
+      </trans-unit>
+      <trans-unit id="ebV-tL-v8c.text" xml:space="preserve">
+        <source>WB3396</source>
+        <target>WB3396</target>
+        <note>Class = "UILabel"; text = "WB3396"; ObjectID = "ebV-tL-v8c";</note>
+      </trans-unit>
+      <trans-unit id="fTm-8S-S9w.text" xml:space="preserve">
+        <source>WB2172</source>
+        <target>WB2172</target>
+        <note>Class = "UILabel"; text = "WB2172"; ObjectID = "fTm-8S-S9w";</note>
+      </trans-unit>
+      <trans-unit id="hTM-ft-BmP.text" xml:space="preserve">
+        <source>WB3175</source>
+        <target>WB3175</target>
+        <note>Class = "UILabel"; text = "WB3175"; ObjectID = "hTM-ft-BmP";</note>
+      </trans-unit>
+      <trans-unit id="hoy-Ku-n5z.text" xml:space="preserve">
+        <source>WB2141</source>
+        <target>WB2141</target>
+        <note>Class = "UILabel"; text = "WB2141"; ObjectID = "hoy-Ku-n5z";</note>
+      </trans-unit>
+      <trans-unit id="j9j-vW-jk8.text" xml:space="preserve">
+        <source>WB2386</source>
+        <target>WB2386</target>
+        <note>Class = "UILabel"; text = "WB2386"; ObjectID = "j9j-vW-jk8";</note>
+      </trans-unit>
+      <trans-unit id="lbF-fy-Cip.text" xml:space="preserve">
+        <source>WB2140</source>
+        <target>WB2140</target>
+        <note>Class = "UILabel"; text = "WB2140"; ObjectID = "lbF-fy-Cip";</note>
+      </trans-unit>
+      <trans-unit id="mXz-5S-Mwd.text" xml:space="preserve">
+        <source>WB2178</source>
+        <target>WB2178</target>
+        <note>Class = "UILabel"; text = "WB2178"; ObjectID = "mXz-5S-Mwd";</note>
+      </trans-unit>
+      <trans-unit id="muo-Jp-ffQ.text" xml:space="preserve">
+        <source> ︻タイル調︼</source>
+        <target> ︻タイル調︼</target>
+        <note>Class = "UILabel"; text = " ︻タイル調︼"; ObjectID = "muo-Jp-ffQ";</note>
+      </trans-unit>
+      <trans-unit id="pI7-PB-ro1.text" xml:space="preserve">
+        <source>WB2256</source>
+        <target>WB2256</target>
+        <note>Class = "UILabel"; text = "WB2256"; ObjectID = "pI7-PB-ro1";</note>
+      </trans-unit>
+      <trans-unit id="rBV-yW-CTp.text" xml:space="preserve">
+        <source>WB2144</source>
+        <target>WB2144</target>
+        <note>Class = "UILabel"; text = "WB2144"; ObjectID = "rBV-yW-CTp";</note>
+      </trans-unit>
+      <trans-unit id="s3M-j7-KcP.text" xml:space="preserve">
+        <source>WB2223</source>
+        <target>WB2223</target>
+        <note>Class = "UILabel"; text = "WB2223"; ObjectID = "s3M-j7-KcP";</note>
+      </trans-unit>
+      <trans-unit id="tRl-IJ-pUL.text" xml:space="preserve">
+        <source>WB2118</source>
+        <target>WB2118</target>
+        <note>Class = "UILabel"; text = "WB2118"; ObjectID = "tRl-IJ-pUL";</note>
+      </trans-unit>
+      <trans-unit id="u7d-0r-C2h.text" xml:space="preserve">
+        <source> ︻石材調大柄︼</source>
+        <target> ︻石材調大柄︼</target>
+        <note>Class = "UILabel"; text = " ︻石材調大柄︼"; ObjectID = "u7d-0r-C2h";</note>
+      </trans-unit>
+      <trans-unit id="vPT-Jg-vNe.text" xml:space="preserve">
+        <source>WB2393</source>
+        <target>WB2393</target>
+        <note>Class = "UILabel"; text = "WB2393"; ObjectID = "vPT-Jg-vNe";</note>
+      </trans-unit>
+      <trans-unit id="vX1-Zp-c1y.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "vX1-Zp-c1y";</note>
+      </trans-unit>
+      <trans-unit id="xia-E8-j2Q.text" xml:space="preserve">
+        <source>WB2285</source>
+        <target>WB2285</target>
+        <note>Class = "UILabel"; text = "WB2285"; ObjectID = "xia-E8-j2Q";</note>
+      </trans-unit>
+      <trans-unit id="z9s-r0-RVM.text" xml:space="preserve">
+        <source>WB3220</source>
+        <target>WB3220</target>
+        <note>Class = "UILabel"; text = "WB3220"; ObjectID = "z9s-r0-RVM";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/ColorFanViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="bsQ-jm-efq.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "bsQ-jm-efq";</note>
+      </trans-unit>
+      <trans-unit id="o2P-ky-KnV.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "o2P-ky-KnV";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/ColorPickerModalViewViewController_Portrait.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="G4R-42-4Kf.text" xml:space="preserve">
+        <source>配色アシスト</source>
+        <target>配色アシスト</target>
+        <note>Class = "UILabel"; text = "配色アシスト"; ObjectID = "G4R-42-4Kf";</note>
+      </trans-unit>
+      <trans-unit id="HX6-nN-izo.text" xml:space="preserve">
+        <source>スズカ遮熱用CS版</source>
+        <target>スズカ遮熱用CS版</target>
+        <note>Class = "UILabel"; text = "スズカ遮熱用CS版"; ObjectID = "HX6-nN-izo";</note>
+      </trans-unit>
+      <trans-unit id="KRU-dJ-9Xu.text" xml:space="preserve">
+        <source>WBアートSi</source>
+        <target>WBアートSi</target>
+        <note>Class = "UILabel"; text = "WBアートSi"; ObjectID = "KRU-dJ-9Xu";</note>
+      </trans-unit>
+      <trans-unit id="LNF-xJ-eFD.text" xml:space="preserve">
+        <source>色設定なし</source>
+        <target>色設定なし</target>
+        <note>Class = "UILabel"; text = "色設定なし"; ObjectID = "LNF-xJ-eFD";</note>
+      </trans-unit>
+      <trans-unit id="PtH-lZ-3UV.text" xml:space="preserve">
+        <source>スズカ壁用標準色</source>
+        <target>スズカ壁用標準色</target>
+        <note>Class = "UILabel"; text = "スズカ壁用標準色"; ObjectID = "PtH-lZ-3UV";</note>
+      </trans-unit>
+      <trans-unit id="Q7A-Ii-U9s.text" xml:space="preserve">
+        <source>水性ジェルアートSi</source>
+        <target>水性ジェルアートSi</target>
+        <note>Class = "UILabel"; text = "水性ジェルアートSi"; ObjectID = "Q7A-Ii-U9s";</note>
+      </trans-unit>
+      <trans-unit id="Sfc-yg-BhN.text" xml:space="preserve">
+        <source>色取得</source>
+        <target>色取得</target>
+        <note>Class = "UILabel"; text = "色取得"; ObjectID = "Sfc-yg-BhN";</note>
+      </trans-unit>
+      <trans-unit id="c6y-A6-IZX.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "c6y-A6-IZX";</note>
+      </trans-unit>
+      <trans-unit id="eRs-hX-K7B.text" xml:space="preserve">
+        <source>本アプリケーションで表示される色はスズカファインが独自に測定
+したイメージ色です。実際の塗料の色とは異なる場合がありますので
+塗料をご発注する際には</source>
+        <target>本アプリケーションで表示される色はスズカファインが独自に測定
+したイメージ色です。実際の塗料の色とは異なる場合がありますので
+塗料をご発注する際には</target>
+        <note>Class = "UILabel"; text = "本アプリケーションで表示される色はスズカファインが独自に測定\nしたイメージ色です。実際の塗料の色とは異なる場合がありますので\n塗料をご発注する際には"; ObjectID = "eRs-hX-K7B";</note>
+      </trans-unit>
+      <trans-unit id="hNp-cA-zyb.text" xml:space="preserve">
+        <source>スズカ屋根用標準色</source>
+        <target>スズカ屋根用標準色</target>
+        <note>Class = "UILabel"; text = "スズカ屋根用標準色"; ObjectID = "hNp-cA-zyb";</note>
+      </trans-unit>
+      <trans-unit id="wZO-Pk-I09.text" xml:space="preserve">
+        <source>日塗工K版</source>
+        <target>日塗工K版</target>
+        <note>Class = "UILabel"; text = "日塗工K版"; ObjectID = "wZO-Pk-I09";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/ColorPickerModalViewViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="5AB-gu-CAY.text" xml:space="preserve">
+        <source>戻る</source>
+        <target>戻る</target>
+        <note>Class = "UILabel"; text = "戻る"; ObjectID = "5AB-gu-CAY";</note>
+      </trans-unit>
+      <trans-unit id="FF5-Hb-H01.text" xml:space="preserve">
+        <source>スズカ壁用標準色</source>
+        <target>スズカ壁用標準色</target>
+        <note>Class = "UILabel"; text = "スズカ壁用標準色"; ObjectID = "FF5-Hb-H01";</note>
+      </trans-unit>
+      <trans-unit id="PZb-UI-5jN.text" xml:space="preserve">
+        <source>スズカ屋根用標準色</source>
+        <target>スズカ屋根用標準色</target>
+        <note>Class = "UILabel"; text = "スズカ屋根用標準色"; ObjectID = "PZb-UI-5jN";</note>
+      </trans-unit>
+      <trans-unit id="Syn-e8-VAe.text" xml:space="preserve">
+        <source>水性ジェルアートSi</source>
+        <target>水性ジェルアートSi</target>
+        <note>Class = "UILabel"; text = "水性ジェルアートSi"; ObjectID = "Syn-e8-VAe";</note>
+      </trans-unit>
+      <trans-unit id="UbI-sH-39e.text" xml:space="preserve">
+        <source>日塗工K版</source>
+        <target>日塗工K版</target>
+        <note>Class = "UILabel"; text = "日塗工K版"; ObjectID = "UbI-sH-39e";</note>
+      </trans-unit>
+      <trans-unit id="YUa-Pe-Jbm.text" xml:space="preserve">
+        <source>色設定なし</source>
+        <target>色設定なし</target>
+        <note>Class = "UILabel"; text = "色設定なし"; ObjectID = "YUa-Pe-Jbm";</note>
+      </trans-unit>
+      <trans-unit id="b3O-lU-ieJ.text" xml:space="preserve">
+        <source>色取得</source>
+        <target>色取得</target>
+        <note>Class = "UILabel"; text = "色取得"; ObjectID = "b3O-lU-ieJ";</note>
+      </trans-unit>
+      <trans-unit id="hlz-Jg-vQs.text" xml:space="preserve">
+        <source>スズカ遮熱用CS版</source>
+        <target>スズカ遮熱用CS版</target>
+        <note>Class = "UILabel"; text = "スズカ遮熱用CS版"; ObjectID = "hlz-Jg-vQs";</note>
+      </trans-unit>
+      <trans-unit id="ho5-Gv-FxM.text" xml:space="preserve">
+        <source>WBアートSi</source>
+        <target>WBアートSi</target>
+        <note>Class = "UILabel"; text = "WBアートSi"; ObjectID = "ho5-Gv-FxM";</note>
+      </trans-unit>
+      <trans-unit id="iXQ-C1-Yc5.text" xml:space="preserve">
+        <source>本アプリケーションで表示される色はスズカファインが独自に測定
+したイメージ色です。実際の塗料の色とは異なる場合がありますので
+塗料をご発注する際には</source>
+        <target>本アプリケーションで表示される色はスズカファインが独自に測定
+したイメージ色です。実際の塗料の色とは異なる場合がありますので
+塗料をご発注する際には</target>
+        <note>Class = "UILabel"; text = "本アプリケーションで表示される色はスズカファインが独自に測定\nしたイメージ色です。実際の塗料の色とは異なる場合がありますので\n塗料をご発注する際には"; ObjectID = "iXQ-C1-Yc5";</note>
+      </trans-unit>
+      <trans-unit id="tTy-RK-bvQ.text" xml:space="preserve">
+        <source>配色アシスト</source>
+        <target>配色アシスト</target>
+        <note>Class = "UILabel"; text = "配色アシスト"; ObjectID = "tTy-RK-bvQ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/CSColorViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="0En-NJ-dTN.text" xml:space="preserve">
+        <source>CS7234</source>
+        <target>CS7234</target>
+        <note>Class = "UILabel"; text = "CS7234"; ObjectID = "0En-NJ-dTN";</note>
+      </trans-unit>
+      <trans-unit id="2C2-7x-xt4.text" xml:space="preserve">
+        <source>CS4207</source>
+        <target>CS4207</target>
+        <note>Class = "UILabel"; text = "CS4207"; ObjectID = "2C2-7x-xt4";</note>
+      </trans-unit>
+      <trans-unit id="4gi-1G-B3c.text" xml:space="preserve">
+        <source>CS8204</source>
+        <target>CS8204</target>
+        <note>Class = "UILabel"; text = "CS8204"; ObjectID = "4gi-1G-B3c";</note>
+      </trans-unit>
+      <trans-unit id="6eT-dV-l4f.text" xml:space="preserve">
+        <source>CS0356</source>
+        <target>CS0356</target>
+        <note>Class = "UILabel"; text = "CS0356"; ObjectID = "6eT-dV-l4f";</note>
+      </trans-unit>
+      <trans-unit id="6jx-oB-M1r.text" xml:space="preserve">
+        <source>CS2313</source>
+        <target>CS2313</target>
+        <note>Class = "UILabel"; text = "CS2313"; ObjectID = "6jx-oB-M1r";</note>
+      </trans-unit>
+      <trans-unit id="73c-vj-dfF.text" xml:space="preserve">
+        <source>CS3856</source>
+        <target>CS3856</target>
+        <note>Class = "UILabel"; text = "CS3856"; ObjectID = "73c-vj-dfF";</note>
+      </trans-unit>
+      <trans-unit id="92z-Fq-sXN.text" xml:space="preserve">
+        <source>CS3507</source>
+        <target>CS3507</target>
+        <note>Class = "UILabel"; text = "CS3507"; ObjectID = "92z-Fq-sXN";</note>
+      </trans-unit>
+      <trans-unit id="C3o-td-Gj1.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "C3o-td-Gj1";</note>
+      </trans-unit>
+      <trans-unit id="DSz-bn-YPD.text" xml:space="preserve">
+        <source>CS8104</source>
+        <target>CS8104</target>
+        <note>Class = "UILabel"; text = "CS8104"; ObjectID = "DSz-bn-YPD";</note>
+      </trans-unit>
+      <trans-unit id="EUM-CV-GKp.text" xml:space="preserve">
+        <source>CS4287</source>
+        <target>CS4287</target>
+        <note>Class = "UILabel"; text = "CS4287"; ObjectID = "EUM-CV-GKp";</note>
+      </trans-unit>
+      <trans-unit id="Eor-be-XTV.text" xml:space="preserve">
+        <source>CS0375</source>
+        <target>CS0375</target>
+        <note>Class = "UILabel"; text = "CS0375"; ObjectID = "Eor-be-XTV";</note>
+      </trans-unit>
+      <trans-unit id="EwK-qf-gkS.text" xml:space="preserve">
+        <source>CS4838</source>
+        <target>CS4838</target>
+        <note>Class = "UILabel"; text = "CS4838"; ObjectID = "EwK-qf-gkS";</note>
+      </trans-unit>
+      <trans-unit id="FI0-4y-6vC.text" xml:space="preserve">
+        <source>CS7018</source>
+        <target>CS7018</target>
+        <note>Class = "UILabel"; text = "CS7018"; ObjectID = "FI0-4y-6vC";</note>
+      </trans-unit>
+      <trans-unit id="HE7-ag-K6w.text" xml:space="preserve">
+        <source>CS8037</source>
+        <target>CS8037</target>
+        <note>Class = "UILabel"; text = "CS8037"; ObjectID = "HE7-ag-K6w";</note>
+      </trans-unit>
+      <trans-unit id="HTY-K0-4wv.text" xml:space="preserve">
+        <source>CS4117</source>
+        <target>CS4117</target>
+        <note>Class = "UILabel"; text = "CS4117"; ObjectID = "HTY-K0-4wv";</note>
+      </trans-unit>
+      <trans-unit id="HUO-BC-l8T.text" xml:space="preserve">
+        <source>CS6077</source>
+        <target>CS6077</target>
+        <note>Class = "UILabel"; text = "CS6077"; ObjectID = "HUO-BC-l8T";</note>
+      </trans-unit>
+      <trans-unit id="HtV-ek-t4V.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "HtV-ek-t4V";</note>
+      </trans-unit>
+      <trans-unit id="JiS-Ze-Ik3.text" xml:space="preserve">
+        <source>CS0028</source>
+        <target>CS0028</target>
+        <note>Class = "UILabel"; text = "CS0028"; ObjectID = "JiS-Ze-Ik3";</note>
+      </trans-unit>
+      <trans-unit id="KLq-jW-gPh.text" xml:space="preserve">
+        <source>CS4758</source>
+        <target>CS4758</target>
+        <note>Class = "UILabel"; text = "CS4758"; ObjectID = "KLq-jW-gPh";</note>
+      </trans-unit>
+      <trans-unit id="Lc9-eH-znO.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "Lc9-eH-znO";</note>
+      </trans-unit>
+      <trans-unit id="Mk6-55-mMo.text" xml:space="preserve">
+        <source>CS4558</source>
+        <target>CS4558</target>
+        <note>Class = "UILabel"; text = "CS4558"; ObjectID = "Mk6-55-mMo";</note>
+      </trans-unit>
+      <trans-unit id="OFD-zg-HYq.text" xml:space="preserve">
+        <source>CS7104</source>
+        <target>CS7104</target>
+        <note>Class = "UILabel"; text = "CS7104"; ObjectID = "OFD-zg-HYq";</note>
+      </trans-unit>
+      <trans-unit id="OxN-yU-9Gs.text" xml:space="preserve">
+        <source>CS8224</source>
+        <target>CS8224</target>
+        <note>Class = "UILabel"; text = "CS8224"; ObjectID = "OxN-yU-9Gs";</note>
+      </trans-unit>
+      <trans-unit id="PLg-Rk-IkJ.text" xml:space="preserve">
+        <source>CS6028</source>
+        <target>CS6028</target>
+        <note>Class = "UILabel"; text = "CS6028"; ObjectID = "PLg-Rk-IkJ";</note>
+      </trans-unit>
+      <trans-unit id="PNQ-DD-H5g.text" xml:space="preserve">
+        <source>CS0118</source>
+        <target>CS0118</target>
+        <note>Class = "UILabel"; text = "CS0118"; ObjectID = "PNQ-DD-H5g";</note>
+      </trans-unit>
+      <trans-unit id="Px8-Ub-4pu.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "Px8-Ub-4pu";</note>
+      </trans-unit>
+      <trans-unit id="RKJ-J0-kFt.text" xml:space="preserve">
+        <source>CS2218</source>
+        <target>CS2218</target>
+        <note>Class = "UILabel"; text = "CS2218"; ObjectID = "RKJ-J0-kFt";</note>
+      </trans-unit>
+      <trans-unit id="SQk-v3-K5f.text" xml:space="preserve">
+        <source>CS0391</source>
+        <target>CS0391</target>
+        <note>Class = "UILabel"; text = "CS0391"; ObjectID = "SQk-v3-K5f";</note>
+      </trans-unit>
+      <trans-unit id="TED-3k-eeF.text" xml:space="preserve">
+        <source>CS3826</source>
+        <target>CS3826</target>
+        <note>Class = "UILabel"; text = "CS3826"; ObjectID = "TED-3k-eeF";</note>
+      </trans-unit>
+      <trans-unit id="THb-WI-iJj.text" xml:space="preserve">
+        <source>CS3915</source>
+        <target>CS3915</target>
+        <note>Class = "UILabel"; text = "CS3915"; ObjectID = "THb-WI-iJj";</note>
+      </trans-unit>
+      <trans-unit id="TVn-pi-7bR.text" xml:space="preserve">
+        <source>CS7027</source>
+        <target>CS7027</target>
+        <note>Class = "UILabel"; text = "CS7027"; ObjectID = "TVn-pi-7bR";</note>
+      </trans-unit>
+      <trans-unit id="TtO-gc-gMi.text" xml:space="preserve">
+        <source>CS2371</source>
+        <target>CS2371</target>
+        <note>Class = "UILabel"; text = "CS2371"; ObjectID = "TtO-gc-gMi";</note>
+      </trans-unit>
+      <trans-unit id="Ukh-ce-Tbf.text" xml:space="preserve">
+        <source>CS6507</source>
+        <target>CS6507</target>
+        <note>Class = "UILabel"; text = "CS6507"; ObjectID = "Ukh-ce-Tbf";</note>
+      </trans-unit>
+      <trans-unit id="VDc-hu-kix.text" xml:space="preserve">
+        <source>CS0327</source>
+        <target>CS0327</target>
+        <note>Class = "UILabel"; text = "CS0327"; ObjectID = "VDc-hu-kix";</note>
+      </trans-unit>
+      <trans-unit id="YPg-lu-DXf.text" xml:space="preserve">
+        <source>CS8123</source>
+        <target>CS8123</target>
+        <note>Class = "UILabel"; text = "CS8123"; ObjectID = "YPg-lu-DXf";</note>
+      </trans-unit>
+      <trans-unit id="akQ-gI-zK7.text" xml:space="preserve">
+        <source>CS2048</source>
+        <target>CS2048</target>
+        <note>Class = "UILabel"; text = "CS2048"; ObjectID = "akQ-gI-zK7";</note>
+      </trans-unit>
+      <trans-unit id="apu-PV-LJc.text" xml:space="preserve">
+        <source>CS2758</source>
+        <target>CS2758</target>
+        <note>Class = "UILabel"; text = "CS2758"; ObjectID = "apu-PV-LJc";</note>
+      </trans-unit>
+      <trans-unit id="dCa-XS-smm.text" xml:space="preserve">
+        <source>CS3596</source>
+        <target>CS3596</target>
+        <note>Class = "UILabel"; text = "CS3596"; ObjectID = "dCa-XS-smm";</note>
+      </trans-unit>
+      <trans-unit id="dKA-0o-cvI.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "dKA-0o-cvI";</note>
+      </trans-unit>
+      <trans-unit id="eCO-vC-Uff.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "eCO-vC-Uff";</note>
+      </trans-unit>
+      <trans-unit id="fLo-el-iZt.text" xml:space="preserve">
+        <source>CS0018</source>
+        <target>CS0018</target>
+        <note>Class = "UILabel"; text = "CS0018"; ObjectID = "fLo-el-iZt";</note>
+      </trans-unit>
+      <trans-unit id="fi0-sz-zwW.text" xml:space="preserve">
+        <source>CS4197</source>
+        <target>CS4197</target>
+        <note>Class = "UILabel"; text = "CS4197"; ObjectID = "fi0-sz-zwW";</note>
+      </trans-unit>
+      <trans-unit id="fuv-wh-B7Q.text" xml:space="preserve">
+        <source>CS7123</source>
+        <target>CS7123</target>
+        <note>Class = "UILabel"; text = "CS7123"; ObjectID = "fuv-wh-B7Q";</note>
+      </trans-unit>
+      <trans-unit id="g2b-iz-0sX.text" xml:space="preserve">
+        <source>CS0057</source>
+        <target>CS0057</target>
+        <note>Class = "UILabel"; text = "CS0057"; ObjectID = "g2b-iz-0sX";</note>
+      </trans-unit>
+      <trans-unit id="hLG-5n-09b.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "hLG-5n-09b";</note>
+      </trans-unit>
+      <trans-unit id="htz-Tj-2Qg.text" xml:space="preserve">
+        <source>CS4038</source>
+        <target>CS4038</target>
+        <note>Class = "UILabel"; text = "CS4038"; ObjectID = "htz-Tj-2Qg";</note>
+      </trans-unit>
+      <trans-unit id="jaA-ja-lUx.text" xml:space="preserve">
+        <source>CS0097</source>
+        <target>CS0097</target>
+        <note>Class = "UILabel"; text = "CS0097"; ObjectID = "jaA-ja-lUx";</note>
+      </trans-unit>
+      <trans-unit id="kWK-wB-8Ih.text" xml:space="preserve">
+        <source>CS3586</source>
+        <target>CS3586</target>
+        <note>Class = "UILabel"; text = "CS3586"; ObjectID = "kWK-wB-8Ih";</note>
+      </trans-unit>
+      <trans-unit id="lA6-jY-e3D.text" xml:space="preserve">
+        <source>CS5008</source>
+        <target>CS5008</target>
+        <note>Class = "UILabel"; text = "CS5008"; ObjectID = "lA6-jY-e3D";</note>
+      </trans-unit>
+      <trans-unit id="lKq-qM-LN3.text" xml:space="preserve">
+        <source>CS7056</source>
+        <target>CS7056</target>
+        <note>Class = "UILabel"; text = "CS7056"; ObjectID = "lKq-qM-LN3";</note>
+      </trans-unit>
+      <trans-unit id="mK1-Cl-H7G.text" xml:space="preserve">
+        <source>CS2776</source>
+        <target>CS2776</target>
+        <note>Class = "UILabel"; text = "CS2776"; ObjectID = "mK1-Cl-H7G";</note>
+      </trans-unit>
+      <trans-unit id="mMy-zv-PPL.text" xml:space="preserve">
+        <source>CS3037</source>
+        <target>CS3037</target>
+        <note>Class = "UILabel"; text = "CS3037"; ObjectID = "mMy-zv-PPL";</note>
+      </trans-unit>
+      <trans-unit id="n0C-I5-RbK.text" xml:space="preserve">
+        <source>CS2352</source>
+        <target>CS2352</target>
+        <note>Class = "UILabel"; text = "CS2352"; ObjectID = "n0C-I5-RbK";</note>
+      </trans-unit>
+      <trans-unit id="nHO-8O-pxw.text" xml:space="preserve">
+        <source>CS8252</source>
+        <target>CS8252</target>
+        <note>Class = "UILabel"; text = "CS8252"; ObjectID = "nHO-8O-pxw";</note>
+      </trans-unit>
+      <trans-unit id="oe3-sy-6LB.text" xml:space="preserve">
+        <source>CS2018</source>
+        <target>CS2018</target>
+        <note>Class = "UILabel"; text = "CS2018"; ObjectID = "oe3-sy-6LB";</note>
+      </trans-unit>
+      <trans-unit id="qz7-6e-7o3.text" xml:space="preserve">
+        <source>CS0393</source>
+        <target>CS0393</target>
+        <note>Class = "UILabel"; text = "CS0393"; ObjectID = "qz7-6e-7o3";</note>
+      </trans-unit>
+      <trans-unit id="s7r-Ar-Xxi.text" xml:space="preserve">
+        <source>CS8018</source>
+        <target>CS8018</target>
+        <note>Class = "UILabel"; text = "CS8018"; ObjectID = "s7r-Ar-Xxi";</note>
+      </trans-unit>
+      <trans-unit id="sCf-ww-rAm.text" xml:space="preserve">
+        <source>CS3528</source>
+        <target>CS3528</target>
+        <note>Class = "UILabel"; text = "CS3528"; ObjectID = "sCf-ww-rAm";</note>
+      </trans-unit>
+      <trans-unit id="sxU-DW-ejo.text" xml:space="preserve">
+        <source>CS4018</source>
+        <target>CS4018</target>
+        <note>Class = "UILabel"; text = "CS4018"; ObjectID = "sxU-DW-ejo";</note>
+      </trans-unit>
+      <trans-unit id="tUa-g6-VsM.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "tUa-g6-VsM";</note>
+      </trans-unit>
+      <trans-unit id="tiz-kE-p8a.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "tiz-kE-p8a";</note>
+      </trans-unit>
+      <trans-unit id="u9r-Gx-nDh.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "u9r-Gx-nDh";</note>
+      </trans-unit>
+      <trans-unit id="uSc-bv-UUi.text" xml:space="preserve">
+        <source>CS0308</source>
+        <target>CS0308</target>
+        <note>Class = "UILabel"; text = "CS0308"; ObjectID = "uSc-bv-UUi";</note>
+      </trans-unit>
+      <trans-unit id="v5G-6t-x6A.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "v5G-6t-x6A";</note>
+      </trans-unit>
+      <trans-unit id="vHk-39-PNW.text" xml:space="preserve">
+        <source>CS0106</source>
+        <target>CS0106</target>
+        <note>Class = "UILabel"; text = "CS0106"; ObjectID = "vHk-39-PNW";</note>
+      </trans-unit>
+      <trans-unit id="w1f-gt-cvd.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "w1f-gt-cvd";</note>
+      </trans-unit>
+      <trans-unit id="wWP-se-JKE.text" xml:space="preserve">
+        <source>CS2303</source>
+        <target>CS2303</target>
+        <note>Class = "UILabel"; text = "CS2303"; ObjectID = "wWP-se-JKE";</note>
+      </trans-unit>
+      <trans-unit id="xLF-as-Akj.text" xml:space="preserve">
+        <source>CS7152</source>
+        <target>CS7152</target>
+        <note>Class = "UILabel"; text = "CS7152"; ObjectID = "xLF-as-Akj";</note>
+      </trans-unit>
+      <trans-unit id="xeN-lG-2lb.text" xml:space="preserve">
+        <source>CS2323</source>
+        <target>CS2323</target>
+        <note>Class = "UILabel"; text = "CS2323"; ObjectID = "xeN-lG-2lb";</note>
+      </trans-unit>
+      <trans-unit id="xj9-K8-aJu.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "xj9-K8-aJu";</note>
+      </trans-unit>
+      <trans-unit id="xyk-QO-VEA.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "xyk-QO-VEA";</note>
+      </trans-unit>
+      <trans-unit id="yJk-rb-D1m.text" xml:space="preserve">
+        <source>CS7215</source>
+        <target>CS7215</target>
+        <note>Class = "UILabel"; text = "CS7215"; ObjectID = "yJk-rb-D1m";</note>
+      </trans-unit>
+      <trans-unit id="yWS-S2-9nD.text" xml:space="preserve">
+        <source>CS8056</source>
+        <target>CS8056</target>
+        <note>Class = "UILabel"; text = "CS8056"; ObjectID = "yWS-S2-9nD";</note>
+      </trans-unit>
+      <trans-unit id="yXe-VP-LPO.text" xml:space="preserve">
+        <source>CS3226</source>
+        <target>CS3226</target>
+        <note>Class = "UILabel"; text = "CS3226"; ObjectID = "yXe-VP-LPO";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/ExportMapModalController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="uck-XY-gkw.normalTitle" xml:space="preserve">
+        <source>住所表示あり</source>
+        <target>住所表示あり</target>
+        <note>Class = "UIButton"; normalTitle = "住所表示あり"; ObjectID = "uck-XY-gkw";</note>
+      </trans-unit>
+      <trans-unit id="xSg-Ie-Ytb.normalTitle" xml:space="preserve">
+        <source>住所表示なし</source>
+        <target>住所表示なし</target>
+        <note>Class = "UIButton"; normalTitle = "住所表示なし"; ObjectID = "xSg-Ie-Ytb";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/HouseTemplateViewController_Potrait.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="4Nn-WB-y7h.text" xml:space="preserve">
+        <source>ク丨ル</source>
+        <target>ク丨ル</target>
+        <note>Class = "UILabel"; text = "ク丨ル"; ObjectID = "4Nn-WB-y7h";</note>
+      </trans-unit>
+      <trans-unit id="AJi-r7-g9M.text" xml:space="preserve">
+        <source>クラシック</source>
+        <target>クラシック</target>
+        <note>Class = "UILabel"; text = "クラシック"; ObjectID = "AJi-r7-g9M";</note>
+      </trans-unit>
+      <trans-unit id="GYE-Mk-knJ.text" xml:space="preserve">
+        <source>ナチュラル</source>
+        <target>ナチュラル</target>
+        <note>Class = "UILabel"; text = "ナチュラル"; ObjectID = "GYE-Mk-knJ";</note>
+      </trans-unit>
+      <trans-unit id="NsT-i6-T1Q.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "NsT-i6-T1Q";</note>
+      </trans-unit>
+      <trans-unit id="ZeA-MM-Ui8.text" xml:space="preserve">
+        <source>エレガント</source>
+        <target>エレガント</target>
+        <note>Class = "UILabel"; text = "エレガント"; ObjectID = "ZeA-MM-Ui8";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/HouseTemplateViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="2rD-EQ-ghf.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "2rD-EQ-ghf";</note>
+      </trans-unit>
+      <trans-unit id="53I-ec-y6o.normalTitle" xml:space="preserve">
+        <source>クラシック</source>
+        <target>クラシック</target>
+        <note>Class = "UIButton"; normalTitle = "クラシック"; ObjectID = "53I-ec-y6o";</note>
+      </trans-unit>
+      <trans-unit id="L73-S5-QK9.normalTitle" xml:space="preserve">
+        <source>エレガント</source>
+        <target>エレガント</target>
+        <note>Class = "UIButton"; normalTitle = "エレガント"; ObjectID = "L73-S5-QK9";</note>
+      </trans-unit>
+      <trans-unit id="jra-Ac-WFD.normalTitle" xml:space="preserve">
+        <source>ナチュラル</source>
+        <target>ナチュラル</target>
+        <note>Class = "UIButton"; normalTitle = "ナチュラル"; ObjectID = "jra-Ac-WFD";</note>
+      </trans-unit>
+      <trans-unit id="km4-lt-ipX.normalTitle" xml:space="preserve">
+        <source>クール</source>
+        <target>クール</target>
+        <note>Class = "UIButton"; normalTitle = "クール"; ObjectID = "km4-lt-ipX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/LayerPickerViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="2u9-Sb-hPx.text" xml:space="preserve">
+        <source>部位のリストが表示されます</source>
+        <target>部位のリストが表示されます</target>
+        <note>Class = "UILabel"; text = "部位のリストが表示されます"; ObjectID = "2u9-Sb-hPx";</note>
+      </trans-unit>
+      <trans-unit id="vdq-ea-NJE.text" xml:space="preserve">
+        <source>※その他は塗板注文システムとは連動しないのでご注意願います。</source>
+        <target>※その他は塗板注文システムとは連動しないのでご注意願います。</target>
+        <note>Class = "UILabel"; text = "※その他は塗板注文システムとは連動しないのでご注意願います。"; ObjectID = "vdq-ea-NJE";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/OutputPickerViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="4Bw-fQ-JmN.text" xml:space="preserve">
+        <source>Printer</source>
+        <target>Printer</target>
+        <note>Class = "UILabel"; text = "Printer"; ObjectID = "4Bw-fQ-JmN";</note>
+      </trans-unit>
+      <trans-unit id="5hm-nV-OZA.text" xml:space="preserve">
+        <source>Mail</source>
+        <target>Mail</target>
+        <note>Class = "UILabel"; text = "Mail"; ObjectID = "5hm-nV-OZA";</note>
+      </trans-unit>
+      <trans-unit id="31O-xY-VcJ.text" xml:space="preserve">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Class = "UILabel"; text = "Twitter"; ObjectID = "31O-xY-VcJ";</note>
+      </trans-unit>
+      <trans-unit id="Wv3-Ey-NNC.segmentTitles[0]" xml:space="preserve">
+        <source>JPG</source>
+        <target>JPG</target>
+        <note>Class = "UISegmentedControl"; Wv3-Ey-NNC.segmentTitles[0] = "JPG"; ObjectID = "Wv3-Ey-NNC";</note>
+      </trans-unit>
+      <trans-unit id="Wv3-Ey-NNC.segmentTitles[1]" xml:space="preserve">
+        <source>PDF</source>
+        <target>PDF</target>
+        <note>Class = "UISegmentedControl"; Wv3-Ey-NNC.segmentTitles[1] = "PDF"; ObjectID = "Wv3-Ey-NNC";</note>
+      </trans-unit>
+      <trans-unit id="bKZ-R1-8yS.text" xml:space="preserve">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Class = "UILabel"; text = "Facebook"; ObjectID = "bKZ-R1-8yS";</note>
+      </trans-unit>
+      <trans-unit id="dvH-vv-mMd.text" xml:space="preserve">
+        <source>出力選択画面</source>
+        <target>出力選択画面</target>
+        <note>Class = "UILabel"; text = "出力選択画面"; ObjectID = "dvH-vv-mMd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/PatternPickerViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="9DW-4x-bvL.text" xml:space="preserve">
+        <source>ＧＴ１０６</source>
+        <target>ＧＴ１０６</target>
+        <note>Class = "UILabel"; text = "ＧＴ１０６"; ObjectID = "9DW-4x-bvL";</note>
+      </trans-unit>
+      <trans-unit id="Akg-AI-Olh.text" xml:space="preserve">
+        <source>ＧＴ２０４</source>
+        <target>ＧＴ２０４</target>
+        <note>Class = "UILabel"; text = "ＧＴ２０４"; ObjectID = "Akg-AI-Olh";</note>
+      </trans-unit>
+      <trans-unit id="Tws-Uo-eIl.text" xml:space="preserve">
+        <source>ＧＴ６０１</source>
+        <target>ＧＴ６０１</target>
+        <note>Class = "UILabel"; text = "ＧＴ６０１"; ObjectID = "Tws-Uo-eIl";</note>
+      </trans-unit>
+      <trans-unit id="cvV-DR-nnI.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "cvV-DR-nnI";</note>
+      </trans-unit>
+      <trans-unit id="fbb-a4-E5H.text" xml:space="preserve">
+        <source>ＧＴ４０８</source>
+        <target>ＧＴ４０８</target>
+        <note>Class = "UILabel"; text = "ＧＴ４０８"; ObjectID = "fbb-a4-E5H";</note>
+      </trans-unit>
+      <trans-unit id="glh-bI-E3K.text" xml:space="preserve">
+        <source>ＧＴ４０７</source>
+        <target>ＧＴ４０７</target>
+        <note>Class = "UILabel"; text = "ＧＴ４０７"; ObjectID = "glh-bI-E3K";</note>
+      </trans-unit>
+      <trans-unit id="kS8-Am-DA2.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "kS8-Am-DA2";</note>
+      </trans-unit>
+      <trans-unit id="ldh-Wq-Bhb.text" xml:space="preserve">
+        <source>ＧＴ１０２</source>
+        <target>ＧＴ１０２</target>
+        <note>Class = "UILabel"; text = "ＧＴ１０２"; ObjectID = "ldh-Wq-Bhb";</note>
+      </trans-unit>
+      <trans-unit id="wM4-po-g7C.text" xml:space="preserve">
+        <source>ＧＴ３０５</source>
+        <target>ＧＴ３０５</target>
+        <note>Class = "UILabel"; text = "ＧＴ３０５"; ObjectID = "wM4-po-g7C";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/SuzukafineViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="0qx-IH-JbA.text" xml:space="preserve">
+        <source>A370</source>
+        <target>A370</target>
+        <note>Class = "UILabel"; text = "A370"; ObjectID = "0qx-IH-JbA";</note>
+      </trans-unit>
+      <trans-unit id="1WR-sv-pYj.text" xml:space="preserve">
+        <source>A322</source>
+        <target>A322</target>
+        <note>Class = "UILabel"; text = "A322"; ObjectID = "1WR-sv-pYj";</note>
+      </trans-unit>
+      <trans-unit id="7jj-dX-0hK.text" xml:space="preserve">
+        <source>A263</source>
+        <target>A263</target>
+        <note>Class = "UILabel"; text = "A263"; ObjectID = "7jj-dX-0hK";</note>
+      </trans-unit>
+      <trans-unit id="BbB-Ep-wPh.text" xml:space="preserve">
+        <source>A303</source>
+        <target>A303</target>
+        <note>Class = "UILabel"; text = "A303"; ObjectID = "BbB-Ep-wPh";</note>
+      </trans-unit>
+      <trans-unit id="DaD-jZ-ZN6.text" xml:space="preserve">
+        <source>A428</source>
+        <target>A428</target>
+        <note>Class = "UILabel"; text = "A428"; ObjectID = "DaD-jZ-ZN6";</note>
+      </trans-unit>
+      <trans-unit id="FgM-62-xgA.text" xml:space="preserve">
+        <source>A273</source>
+        <target>A273</target>
+        <note>Class = "UILabel"; text = "A273"; ObjectID = "FgM-62-xgA";</note>
+      </trans-unit>
+      <trans-unit id="Fug-mw-kEA.text" xml:space="preserve">
+        <source>A352</source>
+        <target>A352</target>
+        <note>Class = "UILabel"; text = "A352"; ObjectID = "Fug-mw-kEA";</note>
+      </trans-unit>
+      <trans-unit id="GjV-BJ-kn9.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "GjV-BJ-kn9";</note>
+      </trans-unit>
+      <trans-unit id="IgJ-oj-Mot.text" xml:space="preserve">
+        <source>A350</source>
+        <target>A350</target>
+        <note>Class = "UILabel"; text = "A350"; ObjectID = "IgJ-oj-Mot";</note>
+      </trans-unit>
+      <trans-unit id="Jgr-fX-1np.text" xml:space="preserve">
+        <source>A261</source>
+        <target>A261</target>
+        <note>Class = "UILabel"; text = "A261"; ObjectID = "Jgr-fX-1np";</note>
+      </trans-unit>
+      <trans-unit id="Pgi-bL-N3B.text" xml:space="preserve">
+        <source>A320</source>
+        <target>A320</target>
+        <note>Class = "UILabel"; text = "A320"; ObjectID = "Pgi-bL-N3B";</note>
+      </trans-unit>
+      <trans-unit id="U0C-bL-PJA.text" xml:space="preserve">
+        <source>A411</source>
+        <target>A411</target>
+        <note>Class = "UILabel"; text = "A411"; ObjectID = "U0C-bL-PJA";</note>
+      </trans-unit>
+      <trans-unit id="W0K-eA-n5H.text" xml:space="preserve">
+        <source>A260</source>
+        <target>A260</target>
+        <note>Class = "UILabel"; text = "A260"; ObjectID = "W0K-eA-n5H";</note>
+      </trans-unit>
+      <trans-unit id="XGE-I0-A1H.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "XGE-I0-A1H";</note>
+      </trans-unit>
+      <trans-unit id="Xdh-13-n9a.text" xml:space="preserve">
+        <source>A500</source>
+        <target>A500</target>
+        <note>Class = "UILabel"; text = "A500"; ObjectID = "Xdh-13-n9a";</note>
+      </trans-unit>
+      <trans-unit id="Yli-GJ-Jhv.text" xml:space="preserve">
+        <source>A602</source>
+        <target>A602</target>
+        <note>Class = "UILabel"; text = "A602"; ObjectID = "Yli-GJ-Jhv";</note>
+      </trans-unit>
+      <trans-unit id="Ynk-bW-3x0.text" xml:space="preserve">
+        <source>A455</source>
+        <target>A455</target>
+        <note>Class = "UILabel"; text = "A455"; ObjectID = "Ynk-bW-3x0";</note>
+      </trans-unit>
+      <trans-unit id="Z6i-yh-lek.text" xml:space="preserve">
+        <source>A201</source>
+        <target>A201</target>
+        <note>Class = "UILabel"; text = "A201"; ObjectID = "Z6i-yh-lek";</note>
+      </trans-unit>
+      <trans-unit id="b36-Xe-UL8.text" xml:space="preserve">
+        <source>A271</source>
+        <target>A271</target>
+        <note>Class = "UILabel"; text = "A271"; ObjectID = "b36-Xe-UL8";</note>
+      </trans-unit>
+      <trans-unit id="daU-So-9bp.text" xml:space="preserve">
+        <source>A305</source>
+        <target>A305</target>
+        <note>Class = "UILabel"; text = "A305"; ObjectID = "daU-So-9bp";</note>
+      </trans-unit>
+      <trans-unit id="eAm-hR-XiM.text" xml:space="preserve">
+        <source>A272</source>
+        <target>A272</target>
+        <note>Class = "UILabel"; text = "A272"; ObjectID = "eAm-hR-XiM";</note>
+      </trans-unit>
+      <trans-unit id="fPp-EK-rm9.text" xml:space="preserve">
+        <source>A470</source>
+        <target>A470</target>
+        <note>Class = "UILabel"; text = "A470"; ObjectID = "fPp-EK-rm9";</note>
+      </trans-unit>
+      <trans-unit id="ft1-sX-U1t.text" xml:space="preserve">
+        <source>A650</source>
+        <target>A650</target>
+        <note>Class = "UILabel"; text = "A650"; ObjectID = "ft1-sX-U1t";</note>
+      </trans-unit>
+      <trans-unit id="g2o-RH-vod.text" xml:space="preserve">
+        <source>A471</source>
+        <target>A471</target>
+        <note>Class = "UILabel"; text = "A471"; ObjectID = "g2o-RH-vod";</note>
+      </trans-unit>
+      <trans-unit id="g5k-P2-8p6.text" xml:space="preserve">
+        <source>A403</source>
+        <target>A403</target>
+        <note>Class = "UILabel"; text = "A403"; ObjectID = "g5k-P2-8p6";</note>
+      </trans-unit>
+      <trans-unit id="gVw-5T-PTR.text" xml:space="preserve">
+        <source>A021</source>
+        <target>A021</target>
+        <note>Class = "UILabel"; text = "A021"; ObjectID = "gVw-5T-PTR";</note>
+      </trans-unit>
+      <trans-unit id="gXV-Do-hAo.text" xml:space="preserve">
+        <source>A419</source>
+        <target>A419</target>
+        <note>Class = "UILabel"; text = "A419"; ObjectID = "gXV-Do-hAo";</note>
+      </trans-unit>
+      <trans-unit id="hMK-hb-wqs.text" xml:space="preserve">
+        <source>A607</source>
+        <target>A607</target>
+        <note>Class = "UILabel"; text = "A607"; ObjectID = "hMK-hb-wqs";</note>
+      </trans-unit>
+      <trans-unit id="iow-Gd-GIE.text" xml:space="preserve">
+        <source>A652</source>
+        <target>A652</target>
+        <note>Class = "UILabel"; text = "A652"; ObjectID = "iow-Gd-GIE";</note>
+      </trans-unit>
+      <trans-unit id="kCm-eA-cQn.text" xml:space="preserve">
+        <source>A417</source>
+        <target>A417</target>
+        <note>Class = "UILabel"; text = "A417"; ObjectID = "kCm-eA-cQn";</note>
+      </trans-unit>
+      <trans-unit id="kPa-kr-irl.text" xml:space="preserve">
+        <source>A005</source>
+        <target>A005</target>
+        <note>Class = "UILabel"; text = "A005"; ObjectID = "kPa-kr-irl";</note>
+      </trans-unit>
+      <trans-unit id="lcs-nk-28r.text" xml:space="preserve">
+        <source>A359</source>
+        <target>A359</target>
+        <note>Class = "UILabel"; text = "A359"; ObjectID = "lcs-nk-28r";</note>
+      </trans-unit>
+      <trans-unit id="m2j-rg-mvF.text" xml:space="preserve">
+        <source>A401</source>
+        <target>A401</target>
+        <note>Class = "UILabel"; text = "A401"; ObjectID = "m2j-rg-mvF";</note>
+      </trans-unit>
+      <trans-unit id="ohM-w7-qAf.text" xml:space="preserve">
+        <source>A013</source>
+        <target>A013</target>
+        <note>Class = "UILabel"; text = "A013"; ObjectID = "ohM-w7-qAf";</note>
+      </trans-unit>
+      <trans-unit id="qhh-34-52D.text" xml:space="preserve">
+        <source>A009</source>
+        <target>A009</target>
+        <note>Class = "UILabel"; text = "A009"; ObjectID = "qhh-34-52D";</note>
+      </trans-unit>
+      <trans-unit id="rGm-Q4-ub2.text" xml:space="preserve">
+        <source>A358</source>
+        <target>A358</target>
+        <note>Class = "UILabel"; text = "A358"; ObjectID = "rGm-Q4-ub2";</note>
+      </trans-unit>
+      <trans-unit id="rYf-3Z-ei3.text" xml:space="preserve">
+        <source>A010</source>
+        <target>A010</target>
+        <note>Class = "UILabel"; text = "A010"; ObjectID = "rYf-3Z-ei3";</note>
+      </trans-unit>
+      <trans-unit id="s2c-LD-iiH.text" xml:space="preserve">
+        <source>A020</source>
+        <target>A020</target>
+        <note>Class = "UILabel"; text = "A020"; ObjectID = "s2c-LD-iiH";</note>
+      </trans-unit>
+      <trans-unit id="uAh-72-P6n.text" xml:space="preserve">
+        <source>A420</source>
+        <target>A420</target>
+        <note>Class = "UILabel"; text = "A420"; ObjectID = "uAh-72-P6n";</note>
+      </trans-unit>
+      <trans-unit id="vj8-lK-Icg.text" xml:space="preserve">
+        <source>A001</source>
+        <target>A001</target>
+        <note>Class = "UILabel"; text = "A001"; ObjectID = "vj8-lK-Icg";</note>
+      </trans-unit>
+      <trans-unit id="xjb-5Z-7wd.text" xml:space="preserve">
+        <source>A204</source>
+        <target>A204</target>
+        <note>Class = "UILabel"; text = "A204"; ObjectID = "xjb-5Z-7wd";</note>
+      </trans-unit>
+      <trans-unit id="zVr-fN-AJ5.text" xml:space="preserve">
+        <source>A002</source>
+        <target>A002</target>
+        <note>Class = "UILabel"; text = "A002"; ObjectID = "zVr-fN-AJ5";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/CustomViewController/Base.lproj/SuzukaRoofColorViewController.xib" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="1P8-lj-hJM.text" xml:space="preserve">
+        <source>チョコレート</source>
+        <target>チョコレート</target>
+        <note>Class = "UILabel"; text = "チョコレート"; ObjectID = "1P8-lj-hJM";</note>
+      </trans-unit>
+      <trans-unit id="2bE-iN-4Px.text" xml:space="preserve">
+        <source>ホワイト</source>
+        <target>ホワイト</target>
+        <note>Class = "UILabel"; text = "ホワイト"; ObjectID = "2bE-iN-4Px";</note>
+      </trans-unit>
+      <trans-unit id="8br-nI-66B.text" xml:space="preserve">
+        <source>ロイヤルブルー</source>
+        <target>ロイヤルブルー</target>
+        <note>Class = "UILabel"; text = "ロイヤルブルー"; ObjectID = "8br-nI-66B";</note>
+      </trans-unit>
+      <trans-unit id="69h-pJ-efG.text" xml:space="preserve">
+        <source>ライトグレー</source>
+        <target>ライトグレー</target>
+        <note>Class = "UILabel"; text = "ライトグレー"; ObjectID = "69h-pJ-efG";</note>
+      </trans-unit>
+      <trans-unit id="BWY-81-sp8.text" xml:space="preserve">
+        <source>ニューチョコレート</source>
+        <target>ニューチョコレート</target>
+        <note>Class = "UILabel"; text = "ニューチョコレート"; ObjectID = "BWY-81-sp8";</note>
+      </trans-unit>
+      <trans-unit id="Duf-KL-O0d.text" xml:space="preserve">
+        <source>ノアール</source>
+        <target>ノアール</target>
+        <note>Class = "UILabel"; text = "ノアール"; ObjectID = "Duf-KL-O0d";</note>
+      </trans-unit>
+      <trans-unit id="EMU-5X-Mg3.normalTitle" xml:space="preserve">
+        <source>決定</source>
+        <target>決定</target>
+        <note>Class = "UIButton"; normalTitle = "決定"; ObjectID = "EMU-5X-Mg3";</note>
+      </trans-unit>
+      <trans-unit id="FLk-bg-dnb.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "FLk-bg-dnb";</note>
+      </trans-unit>
+      <trans-unit id="Fl5-4g-8kf.text" xml:space="preserve">
+        <source>オーシャンブルー</source>
+        <target>オーシャンブルー</target>
+        <note>Class = "UILabel"; text = "オーシャンブルー"; ObjectID = "Fl5-4g-8kf";</note>
+      </trans-unit>
+      <trans-unit id="J36-W3-ahz.text" xml:space="preserve">
+        <source>ダークグレー</source>
+        <target>ダークグレー</target>
+        <note>Class = "UILabel"; text = "ダークグレー"; ObjectID = "J36-W3-ahz";</note>
+      </trans-unit>
+      <trans-unit id="KR9-Yg-5A1.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "KR9-Yg-5A1";</note>
+      </trans-unit>
+      <trans-unit id="KWv-Dm-x9V.text" xml:space="preserve">
+        <source>しゃくどう</source>
+        <target>しゃくどう</target>
+        <note>Class = "UILabel"; text = "しゃくどう"; ObjectID = "KWv-Dm-x9V";</note>
+      </trans-unit>
+      <trans-unit id="NtN-Xb-zkO.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "NtN-Xb-zkO";</note>
+      </trans-unit>
+      <trans-unit id="Reb-mQ-rbn.text" xml:space="preserve">
+        <source>壁用標準色</source>
+        <target>壁用標準色</target>
+        <note>Class = "UILabel"; text = "壁用標準色"; ObjectID = "Reb-mQ-rbn";</note>
+      </trans-unit>
+      <trans-unit id="SQP-H1-RCT.text" xml:space="preserve">
+        <source>スカイブルー</source>
+        <target>スカイブルー</target>
+        <note>Class = "UILabel"; text = "スカイブルー"; ObjectID = "SQP-H1-RCT";</note>
+      </trans-unit>
+      <trans-unit id="T1N-Kr-PdH.text" xml:space="preserve">
+        <source>チャコールグレー</source>
+        <target>チャコールグレー</target>
+        <note>Class = "UILabel"; text = "チャコールグレー"; ObjectID = "T1N-Kr-PdH";</note>
+      </trans-unit>
+      <trans-unit id="U3T-J8-IFC.text" xml:space="preserve">
+        <source>ブラウン</source>
+        <target>ブラウン</target>
+        <note>Class = "UILabel"; text = "ブラウン"; ObjectID = "U3T-J8-IFC";</note>
+      </trans-unit>
+      <trans-unit id="UHE-cx-fwd.normalTitle" xml:space="preserve">
+        <source>キャンセル</source>
+        <target>キャンセル</target>
+        <note>Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "UHE-cx-fwd";</note>
+      </trans-unit>
+      <trans-unit id="Ulk-k8-LPa.text" xml:space="preserve">
+        <source>クリーム</source>
+        <target>クリーム</target>
+        <note>Class = "UILabel"; text = "クリーム"; ObjectID = "Ulk-k8-LPa";</note>
+      </trans-unit>
+      <trans-unit id="UyJ-mJ-KK6.text" xml:space="preserve">
+        <source>ナスコン</source>
+        <target>ナスコン</target>
+        <note>Class = "UILabel"; text = "ナスコン"; ObjectID = "UyJ-mJ-KK6";</note>
+      </trans-unit>
+      <trans-unit id="Y7V-Dp-LQ1.text" xml:space="preserve">
+        <source>ディープグリーン</source>
+        <target>ディープグリーン</target>
+        <note>Class = "UILabel"; text = "ディープグリーン"; ObjectID = "Y7V-Dp-LQ1";</note>
+      </trans-unit>
+      <trans-unit id="Zxe-pz-ded.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "Zxe-pz-ded";</note>
+      </trans-unit>
+      <trans-unit id="bjy-CD-gcs.text" xml:space="preserve">
+        <source>屋根用標準色</source>
+        <target>屋根用標準色</target>
+        <note>Class = "UILabel"; text = "屋根用標準色"; ObjectID = "bjy-CD-gcs";</note>
+      </trans-unit>
+      <trans-unit id="ceV-2k-4ab.text" xml:space="preserve">
+        <source>アーモンドブラウン</source>
+        <target>アーモンドブラウン</target>
+        <note>Class = "UILabel"; text = "アーモンドブラウン"; ObjectID = "ceV-2k-4ab";</note>
+      </trans-unit>
+      <trans-unit id="cpU-OI-1VE.text" xml:space="preserve">
+        <source>ニューグレー</source>
+        <target>ニューグレー</target>
+        <note>Class = "UILabel"; text = "ニューグレー"; ObjectID = "cpU-OI-1VE";</note>
+      </trans-unit>
+      <trans-unit id="fG9-98-w2q.text" xml:space="preserve">
+        <source>ブルー</source>
+        <target>ブルー</target>
+        <note>Class = "UILabel"; text = "ブルー"; ObjectID = "fG9-98-w2q";</note>
+      </trans-unit>
+      <trans-unit id="g7x-Vq-cMU.text" xml:space="preserve">
+        <source>赤さび色</source>
+        <target>赤さび色</target>
+        <note>Class = "UILabel"; text = "赤さび色"; ObjectID = "g7x-Vq-cMU";</note>
+      </trans-unit>
+      <trans-unit id="ggk-oN-KAU.text" xml:space="preserve">
+        <source>レッドブラウン</source>
+        <target>レッドブラウン</target>
+        <note>Class = "UILabel"; text = "レッドブラウン"; ObjectID = "ggk-oN-KAU";</note>
+      </trans-unit>
+      <trans-unit id="hfI-CU-ipQ.text" xml:space="preserve">
+        <source>フレッシュグリーン</source>
+        <target>フレッシュグリーン</target>
+        <note>Class = "UILabel"; text = "フレッシュグリーン"; ObjectID = "hfI-CU-ipQ";</note>
+      </trans-unit>
+      <trans-unit id="hiI-fh-ePj.text" xml:space="preserve">
+        <source>カカオブラウン</source>
+        <target>カカオブラウン</target>
+        <note>Class = "UILabel"; text = "カカオブラウン"; ObjectID = "hiI-fh-ePj";</note>
+      </trans-unit>
+      <trans-unit id="jw3-qY-Anm.text" xml:space="preserve">
+        <source>オリーブグリーン</source>
+        <target>オリーブグリーン</target>
+        <note>Class = "UILabel"; text = "オリーブグリーン"; ObjectID = "jw3-qY-Anm";</note>
+      </trans-unit>
+      <trans-unit id="ktW-s6-0nz.text" xml:space="preserve">
+        <source>コーヒーブラック</source>
+        <target>コーヒーブラック</target>
+        <note>Class = "UILabel"; text = "コーヒーブラック"; ObjectID = "ktW-s6-0nz";</note>
+      </trans-unit>
+      <trans-unit id="lmd-6F-WXe.text" xml:space="preserve">
+        <source>ブルーブラック</source>
+        <target>ブルーブラック</target>
+        <note>Class = "UILabel"; text = "ブルーブラック"; ObjectID = "lmd-6F-WXe";</note>
+      </trans-unit>
+      <trans-unit id="lsc-3T-SLE.text" xml:space="preserve">
+        <source>スレートグレー</source>
+        <target>スレートグレー</target>
+        <note>Class = "UILabel"; text = "スレートグレー"; ObjectID = "lsc-3T-SLE";</note>
+      </trans-unit>
+      <trans-unit id="r6L-x4-jLV.text" xml:space="preserve">
+        <source>こげ茶</source>
+        <target>こげ茶</target>
+        <note>Class = "UILabel"; text = "こげ茶"; ObjectID = "r6L-x4-jLV";</note>
+      </trans-unit>
+      <trans-unit id="rHv-f6-Je9.text" xml:space="preserve">
+        <source>ライトグリーン</source>
+        <target>ライトグリーン</target>
+        <note>Class = "UILabel"; text = "ライトグリーン"; ObjectID = "rHv-f6-Je9";</note>
+      </trans-unit>
+      <trans-unit id="t5V-6M-01h.text" xml:space="preserve">
+        <source>モスグリーン</source>
+        <target>モスグリーン</target>
+        <note>Class = "UILabel"; text = "モスグリーン"; ObjectID = "t5V-6M-01h";</note>
+      </trans-unit>
+      <trans-unit id="tN8-W5-4ub.text" xml:space="preserve">
+        <source>黒</source>
+        <target>黒</target>
+        <note>Class = "UILabel"; text = "黒"; ObjectID = "tN8-W5-4ub";</note>
+      </trans-unit>
+      <trans-unit id="vVh-o3-EJB.text" xml:space="preserve">
+        <source>グリーン</source>
+        <target>グリーン</target>
+        <note>Class = "UILabel"; text = "グリーン"; ObjectID = "vVh-o3-EJB";</note>
+      </trans-unit>
+      <trans-unit id="z92-hF-JBf.text" xml:space="preserve">
+        <source>コバルトブルー</source>
+        <target>コバルトブルー</target>
+        <note>Class = "UILabel"; text = "コバルトブルー"; ObjectID = "z92-hF-JBf";</note>
+      </trans-unit>
+      <trans-unit id="zuU-V1-eZc.text" xml:space="preserve">
+        <source>ダークグリーン</source>
+        <target>ダークグリーン</target>
+        <note>Class = "UILabel"; text = "ダークグリーン"; ObjectID = "zuU-V1-eZc";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/en.lproj/AFNetworking.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="Expected URL to be a file URL" xml:space="preserve">
+        <source>Expected URL to be a file URL</source>
+        <target>Expected URL to be a file URL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected content type %@, got %@" xml:space="preserve">
+        <source>Expected content type %1$@, got %2$@</source>
+        <target>Expected content type %1$@, got %2$@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected status code in (%@), got %d" xml:space="preserve">
+        <source>Expected status code in (%1$@), got %2$d</source>
+        <target>Expected status code in (%1$@), got %2$d</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File URL not reachable." xml:space="preserve">
+        <source>File URL not reachable.</source>
+        <target>File URL not reachable.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>i Color Paint</source>
+        <target>i Color Paint</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Decorator</source>
+        <target>Decorator</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>写真を撮影し、建物をカラーシミュレーションするためにiColorPaintがカメラへのアクセスを求めています。</source>
+        <target>写真を撮影し、建物をカラーシミュレーションするためにiColorPaintがカメラへのアクセスを求めています。</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Location is required to find out where you are</source>
+        <target>Location is required to find out where you are</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source>iColorPaint would like to addition your Library</source>
+        <target>iColorPaint would like to addition your Library</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>撮影した写真で建物をカラーシミュレーションのためにiColorPaintが写真へのアクセスを求めています。</source>
+        <target>撮影した写真で建物をカラーシミュレーションのためにiColorPaintが写真へのアクセスを求めています。</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+      <trans-unit id="i Color paint document" xml:space="preserve">
+        <source>i Color paint document</source>
+        <target>i Color paint document</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Decorator/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="1minute" xml:space="preserve">
+        <source>1minute</source>
+        <target>1minute</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="2minute" xml:space="preserve">
+        <source>2minute</source>
+        <target>2minute</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="10second" xml:space="preserve">
+        <source>10second</source>
+        <target>10second</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30second" xml:space="preserve">
+        <source>30second</source>
+        <target>30second</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Copied" xml:space="preserve">
+        <source>Copied</source>
+        <target>Copied</target>
+        <note>Informing the user an item has finished copying</note>
+      </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <target>Copy</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Copying" xml:space="preserve">
+        <source>Copying</source>
+        <target>Copying</target>
+        <note>Displayed with ellipsis as 'Copying...' when an item is in the process of being copied</note>
+      </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target>Dismiss</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email" xml:space="preserve">
+        <source>Email</source>
+        <target>Email</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email failed to send. Please try again." xml:space="preserve">
+        <source>Email failed to send. Please try again.</source>
+        <target>Email failed to send. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed" xml:space="preserve">
+        <source>Failed</source>
+        <target>Failed</target>
+        <note>Informing the user a process has failed</note>
+      </trans-unit>
+      <trans-unit id="Photo" xml:space="preserve">
+        <source>Photo</source>
+        <target>Photo</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>Preparing</target>
+        <note>Displayed with ellipsis as 'Preparing...' when an item is in the process of being prepared</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target>Save</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved" xml:space="preserve">
+        <source>Saved</source>
+        <target>Saved</target>
+        <note>Informing the user an item has been saved</note>
+      </trans-unit>
+      <trans-unit id="Saving" xml:space="preserve">
+        <source>Saving</source>
+        <target>Saving</target>
+        <note>Displayed with ellipsis as 'Saving...' when an item is in the process of being saved</note>
+      </trans-unit>
+      <trans-unit id="activation_expired" xml:space="preserve">
+        <source>activation_expired</source>
+        <target>activation_expired</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="album" xml:space="preserve">
+        <source>album</source>
+        <target>album</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="back" xml:space="preserve">
+        <source>back</source>
+        <target>back</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="before_process" xml:space="preserve">
+        <source>before_process</source>
+        <target>before_process</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="camera" xml:space="preserve">
+        <source>camera</source>
+        <target>camera</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="cancel" xml:space="preserve">
+        <source>cancel</source>
+        <target>cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="cannot_register" xml:space="preserve">
+        <source>cannot_register</source>
+        <target>cannot_register</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="character_require" xml:space="preserve">
+        <source>character_require</source>
+        <target>character_require</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="close" xml:space="preserve">
+        <source>close</source>
+        <target>close</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="construction" xml:space="preserve">
+        <source>construction</source>
+        <target>construction</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="continue" xml:space="preserve">
+        <source>continue</source>
+        <target>continue</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="copy_confirmation" xml:space="preserve">
+        <source>copy_confirmation</source>
+        <target>copy_confirmation</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="create_at" xml:space="preserve">
+        <source>create_at</source>
+        <target>create_at</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="creating_plan" xml:space="preserve">
+        <source>creating_plan</source>
+        <target>creating_plan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="delete" xml:space="preserve">
+        <source>delete</source>
+        <target>delete</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="delete_confirmation" xml:space="preserve">
+        <source>delete_confirmation</source>
+        <target>delete_confirmation</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="designer" xml:space="preserve">
+        <source>designer</source>
+        <target>designer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_connection_error" xml:space="preserve">
+        <source>email_connection_error</source>
+        <target>email_connection_error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_existed" xml:space="preserve">
+        <source>email_existed</source>
+        <target>email_existed</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_incorrect" xml:space="preserve">
+        <source>email_incorrect</source>
+        <target>email_incorrect</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_not_exist" xml:space="preserve">
+        <source>email_not_exist</source>
+        <target>email_not_exist</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_not_match" xml:space="preserve">
+        <source>email_not_match</source>
+        <target>email_not_match</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_send_error" xml:space="preserve">
+        <source>email_send_error</source>
+        <target>email_send_error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="email_sent" xml:space="preserve">
+        <source>email_sent</source>
+        <target>email_sent</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enter_plan_name" xml:space="preserve">
+        <source>enter_plan_name</source>
+        <target>enter_plan_name</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enter_plan_name_description" xml:space="preserve">
+        <source>enter_plan_name_description</source>
+        <target>enter_plan_name_description</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enter_your_id" xml:space="preserve">
+        <source>enter_your_id</source>
+        <target>enter_your_id</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="enter_your_id_password" xml:space="preserve">
+        <source>enter_your_id_password</source>
+        <target>enter_your_id_password</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="expired_error_msg" xml:space="preserve">
+        <source>expired_error_msg</source>
+        <target>expired_error_msg</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="gateway_error" xml:space="preserve">
+        <source>gateway_error</source>
+        <target>gateway_error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="goverment" xml:space="preserve">
+        <source>goverment</source>
+        <target>goverment</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="hide_guide" xml:space="preserve">
+        <source>hide_guide</source>
+        <target>hide_guide</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="home" xml:space="preserve">
+        <source>home</source>
+        <target>home</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="house_name" xml:space="preserve">
+        <source>house_name</source>
+        <target>house_name</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="id_error" xml:space="preserve">
+        <source>id_error</source>
+        <target>id_error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="id_login" xml:space="preserve">
+        <source>id_login</source>
+        <target>id_login</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="input_error" xml:space="preserve">
+        <source>input_error</source>
+        <target>input_error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="input_not_correct" xml:space="preserve">
+        <source>input_not_correct</source>
+        <target>input_not_correct</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="input_wrong" xml:space="preserve">
+        <source>input_wrong</source>
+        <target>input_wrong</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="internet_error" xml:space="preserve">
+        <source>internet_error</source>
+        <target>internet_error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="login_fail" xml:space="preserve">
+        <source>login_fail</source>
+        <target>login_fail</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="manufacturer" xml:space="preserve">
+        <source>manufacturer</source>
+        <target>manufacturer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="no" xml:space="preserve">
+        <source>no</source>
+        <target>no</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="not_receive_mail" xml:space="preserve">
+        <source>not_receive_mail</source>
+        <target>not_receive_mail</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="of" xml:space="preserve">
+        <source>of</source>
+        <target>of</target>
+        <note>Used in the context: 'Showing 1 of 3 items'</note>
+      </trans-unit>
+      <trans-unit id="ok" xml:space="preserve">
+        <source>ok</source>
+        <target>ok</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="other" xml:space="preserve">
+        <source>other</source>
+        <target>other</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="overwrite_original_image" xml:space="preserve">
+        <source>overwrite_original_image</source>
+        <target>overwrite_original_image</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="owner" xml:space="preserve">
+        <source>owner</source>
+        <target>owner</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="paint" xml:space="preserve">
+        <source>paint</source>
+        <target>paint</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="passcode" xml:space="preserve">
+        <source>passcode</source>
+        <target>passcode</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="password_not_match" xml:space="preserve">
+        <source>password_not_match</source>
+        <target>password_not_match</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="plastering" xml:space="preserve">
+        <source>plastering</source>
+        <target>plastering</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="receive_mail" xml:space="preserve">
+        <source>receive_mail</source>
+        <target>receive_mail</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="replace_color_confirmation" xml:space="preserve">
+        <source>replace_color_confirmation</source>
+        <target>replace_color_confirmation</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="required" xml:space="preserve">
+        <source>required</source>
+        <target>required</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="sale_outlet" xml:space="preserve">
+        <source>sale_outlet</source>
+        <target>sale_outlet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="save_plan_confirmation" xml:space="preserve">
+        <source>save_plan_confirmation</source>
+        <target>save_plan_confirmation</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="search_postal_code" xml:space="preserve">
+        <source>search_postal_code</source>
+        <target>search_postal_code</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="send_bluetooth" xml:space="preserve">
+        <source>send_bluetooth</source>
+        <target>send_bluetooth</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="send_mail" xml:space="preserve">
+        <source>send_mail</source>
+        <target>send_mail</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="show_guide" xml:space="preserve">
+        <source>show_guide</source>
+        <target>show_guide</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="title_autosave" xml:space="preserve">
+        <source>title_autosave</source>
+        <target>title_autosave</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="totalday" xml:space="preserve">
+        <source>totalday</source>
+        <target>totalday</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="waterproofing" xml:space="preserve">
+        <source>waterproofing</source>
+        <target>waterproofing</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="yes" xml:space="preserve">
+        <source>yes</source>
+        <target>yes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

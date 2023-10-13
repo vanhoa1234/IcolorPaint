@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LayerPickerViewController">
+            <connections>
+                <outlet property="view" destination="2" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" style="plain" separatorStyle="default" rowHeight="56" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="Lc0-ha-8pd">
+                    <rect key="frame" x="0.0" y="88" width="414" height="716.66666666666663"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="9JY-lW-HD2"/>
+                        <outlet property="delegate" destination="-1" id="h8Y-zr-utf"/>
+                    </connections>
+                </tableView>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="26v-WV-yjW">
+                    <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="dPq-bK-dML"/>
+                    </constraints>
+                    <items>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="zCQ-2y-Koo"/>
+                        <barButtonItem image="closeButton.png" style="plain" id="WVO-28-TAu">
+                            <connections>
+                                <action selector="closeLayerPicker:" destination="-1" id="MjS-KC-r3M"/>
+                            </connections>
+                        </barButtonItem>
+                    </items>
+                </toolbar>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Danh sách các phần được hiển thị" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2u9-Sb-hPx">
+                    <rect key="frame" x="10" y="55.000000000000007" width="260.66666666666669" height="19.333333333333336"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="※Xin hãy chú ý loại sơn khác không được liên kết với hệ thống đặt hàng sơn." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vdq-ea-NJE">
+                    <rect key="frame" x="8" y="815.66666666666663" width="398" height="38.333333333333371"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="2u9-Sb-hPx" firstAttribute="top" secondItem="Eko-mR-Xgm" secondAttribute="top" constant="11" id="3Ac-N4-C3H"/>
+                <constraint firstItem="26v-WV-yjW" firstAttribute="top" secondItem="Eko-mR-Xgm" secondAttribute="top" id="78i-kZ-Egr"/>
+                <constraint firstAttribute="trailing" secondItem="26v-WV-yjW" secondAttribute="trailing" id="7fe-wV-Efy"/>
+                <constraint firstItem="26v-WV-yjW" firstAttribute="leading" secondItem="2" secondAttribute="leading" id="Izw-zW-pxj"/>
+                <constraint firstItem="2u9-Sb-hPx" firstAttribute="leading" secondItem="Eko-mR-Xgm" secondAttribute="leading" constant="10" id="PUT-89-d4r"/>
+                <constraint firstItem="Lc0-ha-8pd" firstAttribute="top" secondItem="26v-WV-yjW" secondAttribute="bottom" id="TvD-Yu-f8k"/>
+                <constraint firstItem="vdq-ea-NJE" firstAttribute="top" secondItem="Lc0-ha-8pd" secondAttribute="bottom" constant="11" id="UhK-bj-wgg"/>
+                <constraint firstAttribute="trailing" secondItem="vdq-ea-NJE" secondAttribute="trailing" constant="8" id="WOr-iz-hXE"/>
+                <constraint firstItem="Eko-mR-Xgm" firstAttribute="bottom" secondItem="vdq-ea-NJE" secondAttribute="bottom" constant="8" id="n54-FN-Fil"/>
+                <constraint firstItem="Lc0-ha-8pd" firstAttribute="leading" secondItem="Eko-mR-Xgm" secondAttribute="leading" id="xrb-ye-UHf"/>
+                <constraint firstItem="vdq-ea-NJE" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="8" id="zg3-q7-ALN"/>
+                <constraint firstItem="Eko-mR-Xgm" firstAttribute="trailing" secondItem="Lc0-ha-8pd" secondAttribute="trailing" id="zy0-9u-clR"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <viewLayoutGuide key="safeArea" id="Eko-mR-Xgm"/>
+            <point key="canvasLocation" x="131" y="86"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="closeButton.png" width="16" height="16"/>
+    </resources>
+</document>

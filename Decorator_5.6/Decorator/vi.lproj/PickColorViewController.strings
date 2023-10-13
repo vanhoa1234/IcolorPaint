@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Màu gần nhất với màu đã chọn"; ObjectID = "2eD-ev-Xc7"; */
+"2eD-ev-Xc7.text" = "Màu gần nhất với màu đã chọn";
+
+/* Class = "UILabel"; text = "Camera"; ObjectID = "EwI-5V-lb2"; */
+"EwI-5V-lb2.text" = "Camera";
+
+/* Class = "UIButton"; normalTitle = "Hủy bỏ"; ObjectID = "JsT-h9-W9s"; */
+"JsT-h9-W9s.normalTitle" = "Hủy bỏ";
+
+/* Class = "UILabel"; text = "Chọn màu"; ObjectID = "Ms8-4m-qW9"; */
+"Ms8-4m-qW9.text" = "Màu đã chọn";
+
+/* Class = "UILabel"; text = "Ảnh"; ObjectID = "TpE-Fd-ded"; */
+"TpE-Fd-ded.text" = "Ảnh";
+
+/* Class = "UIButton"; normalTitle = "Chọn"; ObjectID = "heT-K1-wuW"; */
+"heT-K1-wuW.normalTitle" = "Chọn";
+
+/* Class = "UILabel"; text = "Album"; ObjectID = "hyX-ln-iEL"; */
+"hyX-ln-iEL.text" = "Album";
+
+/* Class = "UILabel"; text = "Nguồn màu"; ObjectID = "ilt-QS-qj9"; */
+"ilt-QS-qj9.text" = "Nguồn màu";
+
+/* Class = "UILabel"; text = "Chọn \"Màu đã chọn\" hoặc \"Màu gần nhất với màu đã chọn\" và chạm vào [OK]."; ObjectID = "zOM-b3-aMQ"; */
+"zOM-b3-aMQ.text" = "Chọn \"Màu đã chọn\" hoặc \"Màu gần nhất với màu đã chọn\" và chạm vào [OK].";

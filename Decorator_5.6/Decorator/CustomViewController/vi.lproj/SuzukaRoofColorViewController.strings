@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "ナスコン"; ObjectID = "1P8-lj-hJM"; */
+"1P8-lj-hJM.text" = "Cà tím";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "3zf-iF-6fd"; */
+"3zf-iF-6fd.text" = "Sơn mái";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "Atp-lU-nmA"; */
+"Atp-lU-nmA.text" = "Sơn mái";
+
+/* Class = "UILabel"; text = "チャコールグレー"; ObjectID = "BWY-81-sp8"; */
+"BWY-81-sp8.text" = "Xám than";
+
+/* Class = "UILabel"; text = "ブルーブラック"; ObjectID = "Duf-KL-O0d"; */
+"Duf-KL-O0d.text" = "Đen xanh";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "EMU-5X-Mg3"; */
+"EMU-5X-Mg3.normalTitle" = "Chọn";
+
+/* Class = "UILabel"; text = "モスグリーン"; ObjectID = "Fl5-4g-8kf"; */
+"Fl5-4g-8kf.text" = "Xanh rêu";
+
+/* Class = "UILabel"; text = "コバルトブルー"; ObjectID = "J36-W3-ahz"; */
+"J36-W3-ahz.text" = "Xanh coban";
+
+/* Class = "UILabel"; text = "カカオブラウン"; ObjectID = "KWv-Dm-x9V"; */
+"KWv-Dm-x9V.text" = "Nâu cacao";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "LR2-kr-IFO"; */
+"LR2-kr-IFO.normalTitle" = "Thoát";
+
+/* Class = "UILabel"; text = "ロイヤルブルー"; ObjectID = "T1N-Kr-PdH"; */
+"T1N-Kr-PdH.text" = "Xanh hoàng gia";
+
+/* Class = "UILabel"; text = "ブラック"; ObjectID = "U3T-J8-IFC"; */
+"U3T-J8-IFC.text" = "Đen";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "UHE-cx-fwd"; */
+"UHE-cx-fwd.normalTitle" = "Thoát";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "WIx-SN-hRk"; */
+"WIx-SN-hRk.normalTitle" = "Chọn";
+
+/* Class = "UILabel"; text = "ディープグリーン"; ObjectID = "ceV-2k-4ab"; */
+"ceV-2k-4ab.text" = "Xanh thẫm";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "ck9-yh-Ys2"; */
+"ck9-yh-Ys2.text" = "Thoát";
+
+/* Class = "UILabel"; text = "ニューグレー"; ObjectID = "cpU-OI-1VE"; */
+"cpU-OI-1VE.text" = "Xám ghi";
+
+/* Class = "UILabel"; text = "ダークグレー"; ObjectID = "hiI-fh-ePj"; */
+"hiI-fh-ePj.text" = "Xám đậm";
+
+/* Class = "UILabel"; text = "ブラウン"; ObjectID = "jw3-qY-Anm"; */
+"jw3-qY-Anm.text" = "Nâu";
+
+/* Class = "UILabel"; text = "レッドブラウン"; ObjectID = "ktW-s6-0nz"; */
+"ktW-s6-0nz.text" = "Nâu đỏ";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "quU-Dk-FTa"; */
+"quU-Dk-FTa.text" = "Sơn mái";
+
+/* Class = "UILabel"; text = "ニューチョコレート"; ObjectID = "r6L-x4-jLV"; */
+"r6L-x4-jLV.text" = "Socola tươi";
+
+/* Class = "UILabel"; text = "屋根用標準色"; ObjectID = "xce-Ql-pa5"; */
+"xce-Ql-pa5.text" = "Sơn mái";
+
+/* Class = "UILabel"; text = "ワインブラウン"; ObjectID = "z92-hF-JBf"; */
+"z92-hF-JBf.text" = "Rượu nâu";
+
+/* Class = "UILabel"; text = "オーシャンブルー"; ObjectID = "zuU-V1-eZc"; */
+"zuU-V1-eZc.text" = "Xanh dương";

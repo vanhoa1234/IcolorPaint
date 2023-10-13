@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "仮登録が完了しました"; ObjectID = "hXd-U6-wh9"; */
+"hXd-U6-wh9.text" = "仮登録が完了しました";
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "hrv-hG-SOg"; */
+"hrv-hG-SOg.normalTitle" = "戻る";
+
+/* Class = "UILabel"; text = "申請いただきましたメールアドレス宛に仮登録完了のメールをお送りしました。\n\nメールをご確認頂き、メール内のURLをクリックし、登録を完了させてください。\n"; ObjectID = "nzb-Su-vzc"; */
+"nzb-Su-vzc.text" = "申請いただきましたメールアドレス宛に仮登録完了のメールをお送りしました。\n\nメールをご確認頂き、メール内のURLをクリックし、登録を完了させてください。\n";
+
+/* Class = "UILabel"; text = "仮登録が完了いたしました。\n"; ObjectID = "oAC-uD-9Vu"; */
+"oAC-uD-9Vu.text" = "仮登録が完了いたしました。\n";

@@ -1,0 +1,177 @@
+
+/* Class = "UILabel"; text = "-"; ObjectID = "19J-6t-FhO"; */
+"19J-6t-FhO.text" = "-";
+
+/* Class = "UILabel"; text = "※確認のため、パスワードを再度ご記入ください。"; ObjectID = "1rV-V5-bxy"; */
+"1rV-V5-bxy.text" = "※Vui lòng nhập lại mật khẩu để xác nhận.";
+
+/* Class = "UILabel"; text = "※８〜１６文字の半角英数字でご記入ください。"; ObjectID = "2sS-57-dXw"; */
+"2sS-57-dXw.text" = "※Vui lòng nhập 8 ~ 16 ký tự.";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "42s-Dy-reb"; */
+"42s-Dy-reb.text" = "※Bắt buộc";
+
+/* Class = "UIButton"; normalTitle = "塗装業"; ObjectID = "4MC-UC-M09"; */
+"4MC-UC-M09.normalTitle" = "Sơn";
+
+/* Class = "UILabel"; text = "郵便番号"; ObjectID = "6tZ-OU-FVO"; */
+"6tZ-OU-FVO.text" = "Mã bưu điện";
+
+/* Class = "UILabel"; text = "メールアドレス\n(ID)"; ObjectID = "7BY-hn-9yr"; */
+"7BY-hn-9yr.text" = "Email \n(ID)";
+
+/* Class = "UILabel"; text = "〒"; ObjectID = "7ND-1j-MiU"; */
+"7ND-1j-MiU.text" = "〒";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "8lm-sU-GLd"; */
+"8lm-sU-GLd.text" = "";
+
+/* Class = "UILabel"; text = "業種"; ObjectID = "9uM-Pn-YPA"; */
+"9uM-Pn-YPA.text" = "Ngành nghề";
+
+/* Class = "UILabel"; text = "※お仕事でご利用の場合は、ご記入をお願いいたします。\n※文字化けの恐れがありますので、法人等の略号はご使用にならないでください。株式会社、有限会社などとご記入願います。"; ObjectID = "DDn-w6-x6q"; */
+"DDn-w6-x6q.text" = "※Vui lòng điền thông tin này nếu bạn sử dụng trong công việc.\n※Để tránh trường hợp lỗi font chữ, vui lòng không sử dụng tên viết tắt công ty. Hãy điền đầy đủ tên Công ty như Công ty Cổ phần, Công ty Trách nhiệm Hữu hạn…";
+
+/* Class = "UILabel"; text = "ご登録いただく氏名は本名でお願いいたします。ニックネームなど、本名以外でのご登録や、会社名・住所・電話番号などが虚偽のおそれがある場合は、IDを削除させていただきます。"; ObjectID = "Dga-3U-E6F"; */
+"Dga-3U-E6F.text" = "Vui lòng sử dụng tên thật của bạn để đăng ký thành viên. Chúng tôi sẽ xóa tài khoản của bạn nếu nghi ngờ đăng ký không đúng các thông tin cá nhân như tên công ty, địa chỉ, số điện thoại.";
+
+/* Class = "UILabel"; text = "役職名"; ObjectID = "HEq-Aj-8RC"; */
+"HEq-Aj-8RC.text" = "Chức vụ";
+
+/* Class = "UILabel"; text = "お客様情報入力"; ObjectID = "Hen-F1-LhK"; */
+"Hen-F1-LhK.text" = "Điền thông tin khách hàng";
+
+/* Class = "UIButton"; normalTitle = "防水業"; ObjectID = "JLj-x2-f3q"; */
+"JLj-x2-f3q.normalTitle" = "C.Thấm";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "Jfa-8i-7im"; */
+"Jfa-8i-7im.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "設　計"; ObjectID = "JvN-mW-4QQ"; */
+"JvN-mW-4QQ.normalTitle" = "Thiết kế";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "KPv-hk-cwf"; */
+"KPv-hk-cwf.text" = "-";
+
+/* Class = "UILabel"; text = "住所"; ObjectID = "Lh5-T0-IRx"; */
+"Lh5-T0-IRx.text" = "Địa chỉ";
+
+/* Class = "UILabel"; text = "案内メール"; ObjectID = "Ljf-c5-Ny1"; */
+"Ljf-c5-Ny1.text" = "Mail thông báo";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "MZp-H8-ChZ"; */
+"MZp-H8-ChZ.text" = "※Bắt buộc";
+
+/* Class = "UIButton"; normalTitle = "建設業"; ObjectID = "MnE-bX-aUk"; */
+"MnE-bX-aUk.normalTitle" = "X.Dựng";
+
+/* Class = "UILabel"; text = "（確認用）"; ObjectID = "Mws-MY-Ubz"; */
+"Mws-MY-Ubz.text" = "";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "Ndt-Le-Ch1"; */
+"Ndt-Le-Ch1.text" = "※Bắt buộc";
+
+/* Class = "UILabel"; text = "メイ"; ObjectID = "OG4-nD-MqY"; */
+"OG4-nD-MqY.text" = "Tên";
+
+/* Class = "UILabel"; text = "セイ"; ObjectID = "PGu-Rv-fIc"; */
+"PGu-Rv-fIc.text" = "Họ";
+
+/* Class = "UILabel"; text = "氏名（フリガナ）"; ObjectID = "Psu-b3-GoD"; */
+"Psu-b3-GoD.text" = "Họ tên";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "RFd-3u-E6k"; */
+"RFd-3u-E6k.text" = "※Bắt buộc";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "RoU-IO-2Wl"; */
+"RoU-IO-2Wl.text" = "※Bắt buộc";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "TPF-wR-H2Y"; */
+"TPF-wR-H2Y.normalTitle" = "Đăng ký";
+
+/* Class = "UILabel"; text = "※郵便番号を入力すると住所が検索されます。"; ObjectID = "UIU-tN-od1"; */
+"UIU-tN-od1.text" = "※Địa chỉ sẽ tự động được điền sau khi bạn điền mã bưu điện.";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "UWo-ZS-W2T"; */
+"UWo-ZS-W2T.text" = "Quay lại";
+
+/* Class = "UIButton"; normalTitle = "左官業"; ObjectID = "Ud2-Uw-Op5"; */
+"Ud2-Uw-Op5.normalTitle" = "Xây trát";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "W4S-JG-jen"; */
+"W4S-JG-jen.text" = "※Bắt buộc";
+
+/* Class = "UILabel"; text = "FAX番号"; ObjectID = "Wlx-lQ-bBK"; */
+"Wlx-lQ-bBK.text" = "FAX";
+
+/* Class = "UILabel"; text = "会社・組織・団体名"; ObjectID = "WnP-ek-pIJ"; */
+"WnP-ek-pIJ.text" = "Tên Công ty/Tổ chức";
+
+/* Class = "UILabel"; text = "名"; ObjectID = "WpR-Om-ibe"; */
+"WpR-Om-ibe.text" = "Tên";
+
+/* Class = "UILabel"; text = "姓"; ObjectID = "XQg-Jn-5i3"; */
+"XQg-Jn-5i3.text" = "Họ";
+
+/* Class = "UILabel"; text = "※ 業者様向けのご案内になります。"; ObjectID = "Xby-b7-79E"; */
+"Xby-b7-79E.text" = "※ Thông tin dành cho doanh nghiệp";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "YZR-Tg-W7I"; */
+"YZR-Tg-W7I.text" = "-";
+
+/* Class = "UILabel"; text = "部署名"; ObjectID = "c1y-fB-DVU"; */
+"c1y-fB-DVU.text" = "Bộ phận";
+
+/* Class = "UILabel"; text = "当社からの製品情報などのメールを希望する。"; ObjectID = "dSg-mi-bIU"; */
+"dSg-mi-bIU.text" = "Muốn nhận mail thông tin sản phẩm từ công ty.";
+
+/* Class = "UILabel"; text = "パスワード"; ObjectID = "fSt-IY-LU6"; */
+"fSt-IY-LU6.text" = "Mật khẩu";
+
+/* Class = "UILabel"; text = "（確認用）"; ObjectID = "fi4-PG-Cri"; */
+"fi4-PG-Cri.text" = "";
+
+/* Class = "UILabel"; text = "新規登録画面"; ObjectID = "g0v-lY-Q0Y"; */
+"g0v-lY-Q0Y.text" = "Đăng ký mới";
+
+/* Class = "UIButton"; normalTitle = "その他"; ObjectID = "gbt-px-EW3"; */
+"gbt-px-EW3.normalTitle" = "Khác";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "gt0-mQ-1hq"; */
+"gt0-mQ-1hq.text" = "※Bắt buộc";
+
+/* Class = "UILabel"; text = "氏名（漢字）"; ObjectID = "lUs-9C-954"; */
+"lUs-9C-954.text" = "Họ tên (chữ Hán)";
+
+/* Class = "UILabel"; text = "※確認のため、メールアドレスを再度ご記入ください。"; ObjectID = "lZA-UT-l4X"; */
+"lZA-UT-l4X.text" = "※Vui lòng nhập lại Email để xác nhận";
+
+/* Class = "UILabel"; text = "建物名・部屋番号"; ObjectID = "lno-Hg-yD4"; */
+"lno-Hg-yD4.text" = "Tên tòa nhà/Số phòng";
+
+/* Class = "UILabel"; text = "電話番号"; ObjectID = "nHM-CW-1pn"; */
+"nHM-CW-1pn.text" = "Số điện thoại";
+
+/* Class = "UIButton"; normalTitle = "施　主"; ObjectID = "oRN-g1-nEu"; */
+"oRN-g1-nEu.normalTitle" = "Đầu tư";
+
+/* Class = "UIButton"; normalTitle = "官公庁"; ObjectID = "pVg-O4-U22"; */
+"pVg-O4-U22.normalTitle" = "Vp.C.phủ";
+
+/* Class = "UIButton"; normalTitle = "販売店"; ObjectID = "pco-x9-C9O"; */
+"pco-x9-C9O.normalTitle" = "CH.PP";
+
+/* Class = "UIButton"; normalTitle = "メーカー"; ObjectID = "sBy-ds-ceM"; */
+"sBy-ds-ceM.normalTitle" = "Nhà SX";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "xxQ-Kz-jsF"; */
+"xxQ-Kz-jsF.text" = "※Bắt buộc";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "yKc-FI-bOr"; */
+"yKc-FI-bOr.text" = "-";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "z08-dU-VgN"; */
+"z08-dU-VgN.text" = "※Bắt buộc";
+
+/* Class = "UILabel"; text = "※必須"; ObjectID = "wOO-hu-ymj"; */
+"wOO-hu-ymj.text" = "※Cần kết nối internet để thay đổi thông tin đăng ký.";

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="ipad10_2" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="810" height="1080"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BG_02.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="ZqO-KS-kUD">
+                                <rect key="frame" x="0.0" y="0.0" width="810" height="1080"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icolorpaintLogo.png" translatesAutoresizingMaskIntoConstraints="NO" id="2o4-qW-h2A">
+                                <rect key="frame" x="131.5" y="440" width="547" height="200"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="3BQ-Qy-DOr"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="ZqO-KS-kUD" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="2XJ-cD-nDe"/>
+                            <constraint firstItem="ZqO-KS-kUD" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="B35-5y-OMe"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="2o4-qW-h2A" secondAttribute="trailing" constant="20" id="DOM-Zk-fTj"/>
+                            <constraint firstItem="2o4-qW-h2A" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="HUN-Pr-1bV"/>
+                            <constraint firstItem="2o4-qW-h2A" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Ze5-6b-2t3" secondAttribute="leading" constant="20" id="Vod-pK-R6b"/>
+                            <constraint firstAttribute="bottom" secondItem="ZqO-KS-kUD" secondAttribute="bottom" id="bfs-Hs-DNQ"/>
+                            <constraint firstItem="ZqO-KS-kUD" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="iQI-5i-ijG"/>
+                            <constraint firstItem="2o4-qW-h2A" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="t0f-ff-7Cz"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="374.33035714285711"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="BG_02.jpg" width="1024" height="768"/>
+        <image name="icolorpaintLogo.png" width="547" height="207"/>
+    </resources>
+</document>

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "レイアウト"; ObjectID = "4iV-3X-Pwy"; */
+"4iV-3X-Pwy.text" = "レイアウト";
+
+/* Class = "UILabel"; text = "物件名"; ObjectID = "MqA-FJ-eZP"; */
+"MqA-FJ-eZP.text" = "物件名";
+
+/* Class = "UILabel"; text = "コピー／削除"; ObjectID = "SPv-Yd-yob"; */
+"SPv-Yd-yob.text" = "コピー／削除";
+
+/* Class = "UILabel"; text = "データ出力"; ObjectID = "XE4-Vg-loX"; */
+"XE4-Vg-loX.text" = "データ出力";
+
+/* Class = "UILabel"; text = "シミュレーション"; ObjectID = "hbq-K2-idA"; */
+"hbq-K2-idA.text" = "シミュレーション";
+
+/* Class = "UILabel"; text = "撮影地"; ObjectID = "qEu-EQ-6ge"; */
+"qEu-EQ-6ge.text" = "撮影地";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "sYE-la-3H2"; */
+"sYE-la-3H2.text" = "戻る";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "uP8-R6-ew8"; */
+"uP8-R6-ew8.text" = "No";

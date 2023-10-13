@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "選択色に最も近い色"; ObjectID = "2eD-ev-Xc7"; */
+"2eD-ev-Xc7.text" = "選択色に最も近い色";
+
+/* Class = "UILabel"; text = "カメラ"; ObjectID = "EwI-5V-lb2"; */
+"EwI-5V-lb2.text" = "カメラ";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "JsT-h9-W9s"; */
+"JsT-h9-W9s.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "選択色"; ObjectID = "Ms8-4m-qW9"; */
+"Ms8-4m-qW9.text" = "選択色";
+
+/* Class = "UILabel"; text = "この写真"; ObjectID = "TpE-Fd-ded"; */
+"TpE-Fd-ded.text" = "この写真";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "heT-K1-wuW"; */
+"heT-K1-wuW.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "他の写真"; ObjectID = "hyX-ln-iEL"; */
+"hyX-ln-iEL.text" = "他の写真";
+
+/* Class = "UILabel"; text = "色の取得先"; ObjectID = "ilt-QS-qj9"; */
+"ilt-QS-qj9.text" = "色の取得先";
+
+/* Class = "UILabel"; text = "「選択色」または「選択色に最も 近い色」のどちらかを選択し、\n決定をタッチして下さい。"; ObjectID = "zOM-b3-aMQ"; */
+"zOM-b3-aMQ.text" = "「選択色」または「選択色に最も 近い色」のどちらかを選択し、\n決定をタッチして下さい。";

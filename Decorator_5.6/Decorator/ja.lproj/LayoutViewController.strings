@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "建築塗料の総合メーカー"; ObjectID = "Jtt-ri-U6k"; */
+"Jtt-ri-U6k.text" = "建築塗料の総合メーカー";
+
+/* Class = "UILabel"; text = "やり直し"; ObjectID = "LqN-l6-jfW"; */
+"LqN-l6-jfW.text" = "やり直し";
+
+/* Class = "UILabel"; text = "マスキング"; ObjectID = "N17-pK-EQi"; */
+"N17-pK-EQi.text" = "マスキング";
+
+/* Class = "UILabel"; text = "本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。\n実際の塗料の色とは異なる場合がありますので塗料をご発注する際には、現物の色票をご確認ください。"; ObjectID = "RgF-Sg-5zo"; */
+"RgF-Sg-5zo.text" = "本アプリケーションで表示される色はスズカファインが独自に測定したイメージ色です。\n実際の塗料の色とは異なる場合がありますので塗料をご発注する際には、現物の色票をご確認ください。";
+
+/* Class = "UILabel"; text = "出力"; ObjectID = "TIh-w9-hht"; */
+"TIh-w9-hht.text" = "出力";
+
+/* Class = "UILabel"; text = "PLAN 1"; ObjectID = "XU5-NP-edB"; */
+"XU5-NP-edB.text" = "PLAN 1";
+
+/* Class = "UILabel"; text = "トップ"; ObjectID = "YA8-wh-0He"; */
+"YA8-wh-0He.text" = "トップ";
+
+/* Class = "UILabel"; text = "部位"; ObjectID = "aUO-uG-C60"; */
+"aUO-uG-C60.text" = "部位";
+
+/* Class = "UILabel"; text = "元に戻す"; ObjectID = "bde-b3-3rm"; */
+"bde-b3-3rm.text" = "元に戻す";
+
+/* Class = "UILabel"; text = "色名"; ObjectID = "cBC-ob-JGR"; */
+"cBC-ob-JGR.text" = "色名";
+
+/* Class = "UILabel"; text = "背景変更"; ObjectID = "tlc-E9-j3O"; */
+"tlc-E9-j3O.text" = "背景変更";
+
+/* Class = "UILabel"; text = "コメント"; ObjectID = "v0w-d8-8aS"; */
+"v0w-d8-8aS.text" = "コメント";
+
+/* Class = "UIButton"; normalTitle = " 採用プラン"; ObjectID = "zo4-eV-mql"; */
+"zo4-eV-mql.normalTitle" = " 採用プラン";

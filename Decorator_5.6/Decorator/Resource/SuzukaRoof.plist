@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>ディープグリーン</string>
+	<string>モスグリーン</string>
+	<string>ブラウン</string>
+	<string>ダークグレー</string>
+	<string>レッドブラウン</string>
+	<string>ニューチョコレート</string>
+	<string>ワインブラウン</string>
+	<string>カカオブラウン</string>
+	<string>オーシャンブルー</string>
+	<string>コバルトブルー</string>
+	<string>ロイヤルブルー</string>
+	<string>ナスコン</string>
+	<string>ニューグレー</string>
+	<string>チャコールグレー</string>
+	<string>ブルーブラック</string>
+	<string>ブラック</string>
+</array>
+</plist>

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "7rx-wG-CCj"; */
+"7rx-wG-CCj.normalTitle" = "Chọn";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "9Qf-BO-Zh5"; */
+"9Qf-BO-Zh5.text" = "Thoát";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "NhV-ad-Olt"; */
+"NhV-ad-Olt.normalTitle" = "Thoát";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "bsQ-jm-efq"; */
+"bsQ-jm-efq.normalTitle" = "Thoát";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "o2P-ky-KnV"; */
+"o2P-ky-KnV.normalTitle" = "Chọn";

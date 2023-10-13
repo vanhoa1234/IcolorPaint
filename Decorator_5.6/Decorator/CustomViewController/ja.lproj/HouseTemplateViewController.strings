@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "2rD-EQ-ghf"; */
+"2rD-EQ-ghf.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "クラシック"; ObjectID = "53I-ec-y6o"; */
+"53I-ec-y6o.normalTitle" = "クラシック";
+
+/* Class = "UIButton"; normalTitle = "エレガント"; ObjectID = "L73-S5-QK9"; */
+"L73-S5-QK9.normalTitle" = "エレガント";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "TIU-Fs-vtX"; */
+"TIU-Fs-vtX.text" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "ナチュラル"; ObjectID = "jra-Ac-WFD"; */
+"jra-Ac-WFD.normalTitle" = "ナチュラル";
+
+/* Class = "UIButton"; normalTitle = "クール"; ObjectID = "km4-lt-ipX"; */
+"km4-lt-ipX.normalTitle" = "クール";

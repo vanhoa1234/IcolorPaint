@@ -1,0 +1,13 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "i Color Paint";
+/* Bundle name */
+"CFBundleName" = "Decorator";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "写真を撮影し、建物をカラーシミュレーションするためにiColorPaintがカメラへのアクセスを求めています。";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Location is required to find out where you are";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "iColorPaint would like to addition your Library";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "撮影した写真で建物をカラーシミュレーションのためにiColorPaintが写真へのアクセスを求めています。";
+"i Color paint document" = "i Color paint document";

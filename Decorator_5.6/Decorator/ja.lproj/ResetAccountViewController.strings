@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "ご登録メールアドレスにパスワードを送信いたします。\nメールアドレスを入力し、「送信」ボタンをクリックしてください。"; ObjectID = "AK1-ZQ-KYu"; */
+"AK1-ZQ-KYu.text" = "ご登録メールアドレスにパスワードを送信いたします。\nメールアドレスを入力し、「送信」ボタンをクリックしてください。";
+
+/* Class = "UILabel"; text = "※ ご登録のないメールアドレスには、送信されません。"; ObjectID = "TRR-W9-5sx"; */
+"TRR-W9-5sx.text" = "※ ご登録のないメールアドレスには、送信されません。";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "WQY-Gi-l4t"; */
+"WQY-Gi-l4t.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "戻る"; ObjectID = "nFb-fG-fhV"; */
+"nFb-fG-fhV.text" = "戻る";
